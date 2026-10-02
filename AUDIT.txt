@@ -1,0 +1,24 @@
+AUDIT AUTOMATIQUE DES BANQUES STRUCTUREES
+
+maths/geometrie-definitions.html : niveaux [10, 10, 10] — OK
+grammaire/sujet-verbe.html : niveaux [30, 30, 30] — OK
+histoire-geo/ancien-regime.html : niveaux [10, 10, 10] — OK
+histoire-geo/geographie-geoportail.html : niveaux [30, 30, 30] — OK
+conjugaison/present-1er-groupe.html : niveaux [10, 10, 10] — OK
+vocabulaire/dictionnaire-ordre-alphabetique.html : niveaux [10, 10, 10] — OK
+
+LIENS INTERNES MANQUANTS
+Aucun lien interne manquant détecté.
+
+CORRECTIONS EFFECTUEES
+- Réponse manquante corrigée dans Conjugaison, niveau 3, question sur la terminaison -ent.
+- Réponse incohérente corrigée dans Vocabulaire, niveau 3, question sur « chevaux » / « cheval ».
+- Menu principal regroupé en 4 matières.
+- Français réorganisé en Grammaire / Conjugaison / Orthographe / Vocabulaire.
+- Histoire-Géographie séparé visuellement en Histoire / Géographie.
+- Mélange aléatoire remplacé par Fisher-Yates.
+
+SCIENCES — SYSTÈME SOLAIRE
+- 90 questions : 30 par niveau, 10 tirées au hasard.
+- Vérification automatique : bonne réponse présente et 4 choix distincts pour chaque question.
+- Contenu limité à la leçon photographiée fournie le 19/09/2026.

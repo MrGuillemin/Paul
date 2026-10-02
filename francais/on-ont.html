@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>on / ont — Révision Quest</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<main>
+<section class="top"><h1>✍️ on / ont</h1><p>Observe, choisis et comprends la règle.</p></section>
+
+<section id="menu" class="card">
+  <div class="breadcrumb"><a href="../index.html">Accueil</a> › <a href="index.html">Français</a> › on / ont</div>
+  <div class="rule"><b>Règle :</b><br>
+• <b>ont</b> = verbe <i>avoir</i> avec <b>ils / elles</b>. On peut le remplacer par <b>avaient</b>.<br>
+• <b>on</b> = pronom personnel. On peut souvent le remplacer par <b>il</b> ou <b>elle</b>.</div>
+  <button class="purple" onclick="start()">Commencer l'exercice</button>
+</section>
+
+<section id="game" class="card hidden">
+  <div class="stats"><span>on / ont</span><span id="counter"></span></div>
+  <div class="progress"><div id="bar" class="bar"></div></div>
+  <p class="instruction">Choisis la bonne réponse.</p>
+  <div id="question" class="question"></div>
+  <div id="interaction"></div>
+  <div id="feedback" class="feedback hidden"></div>
+  <div style="display:flex;gap:10px;margin-top:14px;flex-wrap:wrap">
+    <button class="secondary" onclick="home()">← Chapitre</button>
+    <button id="next" class="purple hidden" onclick="nextQuestion()">Question suivante →</button>
+  </div>
+</section>
+
+<section id="result" class="card hidden">
+  <h2 style="text-align:center">Résultat</h2>
+  <div id="bigscore" class="bigscore"></div>
+  <div id="stars" class="stars"></div>
+  <p id="resultText" style="text-align:center"></p>
+  <div style="display:flex;justify-content:center;gap:10px;flex-wrap:wrap">
+    <button class="purple" onclick="start()">Rejouer</button>
+    <a class="button secondary" href="../orthographe/">Autres chapitres</a>
+  </div>
+</section>
+
+<footer><a href="../orthographe/">← Retour à Orthographe</a></footer>
+</main>
+
+<script src="../app.js"></script>
+<script>
+const questions=[["___ part à huit heures.", "on", "Ici, <b>on</b> est le sujet du verbe « part ». On pourrait dire « il part »."], ["Ils ___ terminé leur travail.", "ont", "On peut dire « Ils avaient terminé leur travail » : c’est le verbe avoir → <b>ont</b>."], ["___ joue dans le jardin.", "on", "« On » est le sujet de « joue ». On peut le remplacer par « il »."], ["Mes parents ___ une nouvelle voiture.", "ont", "On peut remplacer par « Mes parents avaient une nouvelle voiture » : <b>ont</b>."], ["___ entend les oiseaux.", "on", "« On » est le sujet du verbe « entend »."], ["Les enfants ___ faim.", "ont", "On peut dire « Les enfants avaient faim » : on écrit <b>ont</b>."], ["___ va au cinéma ce soir.", "on", "« On » est le sujet du verbe « va »."], ["Elles ___ gagné le match.", "ont", "On peut dire « Elles avaient gagné le match » : c’est <b>ont</b>."], ["___ a beaucoup ri.", "on", "Le premier mot est le pronom sujet <b>on</b>. La phrase complète est « On a beaucoup ri »."], ["Les voisins ___ un grand jardin.", "ont", "On peut dire « Les voisins avaient un grand jardin » : on écrit <b>ont</b>."]];
+const options=["on", "ont"];
+let state={q:0,score:0,order:[],answered:false,current:null};
+
+function start(){
+ state={q:0,score:0,order:shuffle([...Array(questions.length).keys()]),answered:false,current:null};
+ document.getElementById("menu").classList.add("hidden");
+ document.getElementById("result").classList.add("hidden");
+ document.getElementById("game").classList.remove("hidden");
+ nextQuestion();
+}
+function home(){
+ document.getElementById("game").classList.add("hidden");
+ document.getElementById("result").classList.add("hidden");
+ document.getElementById("menu").classList.remove("hidden");
+}
+function nextQuestion(){
+ if(state.q>=questions.length)return finish();
+ state.answered=false;
+ state.current=questions[state.order[state.q]];
+ state.q++;
+ document.getElementById("counter").textContent=`${state.q}/${questions.length}`;
+ document.getElementById("bar").style.width=((state.q-1)/questions.length*100)+"%";
+ document.getElementById("feedback").className="feedback hidden";
+ document.getElementById("next").classList.add("hidden");
+ document.getElementById("question").textContent=state.current[0];
+ document.getElementById("interaction").innerHTML=
+   `<div class="options">${shuffle(options).map(x=>`<button class="option fr" onclick="check('${x}')">${x}</button>`).join("")}</div>`;
+}
+function check(answer){
+ if(state.answered)return;
+ state.answered=true;
+ const [sentence,correct,explanation]=state.current;
+ const ok=answer===correct;
+ const f=document.getElementById("feedback");
+ f.classList.remove("hidden");
+ if(ok){
+   state.score++;
+   f.classList.add("good");
+   f.innerHTML=`✅ <b>Bravo !</b> La bonne réponse est <b>${correct}</b>.<br>${explanation}`;
+ }else{
+   f.classList.add("bad");
+   f.innerHTML=`❌ <b>Pas tout à fait.</b> Tu as choisi <b>${answer}</b>.<br>La bonne réponse est <b>${correct}</b>.<br>${explanation}`;
+ }
+ document.getElementById("next").classList.remove("hidden");
+ document.getElementById("bar").style.width=(state.q/questions.length*100)+"%";
+}
+function finish(){
+ document.getElementById("game").classList.add("hidden");
+ document.getElementById("result").classList.remove("hidden");
+ renderResult(state.score,questions.length);
+ saveBest("grammar-on",state.score);
+}
+</script>
+</body>
+</html>

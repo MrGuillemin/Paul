@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Définitions de géométrie — Révision Quest</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<main>
+<section class="top">
+  <h1>📐 Définitions de géométrie</h1>
+  <p>Point, segment, droite, polygones et périmètre.</p>
+</section>
+
+<section id="menu" class="card">
+  <div class="breadcrumb"><a href="../index.html">Accueil</a> › <a href="index.html">Maths</a> › Géométrie</div>
+  <div class="grid">
+    <button class="tile maths" onclick="startQuiz(0)"><b>⭐ Je connais</b>Les définitions et les noms à savoir par cœur.</button>
+    <button class="tile maths" onclick="startQuiz(1)"><b>⭐⭐ Je comprends</b>Reconnaître et utiliser les notions.</button>
+    <button class="tile maths" onclick="startQuiz(2)"><b>🏆 Défi</b>Tout mélanger.</button>
+  </div>
+</section>
+
+<section id="game" class="card hidden">
+  <div class="stats"><span id="levelName"></span><span id="counter"></span></div>
+  <div class="progress"><div id="bar" class="bar"></div></div>
+  <p class="instruction">Choisis la bonne réponse.</p>
+  <div id="question" class="question"></div>
+  <div id="options" class="options"></div>
+  <div id="feedback" class="feedback hidden"></div>
+  <div style="display:flex;gap:10px;margin-top:14px;flex-wrap:wrap">
+    <button class="secondary" onclick="showMenu()">← Niveaux</button>
+    <button id="nextButton" class="primary hidden" onclick="nextQuestion()">Question suivante →</button>
+  </div>
+</section>
+
+<section id="result" class="card hidden">
+  <h2 style="text-align:center">Résultat</h2>
+  <div id="bigscore" class="bigscore"></div>
+  <div id="stars" class="stars"></div>
+  <p id="resultText" style="text-align:center"></p>
+  <div style="text-align:center">
+    <button class="primary" onclick="startQuiz(currentLevel)">Rejouer</button>
+    <button class="secondary" onclick="showMenu()">Choisir un niveau</button>
+  </div>
+</section>
+
+<footer><a href="index.html">← Retour aux chapitres de maths</a></footer>
+</main>
+
+<script src="../app.js"></script>
+<script>
+const levels = [[{"q": "Qu’est-ce qu’un point ?", "a": "Un emplacement précis, souvent repéré par une lettre", "o": ["Un emplacement précis, souvent repéré par une lettre", "Une ligne avec deux extrémités", "Une ligne brisée fermée", "La longueur d’un contour"], "e": "Un point représente un emplacement précis. On le nomme souvent avec une lettre majuscule, par exemple A."}, {"q": "Qu’est-ce qu’un segment ?", "a": "Une partie de droite limitée par deux extrémités", "o": ["Une partie de droite limitée par deux extrémités", "Une droite qui se prolonge sans fin", "Une ligne brisée fermée", "Un seul point"], "e": "Un segment possède deux extrémités."}, {"q": "Qu’est-ce qu’une droite ?", "a": "Une ligne qui se prolonge indéfiniment dans les deux sens", "o": ["Une ligne qui se prolonge indéfiniment dans les deux sens", "Une ligne limitée par deux points", "Une ligne brisée fermée", "Le contour d’une figure"], "e": "Une droite n’a pas d’extrémité : elle continue dans les deux sens."}, {"q": "Qu’est-ce qu’un polygone ?", "a": "Une ligne brisée fermée", "o": ["Une ligne brisée fermée", "Une ligne courbe ouverte", "Une droite", "Un point"], "e": "Un polygone est une figure fermée dont le contour est formé de segments."}, {"q": "Qu’est-ce que le périmètre ?", "a": "La longueur du contour d’une figure", "o": ["La longueur du contour d’une figure", "L’intérieur d’une figure", "Le nombre de sommets", "La longueur d’un seul côté"], "e": "Le périmètre correspond à la longueur totale du tour de la figure."}, {"q": "Comment note-t-on le segment d’extrémités A et B ?", "a": "[AB]", "o": ["[AB]", "(AB)", "AB", "{AB}"], "e": "Les crochets [ ] indiquent un segment."}, {"q": "Un polygone à 3 côtés est un…", "a": "triangle", "o": ["triangle", "quadrilatère", "pentagone", "hexagone"], "e": "3 côtés → triangle."}, {"q": "Un polygone à 4 côtés est un…", "a": "quadrilatère", "o": ["quadrilatère", "triangle", "octogone", "pentagone"], "e": "4 côtés → quadrilatère."}, {"q": "Un polygone à 5 côtés est un…", "a": "pentagone", "o": ["pentagone", "hexagone", "octogone", "décagone"], "e": "5 côtés → pentagone."}, {"q": "Un polygone à 6 côtés est un…", "a": "hexagone", "o": ["hexagone", "pentagone", "octogone", "quadrilatère"], "e": "6 côtés → hexagone."}], [{"q": "Un octogone possède combien de côtés ?", "a": "8", "o": ["8", "6", "10", "5"], "e": "Un octogone possède 8 côtés."}, {"q": "Un décagone possède combien de côtés ?", "a": "10", "o": ["10", "8", "6", "4"], "e": "Un décagone possède 10 côtés."}, {"q": "Quelle figure possède exactement deux extrémités ?", "a": "Le segment", "o": ["Le segment", "La droite", "Le polygone", "Le point"], "e": "Le segment est limité par deux extrémités."}, {"q": "Quelle figure n’a pas d’extrémité ?", "a": "La droite", "o": ["La droite", "Le segment", "Le triangle", "Le pentagone"], "e": "La droite se prolonge indéfiniment dans les deux sens."}, {"q": "Une figure fermée composée uniquement de segments est…", "a": "Un polygone", "o": ["Un polygone", "Une droite", "Un point", "Une ligne courbe ouverte"], "e": "Un polygone est une ligne brisée fermée."}, {"q": "Pour mesurer tout le tour d’un carré, on calcule…", "a": "Son périmètre", "o": ["Son périmètre", "Son nombre de sommets", "Une droite", "Un point"], "e": "Le périmètre est la longueur totale du contour."}, {"q": "[CD] désigne…", "a": "Le segment CD", "o": ["Le segment CD", "La droite CD", "Le point C", "Un polygone"], "e": "Les crochets désignent un segment."}, {"q": "Des points situés sur une même droite sont dits…", "a": "Alignés", "o": ["Alignés", "Fermés", "Courbes", "Parallèles"], "e": "Des points appartenant à une même droite sont alignés."}, {"q": "Quel élément n’est PAS un polygone ?", "a": "Une ligne brisée ouverte", "o": ["Une ligne brisée ouverte", "Un triangle", "Un pentagone", "Un quadrilatère"], "e": "Un polygone doit être fermé."}, {"q": "Quel nom donne-t-on à un polygone de 8 côtés ?", "a": "Octogone", "o": ["Octogone", "Hexagone", "Pentagone", "Décagone"], "e": "8 côtés → octogone."}], [{"q": "Quelle notation correspond à une droite passant par A et B ?", "a": "(AB)", "o": ["(AB)", "[AB]", "AB", "{AB}"], "e": "On note généralement une droite avec des parenthèses : (AB)."}, {"q": "Quelle notation correspond à un segment d’extrémités A et B ?", "a": "[AB]", "o": ["[AB]", "(AB)", "AB", "A+B"], "e": "Le segment se note [AB]."}, {"q": "Un polygone a 10 côtés. C’est un…", "a": "Décagone", "o": ["Décagone", "Octogone", "Hexagone", "Pentagone"], "e": "10 côtés → décagone."}, {"q": "Un polygone a 5 côtés. C’est un…", "a": "Pentagone", "o": ["Pentagone", "Quadrilatère", "Hexagone", "Octogone"], "e": "5 côtés → pentagone."}, {"q": "Le périmètre mesure…", "a": "Le contour d’une figure", "o": ["Le contour d’une figure", "La surface intérieure", "Le nombre de côtés", "Le nombre de points"], "e": "Le périmètre est la longueur du contour."}, {"q": "Une droite peut-elle être prolongée des deux côtés ?", "a": "Oui, indéfiniment", "o": ["Oui, indéfiniment", "Non", "Seulement d’un côté", "Seulement jusqu’à 10 cm"], "e": "Une droite n’a pas d’extrémités."}, {"q": "Un segment peut-il être prolongé indéfiniment tout en restant le même segment ?", "a": "Non", "o": ["Non", "Oui", "Seulement vers A", "Seulement vers B"], "e": "Un segment est limité par ses deux extrémités."}, {"q": "Quel mot correspond à 4 côtés ?", "a": "Quadrilatère", "o": ["Quadrilatère", "Pentagone", "Triangle", "Octogone"], "e": "4 côtés → quadrilatère."}, {"q": "Quel mot correspond à 6 côtés ?", "a": "Hexagone", "o": ["Hexagone", "Pentagone", "Octogone", "Décagone"], "e": "6 côtés → hexagone."}, {"q": "Pour être un polygone, une ligne brisée doit être…", "a": "Fermée", "o": ["Fermée", "Ouverte", "Courbe", "Infinie"], "e": "Un polygone est une ligne brisée fermée."}]];
+let currentLevel = 0;
+let currentQuestionIndex = 0;
+let score = 0;
+let order = [];
+let currentQuestion = null;
+let answered = false;
+
+const el = id => document.getElementById(id);
+
+function startQuiz(level) {
+  currentLevel = level;
+  currentQuestionIndex = 0;
+  score = 0;
+  answered = false;
+  order = shuffle([...Array(levels[level].length).keys()]);
+
+  el("menu").classList.add("hidden");
+  el("result").classList.add("hidden");
+  el("game").classList.remove("hidden");
+  el("levelName").textContent = ["Je connais","Je comprends","Défi"][level];
+  nextQuestion();
+}
+
+function showMenu() {
+  el("game").classList.add("hidden");
+  el("result").classList.add("hidden");
+  el("menu").classList.remove("hidden");
+}
+
+function nextQuestion() {
+  if (currentQuestionIndex >= order.length) {
+    finishQuiz();
+    return;
+  }
+
+  answered = false;
+  currentQuestion = levels[currentLevel][order[currentQuestionIndex]];
+  currentQuestionIndex++;
+
+  el("counter").textContent = `${currentQuestionIndex}/${order.length}`;
+  el("bar").style.width = `${(currentQuestionIndex-1)/order.length*100}%`;
+  el("question").textContent = currentQuestion.q;
+  el("feedback").className = "feedback hidden";
+  el("nextButton").classList.add("hidden");
+
+  const choices = shuffle(currentQuestion.o);
+  el("options").innerHTML = "";
+  choices.forEach(choice => {
+    const button = document.createElement("button");
+    button.className = "option";
+    button.textContent = choice;
+    button.addEventListener("click", () => checkAnswer(choice));
+    el("options").appendChild(button);
+  });
+}
+
+function checkAnswer(choice) {
+  if (answered) return;
+  answered = true;
+
+  const correct = choice === currentQuestion.a;
+  const feedback = el("feedback");
+  feedback.classList.remove("hidden");
+
+  if (correct) {
+    score++;
+    feedback.classList.add("good");
+    feedback.innerHTML = `✅ <b>Bravo !</b><br>${currentQuestion.e}`;
+  } else {
+    feedback.classList.add("bad");
+    feedback.innerHTML = `❌ <b>Pas tout à fait.</b><br>La bonne réponse est <b>${currentQuestion.a}</b>.<br>${currentQuestion.e}`;
+  }
+
+  el("bar").style.width = `${currentQuestionIndex/order.length*100}%`;
+  el("nextButton").classList.remove("hidden");
+}
+
+function finishQuiz() {
+  el("game").classList.add("hidden");
+  el("result").classList.remove("hidden");
+  renderResult(score, order.length);
+  saveBest(`maths-geometrie-${currentLevel}`, score);
+}
+</script>
+</body>
+</html>
