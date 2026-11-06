@@ -37,7 +37,15 @@ jobs:
               return;
             }
             core.info('Annulation de la relance Pages bloquee #' + run_id);
-            await github.rest.actions.cancelWorkflowRun({ owner, repo, run_id });
+            try {
+              await github.rest.actions.cancelWorkflowRun({ owner, repo, run_id });
+            } catch (error) {
+              if (error.status !== 409) throw error;
+              core.warning('Annulation normale refusee (409). Essai de l’annulation forcee officielle.');
+              await github.request('POST /repos/{owner}/{repo}/actions/runs/{run_id}/force-cancel', {
+                owner, repo, run_id
+              });
+            }
             for (let i = 0; i < 12; i++) {
               await new Promise(resolve => setTimeout(resolve, 5000));
               const { data: latest } = await github.rest.actions.getWorkflowRun({
