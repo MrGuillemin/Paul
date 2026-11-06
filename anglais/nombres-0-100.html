@@ -6,10 +6,10 @@
 <title>Nombres 0 à 100 — Révision Quest</title>
 <link rel="stylesheet" href="../style.css">
 </head>
-<body>
-<main>
-<section class="top">
-  <h1>🔢 Number Quest</h1>
+<body><a class="skip-link" href="#revision-main">Aller au contenu</a><header class="site-header"><a class="brand" href="../index.html" aria-label="Révision Quest, accueil"><span class="brand-mark" aria-hidden="true">rq.</span><span>Révision Quest<small>LE CARNET DE PAUL</small></span></a><nav class="subject-nav" aria-label="Matières"><a href="../francais/index.html">Français</a><a href="index.html" aria-current="true">Anglais</a><a href="../maths/index.html">Mathématiques</a><a href="../histoire-geo/index.html">Histoire-Géo</a><a href="../sciences/index.html">Sciences</a></nav></header>
+<main id="revision-main" tabindex="-1">
+<section class="top"><p class="eyebrow">ANGLAIS · MES RÉVISIONS</p>
+  <h1>Number Quest</h1>
   <p>Apprends les nombres anglais de 0 à 100 !</p>
 </section>
 
@@ -20,9 +20,9 @@
     <button class="tile english" onclick="start(2)"><b>⭐⭐ Niveau 2 · 11–20</b>Les nombres spéciaux et <i>-teen</i></button>
     <button class="tile english" onclick="start(3)"><b>⭐⭐⭐ Niveau 3 · Dizaines</b>twenty, thirty… one hundred</button>
     <button class="tile english" onclick="start(4)"><b>⭐⭐⭐⭐ Niveau 4 · 21–99</b>Construis les nombres</button>
-    <button class="tile english" onclick="start(5)"><b>🏆 Grand défi · 0–100</b>Tout mélanger !</button>
+    <button class="tile english" onclick="start(5)"><b>Grand défi · 0–100</b>Tout mélanger !</button>
   </div>
-  <div class="tip"><b>💡 Les pièges</b><br>
+  <div class="tip"><b>Les pièges</b><br>
   13 <b>thirteen</b> ↔ 30 <b>thirty</b> · 14 <b>fourteen</b> ↔ 40 <b>forty</b> ·
   15 <b>fifteen</b> ↔ 50 <b>fifty</b> · 18 <b>eighteen</b> ↔ 80 <b>eighty</b>.
   </div>
@@ -34,7 +34,7 @@
  <p id="instruction" class="instruction"></p>
  <div id="question" class="question"></div>
  <div id="interaction"></div>
- <div id="feedback" class="feedback hidden"></div>
+ <div id="feedback" class="feedback hidden" aria-live="polite" aria-atomic="true"></div>
  <div style="display:flex;gap:10px;margin-top:14px;flex-wrap:wrap">
    <button class="secondary" onclick="home()">← Niveaux</button>
    <button id="next" class="primary hidden" onclick="nextQuestion()">Question suivante →</button>
@@ -53,7 +53,7 @@
 </section>
 
 <footer><a href="index.html">← Retour aux chapitres d’anglais</a></footer>
-</main>
+</main><div class="site-note">Un peu de pratique, chaque jour. À ton rythme.</div>
 
 <script src="../app.js"></script>
 <script>
@@ -150,3 +150,4 @@ function finish(){
 </script>
 </body>
 </html>
+
