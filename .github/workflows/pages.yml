@@ -1,0 +1,73 @@
+name: Publier le site statique
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish-paul-static
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Recuperer les fichiers du site
+        uses: actions/checkout@v4
+      - name: Utiliser la publication GitHub Actions
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const { data: pages } = await github.request('GET /repos/{owner}/{repo}/pages', {
+              owner, repo
+            });
+            core.info('Mode de publication actuel : ' + pages.build_type);
+            if (pages.build_type !== 'workflow') {
+              await github.request('PUT /repos/{owner}/{repo}/pages', {
+                owner, repo, build_type: 'workflow'
+              });
+              core.info('Publication statique via GitHub Actions configuree.');
+            }
+      - name: Preparer le site sans Jekyll ni dependance
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import shutil
+          root = Path('.')
+          output = root / '_site'
+          files = list(root.rglob('*'))
+          suffixes = {'.html', '.css', '.js', '.json', '.png', '.jpg', '.jpeg', '.gif', '.svg', '.webp', '.ico', '.woff', '.woff2', '.mp3', '.mp4', '.pdf'}
+          for source in files:
+              relative = source.relative_to(root)
+              if not source.is_file() or any(part.startswith('.') or part == '_site' for part in relative.parts):
+                  continue
+              if source.suffix.lower() not in suffixes:
+                  continue
+              target = output / relative
+              target.parent.mkdir(parents=True, exist_ok=True)
+              shutil.copy2(source, target)
+          assert (output / 'index.html').is_file(), 'Accueil manquant'
+          assert (output / 'Histoire/Lecon-2/Machine-a-vapeur/index.html').is_file(), 'Lecon Histoire manquante'
+          (output / '.nojekyll').write_text('')
+          print('Fichiers du site prepares :', sum(p.is_file() for p in output.rglob('*')))
+          PY
+      - name: Charger les fichiers a publier
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publier sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          timeout: 900000
