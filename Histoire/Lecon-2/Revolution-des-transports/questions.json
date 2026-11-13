@@ -1,0 +1,2358 @@
+{
+  "key": "h2-transports",
+  "title": "La révolution des transports",
+  "intro": "Partie 2 · Les révolutions du XIXᵉ siècle",
+  "exercises": [
+    {
+      "title": "Les grandes inventions",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Quel transport est associé à 1817 dans le cours ?",
+          "answer": "Le train",
+          "options": [
+            "Le train",
+            "L’automobile",
+            "Le bateau à vapeur"
+          ],
+          "explanation": "Le cours associe le train à 1817.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-01"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle date le cours associe-t-il au bateau à vapeur ?",
+          "answer": "1850",
+          "options": [
+            "1850",
+            "1817",
+            "1886"
+          ],
+          "explanation": "La date à mémoriser pour le bateau à vapeur est 1850.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-02"
+        },
+        {
+          "type": "choice",
+          "prompt": "En quelle année l’automobile apparaît-elle selon le cours ?",
+          "answer": "1886",
+          "options": [
+            "1886",
+            "1850",
+            "1817"
+          ],
+          "explanation": "Le cours retient 1886 pour l’automobile.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-03"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle invention fait fonctionner les premières locomotives présentées ?",
+          "answer": "La machine à vapeur",
+          "options": [
+            "La machine à vapeur",
+            "La force d’un cheval",
+            "La voile seule"
+          ],
+          "explanation": "Les locomotives étudiées utilisent la machine à vapeur.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-04"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel transport circule sur des rails ?",
+          "answer": "Le train",
+          "options": [
+            "Le train",
+            "Le bateau à vapeur",
+            "L’automobile"
+          ],
+          "explanation": "Le train relève du chemin de fer : il circule sur des rails.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-05"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel moyen de transport correspond au transport maritime étudié ?",
+          "answer": "Le bateau à vapeur",
+          "options": [
+            "Le bateau à vapeur",
+            "Le train",
+            "La voiture à chevaux"
+          ],
+          "explanation": "Le transport maritime désigne le transport par mer.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-06"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel transport mentionné ne possède pas de date à mémoriser ici ?",
+          "answer": "L’avion",
+          "options": [
+            "L’avion",
+            "Le train",
+            "L’automobile"
+          ],
+          "explanation": "Le cours mentionne l’avion sans demander de retenir une date.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-07"
+        },
+        {
+          "type": "choice",
+          "prompt": "À quel siècle appartiennent 1817, 1850 et 1886 ?",
+          "answer": "Au XIXᵉ siècle",
+          "options": [
+            "Au XIXᵉ siècle",
+            "Au XVIIIᵉ siècle",
+            "Au XXᵉ siècle"
+          ],
+          "explanation": "Ces trois dates appartiennent au XIXᵉ siècle.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-08"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel couple respecte les repères du cours ?",
+          "answer": "Train — 1817",
+          "options": [
+            "Train — 1817",
+            "Train — 1886",
+            "Train — 1850"
+          ],
+          "explanation": "Le repère donné pour le train est 1817.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-09"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle association est correcte pour 1850 ?",
+          "answer": "Bateau à vapeur — 1850",
+          "options": [
+            "Bateau à vapeur — 1850",
+            "Automobile — 1850",
+            "Avion — 1850"
+          ],
+          "explanation": "1850 correspond au bateau à vapeur selon le cours.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel événement est associé à 1886 ?",
+          "answer": "L’apparition de l’automobile",
+          "options": [
+            "L’apparition de l’automobile",
+            "Le repère du train",
+            "Le repère du bateau à vapeur"
+          ],
+          "explanation": "La date de 1886 est associée à l’automobile.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel mot désigne ce qui concerne le chemin de fer ?",
+          "answer": "Ferroviaire",
+          "options": [
+            "Ferroviaire",
+            "Maritime",
+            "Animal"
+          ],
+          "explanation": "Ferroviaire signifie « qui concerne le chemin de fer ».",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel mot désigne le transport par mer ?",
+          "answer": "Maritime",
+          "options": [
+            "Maritime",
+            "Ferroviaire",
+            "Fermier"
+          ],
+          "explanation": "Maritime renvoie à la mer.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Parmi ces inventions datées, laquelle a le repère le plus ancien ?",
+          "answer": "Le train",
+          "options": [
+            "Le train",
+            "Le bateau à vapeur",
+            "L’automobile"
+          ],
+          "explanation": "1817 vient avant 1850 et 1886.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel repère vient entre 1817 et 1886 ?",
+          "answer": "1850 : bateau à vapeur",
+          "options": [
+            "1850 : bateau à vapeur",
+            "1886 : automobile",
+            "Une date de l’avion à apprendre"
+          ],
+          "explanation": "1850 se situe entre les deux autres dates du cours.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel repère est le plus récent des trois dates à apprendre ?",
+          "answer": "1886 : automobile",
+          "options": [
+            "1886 : automobile",
+            "1817 : train",
+            "1850 : bateau à vapeur"
+          ],
+          "explanation": "1886 est la plus récente des trois dates indiquées.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Qu’est-ce qu’une locomotive à vapeur ?",
+          "answer": "Une machine de traction du chemin de fer utilisant la vapeur",
+          "options": [
+            "Une machine de traction du chemin de fer utilisant la vapeur",
+            "Un bateau qui navigue uniquement à la voile",
+            "Une voiture tirée par des chevaux"
+          ],
+          "explanation": "La locomotive étudiée utilise la vapeur pour le transport ferroviaire.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel moyen de déplacement voit-on dans les documents sur les anciens transports ?",
+          "answer": "Une voiture tirée par des chevaux",
+          "options": [
+            "Une voiture tirée par des chevaux",
+            "Un avion avec une date à apprendre",
+            "Une automobile à vapeur datée de 1817"
+          ],
+          "explanation": "Les documents montrent d’anciennes voitures tirées par des chevaux.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle force permettait de tirer ces anciennes voitures ?",
+          "answer": "La force animale",
+          "options": [
+            "La force animale",
+            "La force d’un réseau ferré",
+            "La force du commerce"
+          ],
+          "explanation": "Ces voitures étaient tirées par des chevaux.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelles deux formes de transport connaissent un essor rapide ?",
+          "answer": "Ferroviaire et maritime",
+          "options": [
+            "Ferroviaire et maritime",
+            "Uniquement les voitures à chevaux",
+            "Uniquement les déplacements à pied"
+          ],
+          "explanation": "Le cours insiste sur l’essor du chemin de fer et du transport maritime.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel véhicule permet de reconnaître une scène ferroviaire ?",
+          "answer": "Une locomotive sur des rails",
+          "options": [
+            "Une locomotive sur des rails",
+            "Un bateau sur la mer",
+            "Une voiture à chevaux sans rails"
+          ],
+          "explanation": "Une locomotive sur des rails renvoie au chemin de fer.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle scène illustre le développement maritime ?",
+          "answer": "Un bateau à vapeur transportant des marchandises",
+          "options": [
+            "Un bateau à vapeur transportant des marchandises",
+            "Une locomotive sur une voie ferrée",
+            "Une voiture à chevaux dans une rue"
+          ],
+          "explanation": "Le bateau à vapeur illustre le transport maritime.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle affirmation respecte le rôle de la vapeur ?",
+          "answer": "Elle favorise le développement de nouveaux transports",
+          "options": [
+            "Elle favorise le développement de nouveaux transports",
+            "Elle supprime immédiatement les chevaux",
+            "Elle empêche le transport de marchandises"
+          ],
+          "explanation": "La vapeur contribue au développement des transports étudiés.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que faut-il faire pour l’avion dans cette partie du cours ?",
+          "answer": "Retenir qu’il est mentionné, sans lui inventer une date",
+          "options": [
+            "Retenir qu’il est mentionné, sans lui inventer une date",
+            "Apprendre obligatoirement 1817 pour l’avion",
+            "Remplacer la date de l’automobile par celle de l’avion"
+          ],
+          "explanation": "Aucune date de l’avion n’est demandée dans cette partie.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle liste réunit les trois transports associés à des dates ?",
+          "answer": "Train, bateau à vapeur, automobile",
+          "options": [
+            "Train, bateau à vapeur, automobile",
+            "Train, avion, voiture à chevaux",
+            "Bateau à vapeur, avion, marche à pied"
+          ],
+          "explanation": "Les trois repères datés sont le train, le bateau à vapeur et l’automobile.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Une carte montre des lignes de chemin de fer : quel réseau représente-t-elle ?",
+          "answer": "Le réseau ferroviaire",
+          "options": [
+            "Le réseau ferroviaire",
+            "Le réseau maritime",
+            "Le réseau des voitures à chevaux"
+          ],
+          "explanation": "Des lignes de chemin de fer forment un réseau ferroviaire.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "Comment faut-il comprendre le mot « essor » dans la leçon ?",
+          "answer": "Un développement rapide",
+          "options": [
+            "Un développement rapide",
+            "Une disparition totale",
+            "Un ralentissement imposé"
+          ],
+          "explanation": "L’essor des transports signifie leur développement rapide.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel rapprochement est juste ?",
+          "answer": "Bateau à vapeur et transport maritime",
+          "options": [
+            "Bateau à vapeur et transport maritime",
+            "Automobile et transport maritime",
+            "Train et transport maritime"
+          ],
+          "explanation": "Le bateau à vapeur est associé au transport par mer.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel rapprochement est faux ?",
+          "answer": "Le train est un transport maritime",
+          "options": [
+            "Le train est un transport maritime",
+            "Le train relève du chemin de fer",
+            "Le bateau à vapeur illustre le transport maritime"
+          ],
+          "explanation": "Le train est ferroviaire, et non maritime.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que peut-on conclure des repères 1817, 1850 et 1886 ?",
+          "answer": "Plusieurs transports apparaissent ou se développent au XIXᵉ siècle",
+          "options": [
+            "Plusieurs transports apparaissent ou se développent au XIXᵉ siècle",
+            "Tous les transports apparaissent le même jour",
+            "Les anciens transports disparaissent immédiatement"
+          ],
+          "explanation": "Les repères montrent plusieurs évolutions au cours du XIXᵉ siècle, sans disparition immédiate des anciens moyens.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "h2-transports-1-30"
+        }
+      ]
+    },
+    {
+      "title": "Avant et après",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Sur une image ancienne, un marchand fait transporter ses caisses dans une voiture tirée par des chevaux.",
+          "id": "h2-transports-2-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un passager raconte la lenteur de son long voyage en ancienne voiture à chevaux.",
+          "id": "h2-transports-2-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un conducteur doit manœuvrer une voiture attelée et le document souligne sa difficulté à la diriger.",
+          "id": "h2-transports-2-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un élève cherche ce qui fait avancer la voiture du document : ce sont les chevaux qui la tirent.",
+          "id": "h2-transports-2-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Une famille prépare un long déplacement et le récit souligne les difficultés du voyage en ancienne voiture.",
+          "id": "h2-transports-2-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Avant le départ d’une voiture traditionnelle, les chevaux doivent être attelés pour pouvoir la tirer.",
+          "id": "h2-transports-2-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Pour légender une image ancienne, une élève écrit : « voiture à chevaux », et non « locomotive ».",
+          "id": "h2-transports-2-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un voyageur compare la lenteur de la voiture ancienne à l’accélération permise par les transports nouveaux.",
+          "id": "h2-transports-2-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Dans un commentaire de document, on explique pourquoi une voiture à chevaux est difficile à manœuvrer.",
+          "id": "h2-transports-2-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Une scène de transport montre un attelage qui tire la voiture ; aucun mécanisme à vapeur n’assure sa traction.",
+          "id": "h2-transports-2-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un carnet de voyage décrit un trajet lointain difficile dans une ancienne voiture attelée.",
+          "id": "h2-transports-2-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un tableau oppose la force animale des anciennes voitures à la vapeur des locomotives.",
+          "id": "h2-transports-2-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un élève veut illustrer un déplacement souvent lent : il choisit l’ancienne voiture montrée dans le cours.",
+          "id": "h2-transports-2-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Dans une scène ancienne, le conducteur peine à changer la direction de sa voiture tirée par des chevaux.",
+          "id": "h2-transports-2-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "AVANT",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les contraintes des anciens transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un commentaire met en relation deux limites des anciennes voitures : lenteur du voyage et manœuvres difficiles.",
+          "id": "h2-transports-2-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Une locomotive à vapeur assure un déplacement sur des rails.",
+          "id": "h2-transports-2-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Des voyageurs bénéficient de trajets plus rapides grâce aux nouveaux transports.",
+          "id": "h2-transports-2-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un chargement de marchandises est transporté plus facilement par les nouveaux moyens.",
+          "id": "h2-transports-2-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Le réseau français de chemin de fer s’étend entre les deux dates étudiées.",
+          "id": "h2-transports-2-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Le commerce profite de l’amélioration des transports.",
+          "id": "h2-transports-2-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un bateau à vapeur illustre l’essor du transport maritime.",
+          "id": "h2-transports-2-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Des personnes peuvent se déplacer plus loin grâce aux nouveaux transports.",
+          "id": "h2-transports-2-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "L’utilisation de la vapeur accompagne le développement du chemin de fer.",
+          "id": "h2-transports-2-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Les nouveaux transports rendent plus facile l’acheminement des produits.",
+          "id": "h2-transports-2-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "L’essor ferroviaire facilite les déplacements des personnes.",
+          "id": "h2-transports-2-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Le développement maritime favorise le déplacement des marchandises par mer.",
+          "id": "h2-transports-2-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "L’accès à la modernité est facilité par les nouveaux transports.",
+          "id": "h2-transports-2-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "L’économie bénéficie du développement des échanges.",
+          "id": "h2-transports-2-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Le cours présente l’automobile parmi les nouveaux moyens de transport.",
+          "id": "h2-transports-2-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette situation illustre-t-elle les anciens transports ou les évolutions de la révolution des transports ?",
+          "answer": "APRÈS",
+          "options": [
+            "AVANT",
+            "APRÈS"
+          ],
+          "explanation": "La situation illustre les évolutions liées aux nouveaux transports. « Avant / après » décrit les documents : les voitures à chevaux ne disparaissent pas immédiatement.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "La croissance économique est associée à l’essor des transports et du commerce.",
+          "id": "h2-transports-2-30"
+        }
+      ]
+    },
+    {
+      "title": "Comprendre les conséquences",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Le transport par train est appelé transport ___.",
+          "answer": "ferroviaire",
+          "aliases": [],
+          "explanation": "Ferroviaire renvoie au chemin de fer.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Le transport par mer est appelé transport ___.",
+          "answer": "maritime",
+          "aliases": [],
+          "explanation": "Maritime renvoie à la mer.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Les nouveaux transports favorisent les échanges de marchandises : ils développent le ___.",
+          "answer": "commerce",
+          "aliases": [],
+          "explanation": "Ils facilitent les échanges de marchandises.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec un adverbe de rapidité : les nouveaux transports permettent de voyager plus ___.",
+          "answer": "vite",
+          "aliases": [
+            "rapidement"
+          ],
+          "explanation": "La rapidité des déplacements augmente.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Les personnes peuvent parcourir des distances plus ___.",
+          "answer": "grandes",
+          "aliases": [
+            "longues",
+            "importantes"
+          ],
+          "explanation": "Les nouveaux transports permettent d’aller plus loin.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Les nouveaux moyens transportent des personnes et des ___.",
+          "answer": "marchandises",
+          "aliases": [],
+          "explanation": "Le cours distingue les personnes et les marchandises.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-06"
+        },
+        {
+          "type": "text",
+          "prompt": "L’accès à la ___ est facilité par les nouveaux transports.",
+          "answer": "modernité",
+          "aliases": [],
+          "explanation": "La modernité est une conséquence citée dans la leçon.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-07"
+        },
+        {
+          "type": "text",
+          "prompt": "L’essor des transports contribue à une croissance ___.",
+          "answer": "économique",
+          "aliases": [],
+          "explanation": "Le cours parle d’une croissance économique importante.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Le développement des locomotives étudiées repose sur la machine à ___.",
+          "answer": "vapeur",
+          "aliases": [],
+          "explanation": "La machine à vapeur permet leur fonctionnement.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Les anciennes voitures des documents étaient tirées par des ___.",
+          "answer": "chevaux",
+          "aliases": [],
+          "explanation": "Elles utilisaient la force animale.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Les anciens déplacements étudiés étaient souvent ___.",
+          "answer": "lents",
+          "aliases": [],
+          "explanation": "Les documents soulignent leur lenteur.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Les anciennes voitures présentaient des difficultés de ___.",
+          "answer": "manœuvre",
+          "aliases": [
+            "manoeuvre"
+          ],
+          "explanation": "Les documents montrent qu’il était difficile de les manœuvrer.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Le développement du chemin de fer correspond à un essor du transport ___.",
+          "answer": "ferroviaire",
+          "aliases": [],
+          "explanation": "Le chemin de fer est le transport ferroviaire.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Le bateau à vapeur illustre l’essor du transport ___.",
+          "answer": "maritime",
+          "aliases": [],
+          "explanation": "Le bateau est associé au transport par mer.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Personnes ou marchandises ? Les voyageurs sont les ___ transportées plus facilement.",
+          "answer": "personnes",
+          "aliases": [],
+          "explanation": "Les personnes peuvent se déplacer plus facilement.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Le déplacement facilité des produits favorise les échanges et le ___.",
+          "answer": "commerce",
+          "aliases": [],
+          "explanation": "Le commerce bénéficie de l’acheminement des marchandises.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Un train circule sur des ___, caractéristiques du chemin de fer.",
+          "answer": "rails",
+          "aliases": [],
+          "explanation": "Les rails caractérisent le transport ferroviaire.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Le mot « ferroviaire » concerne le chemin de ___.",
+          "answer": "fer",
+          "aliases": [],
+          "explanation": "Ferroviaire signifie « qui concerne le chemin de fer ».",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Le mot « maritime » désigne ce qui concerne la ___.",
+          "answer": "mer",
+          "aliases": [],
+          "explanation": "Le transport maritime se fait par mer.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Selon le cours, le train est associé à l’année ___.",
+          "answer": "1817",
+          "aliases": [],
+          "explanation": "Le repère à retenir est 1817.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Selon le cours, le bateau à vapeur est associé à l’année ___.",
+          "answer": "1850",
+          "aliases": [],
+          "explanation": "Le repère à retenir est 1850.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-21"
+        },
+        {
+          "type": "text",
+          "prompt": "Selon le cours, l’automobile est associée à l’année ___.",
+          "answer": "1886",
+          "aliases": [],
+          "explanation": "Le repère à retenir est 1886.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-22"
+        },
+        {
+          "type": "text",
+          "prompt": "En 1849, le réseau ferré français mesure ___ km.",
+          "answer": "2859",
+          "aliases": [
+            "2 859"
+          ],
+          "explanation": "Le document indique 2 859 km en 1849.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-23"
+        },
+        {
+          "type": "text",
+          "prompt": "En 1899, le réseau ferré français mesure ___ km.",
+          "answer": "32601",
+          "aliases": [
+            "32 601"
+          ],
+          "explanation": "Le document indique 32 601 km en 1899.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Entre 1849 et 1899, il s’écoule ___ ans.",
+          "answer": "50",
+          "aliases": [
+            "cinquante"
+          ],
+          "explanation": "La période étudiée dure cinquante ans.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Le réseau ferré français se développe : sa longueur ___.",
+          "answer": "augmente",
+          "aliases": [
+            "grandit",
+            "s’accroît"
+          ],
+          "explanation": "Elle passe de 2 859 km à 32 601 km.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Pour la distance parcourue, les nouveaux transports permettent d’aller plus ___.",
+          "answer": "loin",
+          "aliases": [],
+          "explanation": "Le cours cite la possibilité de parcourir de plus grandes distances.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Pour la facilité, les déplacements deviennent plus ___ grâce aux nouveaux transports.",
+          "answer": "faciles",
+          "aliases": [
+            "aisés",
+            "simples"
+          ],
+          "explanation": "Ils sont facilités et accélérés.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Le développement des échanges contribue à la ___ économique.",
+          "answer": "croissance",
+          "aliases": [],
+          "explanation": "Le cours associe le commerce à la croissance économique.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-29"
+        },
+        {
+          "type": "text",
+          "prompt": "Le train, le bateau à vapeur et l’automobile ont des repères au ___ siècle.",
+          "answer": "XIXe",
+          "aliases": [
+            "XIX",
+            "XIXᵉ",
+            "19e",
+            "dix-neuvième",
+            "19",
+            "19ème",
+            "XIXème"
+          ],
+          "explanation": "1817, 1850 et 1886 se situent au XIXᵉ siècle.",
+          "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
+          "strict": false,
+          "id": "h2-transports-3-30"
+        }
+      ]
+    },
+    {
+      "title": "Le développement du chemin de fer",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Quelle date correspond à la première barre ?",
+          "answer": "1849",
+          "options": [
+            "1849",
+            "1899",
+            "1886"
+          ],
+          "explanation": "La première barre porte l’étiquette 1849.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-01"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle date correspond à la seconde barre ?",
+          "answer": "1899",
+          "options": [
+            "1899",
+            "1849",
+            "1850"
+          ],
+          "explanation": "La seconde barre porte l’étiquette 1899.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-02"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle longueur lit-on pour 1849 ?",
+          "answer": "2 859 km",
+          "options": [
+            "2 859 km",
+            "32 601 km",
+            "1849 km"
+          ],
+          "explanation": "La donnée du document est 2 859 km en 1849.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-03"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle longueur lit-on pour 1899 ?",
+          "answer": "32 601 km",
+          "options": [
+            "32 601 km",
+            "2 859 km",
+            "1899 km"
+          ],
+          "explanation": "La donnée du document est 32 601 km en 1899.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-04"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle unité est utilisée pour les longueurs ?",
+          "answer": "Le kilomètre",
+          "options": [
+            "Le kilomètre",
+            "L’année",
+            "Le nombre de voyageurs"
+          ],
+          "explanation": "Les longueurs du réseau sont exprimées en kilomètres.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-05"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle barre est la plus longue ?",
+          "answer": "Celle de 1899",
+          "options": [
+            "Celle de 1899",
+            "Celle de 1849",
+            "Elles sont identiques"
+          ],
+          "explanation": "La barre de 1899 représente la plus grande longueur.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-06"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle barre représente le réseau le moins étendu ?",
+          "answer": "Celle de 1849",
+          "options": [
+            "Celle de 1849",
+            "Celle de 1899",
+            "Aucune, les réseaux sont égaux"
+          ],
+          "explanation": "2 859 km est inférieur à 32 601 km.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-07"
+        },
+        {
+          "type": "choice",
+          "prompt": "Comment évolue la longueur du réseau entre les deux dates ?",
+          "answer": "Elle augmente",
+          "options": [
+            "Elle augmente",
+            "Elle diminue",
+            "Elle reste identique"
+          ],
+          "explanation": "Le réseau passe de 2 859 km à 32 601 km.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-08"
+        },
+        {
+          "type": "choice",
+          "prompt": "Combien d’années séparent les deux dates ?",
+          "answer": "50 ans",
+          "options": [
+            "50 ans",
+            "10 ans",
+            "100 ans"
+          ],
+          "explanation": "De 1849 à 1899, il s’écoule cinquante ans.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-09"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que représente ce graphique ?",
+          "answer": "La longueur du réseau ferré français à deux dates",
+          "options": [
+            "La longueur du réseau ferré français à deux dates",
+            "La vitesse de chaque train",
+            "Le nombre de bateaux à vapeur"
+          ],
+          "explanation": "Les deux barres représentent des kilomètres de réseau ferré.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que signifie 2 859 dans le document ?",
+          "answer": "Des kilomètres de réseau en 1849",
+          "options": [
+            "Des kilomètres de réseau en 1849",
+            "Des voyageurs en 1899",
+            "La date d’invention du train"
+          ],
+          "explanation": "2 859 est la longueur du réseau en 1849.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que signifie 32 601 dans le document ?",
+          "answer": "Des kilomètres de réseau en 1899",
+          "options": [
+            "Des kilomètres de réseau en 1899",
+            "Le nombre de voitures à chevaux",
+            "Une date à mémoriser pour l’avion"
+          ],
+          "explanation": "32 601 est une longueur exprimée en kilomètres.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les données concernent quel territoire ?",
+          "answer": "La France",
+          "options": [
+            "La France",
+            "Un seul bateau",
+            "Une ville non précisée"
+          ],
+          "explanation": "Le document porte sur le réseau ferroviaire français.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les deux dates appartiennent à quel siècle ?",
+          "answer": "Au XIXᵉ siècle",
+          "options": [
+            "Au XIXᵉ siècle",
+            "Au XVIIIᵉ siècle",
+            "Au XXIᵉ siècle"
+          ],
+          "explanation": "1849 et 1899 appartiennent au XIXᵉ siècle.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Peut-on lire le nombre exact de voyageurs sur ce graphique ?",
+          "answer": "Non, il donne des longueurs de réseau",
+          "options": [
+            "Non, il donne des longueurs de réseau",
+            "Oui, 32 601 voyageurs",
+            "Oui, 2 859 voyageurs"
+          ],
+          "explanation": "Les barres ne donnent pas d’effectifs de voyageurs.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Peut-on lire la vitesse exacte des locomotives ?",
+          "answer": "Non, elle n’est pas indiquée",
+          "options": [
+            "Non, elle n’est pas indiquée",
+            "Oui, 1849 km par heure",
+            "Oui, 1899 km par heure"
+          ],
+          "explanation": "Le document mesure la longueur du réseau, pas la vitesse.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle association date-longueur est correcte ?",
+          "answer": "1849 — 2 859 km",
+          "options": [
+            "1849 — 2 859 km",
+            "1849 — 32 601 km",
+            "1899 — 2 859 km"
+          ],
+          "explanation": "La première donnée est 1849 : 2 859 km.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle association est incorrecte ?",
+          "answer": "1899 — 2 859 km",
+          "options": [
+            "1899 — 2 859 km",
+            "1849 — 2 859 km",
+            "1899 — 32 601 km"
+          ],
+          "explanation": "La longueur de 1899 est 32 601 km.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle observation justifie l’expression « essor du chemin de fer » ?",
+          "answer": "Le réseau est bien plus long en 1899",
+          "options": [
+            "Le réseau est bien plus long en 1899",
+            "Le réseau a disparu en 1899",
+            "Les deux barres ont la même longueur"
+          ],
+          "explanation": "L’augmentation de la longueur montre le développement du réseau.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que représente une barre plus longue dans ce graphique proportionnel ?",
+          "answer": "Une plus grande longueur de réseau",
+          "options": [
+            "Une plus grande longueur de réseau",
+            "Un train plus rapide",
+            "Une date plus ancienne"
+          ],
+          "explanation": "La longueur de chaque barre représente des kilomètres.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel titre convient au document ?",
+          "answer": "Le développement du réseau ferré français",
+          "options": [
+            "Le développement du réseau ferré français",
+            "Les dates de l’automobile",
+            "La disparition des chevaux"
+          ],
+          "explanation": "Le document montre l’évolution de la longueur du réseau ferré.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que compare-t-on pour constater une augmentation ?",
+          "answer": "Les longueurs aux deux dates",
+          "options": [
+            "Les longueurs aux deux dates",
+            "Seulement la forme des chiffres",
+            "Seulement la date de l’automobile"
+          ],
+          "explanation": "Il faut comparer les valeurs de 1849 et de 1899.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel élément reste le même dans les deux mesures ?",
+          "answer": "Le territoire étudié et l’unité en kilomètres",
+          "options": [
+            "Le territoire étudié et l’unité en kilomètres",
+            "La longueur du réseau",
+            "La date de mesure"
+          ],
+          "explanation": "Les deux mesures concernent la France et sont en kilomètres.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle conséquence du développement du réseau est citée dans le cours ?",
+          "answer": "Des déplacements facilités",
+          "options": [
+            "Des déplacements facilités",
+            "La fin immédiate de tous les bateaux",
+            "L’interdiction de voyager"
+          ],
+          "explanation": "Les nouveaux transports facilitent les déplacements.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel secteur profite du transport facilité des marchandises ?",
+          "answer": "Le commerce",
+          "options": [
+            "Le commerce",
+            "Uniquement les attelages",
+            "Aucun secteur selon le cours"
+          ],
+          "explanation": "Le commerce bénéficie du transport des marchandises.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le graphique montre-t-il une disparition du chemin de fer ?",
+          "answer": "Non, il montre son développement",
+          "options": [
+            "Non, il montre son développement",
+            "Oui, la seconde barre est nulle",
+            "Oui, les rails disparaissent"
+          ],
+          "explanation": "La longueur du réseau augmente fortement.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "L’année 1849 est-elle la date du train donnée dans le cours ?",
+          "answer": "Non, son repère est 1817",
+          "options": [
+            "Non, son repère est 1817",
+            "Oui, le cours donne 1849",
+            "Non, son repère est 1886"
+          ],
+          "explanation": "1849 est une date de mesure du réseau ; le train est associé à 1817.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "La longueur de 1899 est-elle inférieure à celle de 1849 ?",
+          "answer": "Non, elle est supérieure",
+          "options": [
+            "Non, elle est supérieure",
+            "Oui, elle est inférieure",
+            "Les deux longueurs sont égales"
+          ],
+          "explanation": "32 601 km représente un réseau plus long que 2 859 km.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que faut-il lire pour connaître la longueur sans estimer la barre ?",
+          "answer": "La valeur en kilomètres indiquée à côté de la barre",
+          "options": [
+            "La valeur en kilomètres indiquée à côté de la barre",
+            "Une date d’invention de l’avion",
+            "Le nombre de couleurs du graphique"
+          ],
+          "explanation": "Les valeurs exactes sont affichées avec les barres.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle conclusion est rigoureuse à partir du document et du cours ?",
+          "answer": "Le réseau s’étend et facilite les échanges",
+          "options": [
+            "Le réseau s’étend et facilite les échanges",
+            "Tous les Français prennent le train dès 1849",
+            "Les voitures à chevaux ont totalement disparu en 1899"
+          ],
+          "explanation": "L’extension est documentée ; les disparitions totales ne le sont pas.",
+          "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
+          "id": "h2-transports-4-30"
+        }
+      ],
+      "graph": true
+    },
+    {
+      "title": "Causes et conséquences",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Développement de nouveaux moyens de transport",
+          "options": [
+            "Développement de nouveaux moyens de transport",
+            "Suppression immédiate de tous les transports anciens",
+            "Absence de mouvement"
+          ],
+          "explanation": "Le lien attendu est : Machine à vapeur → développement de nouveaux moyens de transport.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Machine à vapeur",
+          "id": "h2-transports-5-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Développement du transport ferroviaire",
+          "options": [
+            "Développement du transport ferroviaire",
+            "Transport uniquement maritime",
+            "Retour obligatoire à la force animale"
+          ],
+          "explanation": "Le lien attendu est : Locomotive à vapeur → développement du transport ferroviaire.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Locomotive à vapeur",
+          "id": "h2-transports-5-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Transport maritime facilité",
+          "options": [
+            "Transport maritime facilité",
+            "Circulation sur les rails",
+            "Disparition du transport par mer"
+          ],
+          "explanation": "Le lien attendu est : Bateau à vapeur → transport maritime facilité.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Bateau à vapeur",
+          "id": "h2-transports-5-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Temps de déplacement réduit",
+          "options": [
+            "Temps de déplacement réduit",
+            "Voyages toujours plus lents",
+            "Impossibilité de déplacer les personnes"
+          ],
+          "explanation": "Le lien attendu est : Des voyages plus rapides → temps de déplacement réduit.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Des voyages plus rapides",
+          "id": "h2-transports-5-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Développement du commerce",
+          "options": [
+            "Développement du commerce",
+            "Interdiction des échanges",
+            "Disparition des produits à transporter"
+          ],
+          "explanation": "Le lien attendu est : Acheminement facilité des marchandises → développement du commerce.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Acheminement facilité des marchandises",
+          "id": "h2-transports-5-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Contribution à la croissance économique",
+          "options": [
+            "Contribution à la croissance économique",
+            "Disparition immédiate de tous les chevaux",
+            "Absence de liens avec l’économie"
+          ],
+          "explanation": "Le lien attendu est : Développement du commerce → contribution à la croissance économique.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Développement du commerce",
+          "id": "h2-transports-5-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Développement du réseau de chemin de fer",
+          "options": [
+            "Développement du réseau de chemin de fer",
+            "Raccourcissement du réseau ferré",
+            "Disparition des rails"
+          ],
+          "explanation": "Le lien attendu est : Extension des voies ferrées → développement du réseau de chemin de fer.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Extension des voies ferrées",
+          "id": "h2-transports-5-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Dépendance à la force animale",
+          "options": [
+            "Dépendance à la force animale",
+            "Fonctionnement uniquement à la vapeur",
+            "Transport maritime automatique"
+          ],
+          "explanation": "Le lien attendu est : Utilisation d’une voiture tirée par des chevaux → dépendance à la force animale.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Utilisation d’une voiture tirée par des chevaux",
+          "id": "h2-transports-5-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Voyages plus longs",
+          "options": [
+            "Voyages plus longs",
+            "Accélération immédiate de tous les voyages",
+            "Suppression de la durée des trajets"
+          ],
+          "explanation": "Le lien attendu est : Lenteur des anciennes voitures → voyages plus longs.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Lenteur des anciennes voitures",
+          "id": "h2-transports-5-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Déplacement moins facile à diriger",
+          "options": [
+            "Déplacement moins facile à diriger",
+            "Navigation à vapeur facilitée",
+            "Extension automatique du réseau ferré"
+          ],
+          "explanation": "Le lien attendu est : Difficultés de manœuvre d’une ancienne voiture → déplacement moins facile à diriger.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Difficultés de manœuvre d’une ancienne voiture",
+          "id": "h2-transports-5-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Possibilité de parcourir de plus grandes distances",
+          "options": [
+            "Possibilité de parcourir de plus grandes distances",
+            "Limitation obligatoire des déplacements à une rue",
+            "Disparition de tous les obstacles aux voyages"
+          ],
+          "explanation": "Le lien attendu est : Nouveaux moyens permettant d’aller plus loin → possibilité de parcourir de plus grandes distances.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Nouveaux moyens permettant d’aller plus loin",
+          "id": "h2-transports-5-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Accès plus facile à des lieux éloignés",
+          "options": [
+            "Accès plus facile à des lieux éloignés",
+            "Interdiction de voyager",
+            "Transformation de toutes les personnes en marchandises"
+          ],
+          "explanation": "Le lien attendu est : Transport des personnes facilité → accès plus facile à des lieux éloignés.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Transport des personnes facilité",
+          "id": "h2-transports-5-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Développement des déplacements maritimes",
+          "options": [
+            "Développement des déplacements maritimes",
+            "Disparition de toute navigation",
+            "Transport exclusivement sur rails"
+          ],
+          "explanation": "Le lien attendu est : Essor du transport par mer → développement des déplacements maritimes.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Essor du transport par mer",
+          "id": "h2-transports-5-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Développement des déplacements ferroviaires",
+          "options": [
+            "Développement des déplacements ferroviaires",
+            "Transport exclusivement par mer",
+            "Diminution obligatoire du réseau ferré"
+          ],
+          "explanation": "Le lien attendu est : Essor du transport sur rails → développement des déplacements ferroviaires.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Essor du transport sur rails",
+          "id": "h2-transports-5-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Réseau ferré français plus étendu",
+          "options": [
+            "Réseau ferré français plus étendu",
+            "Réseau ferré français réduit",
+            "Réseau resté identique"
+          ],
+          "explanation": "Le lien attendu est : Passage de 2 859 km à 32 601 km de réseau → réseau ferré français plus étendu.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Passage de 2 859 km à 32 601 km de réseau",
+          "id": "h2-transports-5-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Circulation des marchandises facilitée",
+          "options": [
+            "Circulation des marchandises facilitée",
+            "Fin de tout commerce",
+            "Obligation de ne transporter que des voyageurs"
+          ],
+          "explanation": "Le lien attendu est : Un chargement complet peut être déplacé plus facilement → circulation des marchandises facilitée.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Un chargement complet peut être déplacé plus facilement",
+          "id": "h2-transports-5-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Déplacement plus facile",
+          "options": [
+            "Déplacement plus facile",
+            "Disparition de tous les anciens véhicules",
+            "Suppression de toute distance"
+          ],
+          "explanation": "Le lien attendu est : Un nouveau transport réduit la difficulté d’un trajet → déplacement plus facile.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Un nouveau transport réduit la difficulté d’un trajet",
+          "id": "h2-transports-5-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Mobilité des personnes améliorée",
+          "options": [
+            "Mobilité des personnes améliorée",
+            "Obligation de rester au même endroit",
+            "Retour nécessaire aux trajets plus lents"
+          ],
+          "explanation": "Le lien attendu est : Des trajets deviennent plus rapides et vont plus loin → mobilité des personnes améliorée.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Des trajets deviennent plus rapides et vont plus loin",
+          "id": "h2-transports-5-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Essor des transports ferroviaire et maritime",
+          "options": [
+            "Essor des transports ferroviaire et maritime",
+            "Disparition du commerce",
+            "Arrêt des déplacements de marchandises"
+          ],
+          "explanation": "Le lien attendu est : Développement conjoint du rail et de la navigation à vapeur → essor des transports ferroviaire et maritime.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Développement conjoint du rail et de la navigation à vapeur",
+          "id": "h2-transports-5-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Accès à la modernité facilité",
+          "options": [
+            "Accès à la modernité facilité",
+            "Abandon certain de toute innovation",
+            "Retour automatique aux seules voitures à chevaux"
+          ],
+          "explanation": "Le lien attendu est : Les moyens de transport se modernisent → accès à la modernité facilité.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Les moyens de transport se modernisent",
+          "id": "h2-transports-5-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Échanges commerciaux facilités",
+          "options": [
+            "Échanges commerciaux facilités",
+            "Commerce rendu impossible",
+            "Suppression des marchandises"
+          ],
+          "explanation": "Le lien attendu est : Les produits circulent plus facilement entre les lieux → échanges commerciaux facilités.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Les produits circulent plus facilement entre les lieux",
+          "id": "h2-transports-5-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Le mécanisme étudié ne dépend pas de chevaux pour tirer le train",
+          "options": [
+            "Le mécanisme étudié ne dépend pas de chevaux pour tirer le train",
+            "Tous les chevaux disparaissent",
+            "Le train devient un bateau"
+          ],
+          "explanation": "Le lien attendu est : Une locomotive utilise la vapeur plutôt qu’un attelage → le mécanisme étudié ne dépend pas de chevaux pour tirer le train.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Une locomotive utilise la vapeur plutôt qu’un attelage",
+          "id": "h2-transports-5-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "La vapeur participe au déplacement maritime",
+          "options": [
+            "La vapeur participe au déplacement maritime",
+            "Il doit circuler sur des rails",
+            "Il devient une automobile"
+          ],
+          "explanation": "Le lien attendu est : Le bateau étudié utilise une machine à vapeur → la vapeur participe au déplacement maritime.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Le bateau étudié utilise une machine à vapeur",
+          "id": "h2-transports-5-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Le document montre un développement du chemin de fer",
+          "options": [
+            "Le document montre un développement du chemin de fer",
+            "Le document prouve une disparition du chemin de fer",
+            "Le document donne une vitesse exacte"
+          ],
+          "explanation": "Le lien attendu est : La longueur du réseau est beaucoup plus élevée à la seconde date → le document montre un développement du chemin de fer.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "La longueur du réseau est beaucoup plus élevée à la seconde date",
+          "id": "h2-transports-5-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Elles se déplacent plus facilement",
+          "options": [
+            "Elles se déplacent plus facilement",
+            "Elles ne peuvent plus voyager",
+            "Elles sont toutes obligées de prendre le train"
+          ],
+          "explanation": "Le lien attendu est : Les personnes disposent de transports améliorés → elles se déplacent plus facilement.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Les personnes disposent de transports améliorés",
+          "id": "h2-transports-5-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Le commerce peut se développer",
+          "options": [
+            "Le commerce peut se développer",
+            "Les échanges deviennent impossibles",
+            "Le réseau ferré doit disparaître"
+          ],
+          "explanation": "Le lien attendu est : Les marchandises arrivent plus facilement à destination → le commerce peut se développer.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Les marchandises arrivent plus facilement à destination",
+          "id": "h2-transports-5-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "L’économie bénéficie de ces évolutions",
+          "options": [
+            "L’économie bénéficie de ces évolutions",
+            "Tous les moyens anciens disparaissent le même jour",
+            "Aucun effet économique n’est possible"
+          ],
+          "explanation": "Le lien attendu est : Les transports se développent et les échanges augmentent → l’économie bénéficie de ces évolutions.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Les transports se développent et les échanges augmentent",
+          "id": "h2-transports-5-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Le document illustre une limite des anciens transports",
+          "options": [
+            "Le document illustre une limite des anciens transports",
+            "Il prouve que les locomotives n’existent pas",
+            "Il fournit la date de l’avion"
+          ],
+          "explanation": "Le lien attendu est : Un attelage ancien est difficile à diriger → le document illustre une limite des anciens transports.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Un attelage ancien est difficile à diriger",
+          "id": "h2-transports-5-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Des transports nouveaux apparaissent ou se développent",
+          "options": [
+            "Des transports nouveaux apparaissent ou se développent",
+            "Tous les voyages deviennent instantanés",
+            "Le commerce disparaît"
+          ],
+          "explanation": "Le lien attendu est : La vapeur ouvre de nouvelles possibilités de déplacement → des transports nouveaux apparaissent ou se développent.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "La vapeur ouvre de nouvelles possibilités de déplacement",
+          "id": "h2-transports-5-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "answer": "Les personnes et les marchandises circulent mieux",
+          "options": [
+            "Les personnes et les marchandises circulent mieux",
+            "Les distances géographiques cessent d’exister",
+            "Tous les transports deviennent ferroviaires"
+          ],
+          "explanation": "Le lien attendu est : Des trajets plus faciles, plus rapides et plus lointains → les personnes et les marchandises circulent mieux.",
+          "hint": "Choisis l’effet directement lié à cette situation, sans supposer une disparition totale des anciens transports.",
+          "context": "Des trajets plus faciles, plus rapides et plus lointains",
+          "id": "h2-transports-5-30"
+        }
+      ]
+    },
+    {
+      "title": "Bilan d’histoire",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Un élève attribue 1886 au train. Quel repère doit-il utiliser ?",
+          "answer": "1817",
+          "options": [
+            "1817",
+            "1850",
+            "1886"
+          ],
+          "explanation": "Le train est associé à 1817 dans le cours.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "inventions",
+          "id": "h2-transports-6-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète le repère du bateau à vapeur : ___ .",
+          "answer": "1850",
+          "aliases": [],
+          "explanation": "Le cours retient 1850.",
+          "hint": "Repère les mots importants de la consigne.",
+          "strict": false,
+          "tag": "inventions",
+          "id": "h2-transports-6-02"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle étiquette convient à « automobile » dans une frise du cours ?",
+          "answer": "1886",
+          "options": [
+            "1886",
+            "1817",
+            "1850"
+          ],
+          "explanation": "L’automobile est associée à 1886.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "inventions",
+          "id": "h2-transports-6-03"
+        },
+        {
+          "type": "choice",
+          "prompt": "Faut-il inventer un repère chronologique pour l’avion ?",
+          "answer": "Non",
+          "options": [
+            "Non",
+            "Oui, 1817",
+            "Oui, 1850"
+          ],
+          "explanation": "L’avion est mentionné sans date à retenir.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "inventions",
+          "id": "h2-transports-6-04"
+        },
+        {
+          "type": "choice",
+          "prompt": "Vrai ou faux : la machine à vapeur joue un rôle dans les nouveaux transports étudiés.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Elle accompagne le développement des locomotives et des bateaux à vapeur.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "inventions",
+          "id": "h2-transports-6-05"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel ordre des repères est correct ?",
+          "answer": "Train, bateau à vapeur, automobile",
+          "options": [
+            "Train, bateau à vapeur, automobile",
+            "Automobile, train, bateau à vapeur",
+            "Bateau à vapeur, automobile, train"
+          ],
+          "explanation": "1817, puis 1850, puis 1886.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "inventions",
+          "id": "h2-transports-6-06"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel véhicule ne correspond pas à un nouveau transport à vapeur dans les documents ?",
+          "answer": "La voiture tirée par des chevaux",
+          "options": [
+            "La voiture tirée par des chevaux",
+            "La locomotive à vapeur",
+            "Le bateau à vapeur"
+          ],
+          "explanation": "La voiture à chevaux illustre les transports anciens.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "inventions",
+          "id": "h2-transports-6-07"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel objet relie la locomotive et le bateau étudiés ?",
+          "answer": "La machine à vapeur",
+          "options": [
+            "La machine à vapeur",
+            "Un attelage identique",
+            "Un moteur d’avion daté"
+          ],
+          "explanation": "Leur développement est lié à la vapeur.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "inventions",
+          "id": "h2-transports-6-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel adjectif complète « réseau ___ » pour un ensemble de chemins de fer ?",
+          "answer": "ferroviaire",
+          "aliases": [],
+          "explanation": "Le chemin de fer est ferroviaire.",
+          "hint": "Repère les mots importants de la consigne.",
+          "strict": false,
+          "tag": "vocabulaire",
+          "id": "h2-transports-6-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel adjectif complète « transport ___ » lorsqu’on parle de la mer ?",
+          "answer": "maritime",
+          "aliases": [],
+          "explanation": "Maritime renvoie à la mer.",
+          "hint": "Repère les mots importants de la consigne.",
+          "strict": false,
+          "tag": "vocabulaire",
+          "id": "h2-transports-6-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Dans le cours, une marchandise est…",
+          "answer": "Un produit que l’on transporte et échange",
+          "options": [
+            "Un produit que l’on transporte et échange",
+            "Une date d’invention",
+            "Une unité de longueur"
+          ],
+          "explanation": "Les transports déplacent des personnes et des produits.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "vocabulaire",
+          "id": "h2-transports-6-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "L’expression « essor rapide » signifie…",
+          "answer": "Un développement rapide",
+          "options": [
+            "Un développement rapide",
+            "Une disparition complète",
+            "Une absence de changement"
+          ],
+          "explanation": "Essor signifie développement.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "vocabulaire",
+          "id": "h2-transports-6-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel mot convient aux échanges de marchandises ?",
+          "answer": "Le commerce",
+          "options": [
+            "Le commerce",
+            "La manœuvre",
+            "Le rail"
+          ],
+          "explanation": "Le commerce désigne les échanges de produits.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "vocabulaire",
+          "id": "h2-transports-6-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel terme le cours associe-t-il à l’accès aux nouveautés des transports ?",
+          "answer": "La modernité",
+          "options": [
+            "La modernité",
+            "La disparition du commerce",
+            "Le rétrécissement du réseau"
+          ],
+          "explanation": "L’accès à la modernité est cité dans les conséquences.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "vocabulaire",
+          "id": "h2-transports-6-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Vrai ou faux : les nouveaux transports peuvent faciliter les longs déplacements.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Ils permettent de se déplacer plus facilement et plus loin.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "avantages",
+          "id": "h2-transports-6-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel avantage concerne la durée d’un trajet ?",
+          "answer": "Se déplacer plus rapidement",
+          "options": [
+            "Se déplacer plus rapidement",
+            "Parcourir obligatoirement moins de distance",
+            "Supprimer toutes les marchandises"
+          ],
+          "explanation": "Les transports nouveaux accélèrent les déplacements.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "avantages",
+          "id": "h2-transports-6-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel avantage concerne l’espace parcouru ?",
+          "answer": "Aller plus loin",
+          "options": [
+            "Aller plus loin",
+            "Ne plus pouvoir changer de lieu",
+            "Faire disparaître les distances"
+          ],
+          "explanation": "Les déplacements peuvent couvrir de plus grandes distances.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "avantages",
+          "id": "h2-transports-6-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les avantages concernent-ils seulement les voyageurs ?",
+          "answer": "Non, aussi les marchandises",
+          "options": [
+            "Non, aussi les marchandises",
+            "Oui, jamais les marchandises",
+            "Non, seulement les rails"
+          ],
+          "explanation": "Personnes et marchandises bénéficient des transports.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "avantages",
+          "id": "h2-transports-6-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Vrai ou faux : les voitures à chevaux cessent toutes d’exister à l’arrivée du train.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Leur disparition n’est pas immédiate ; il faut nuancer la comparaison.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "avantages",
+          "id": "h2-transports-6-19"
+        },
+        {
+          "type": "self",
+          "prompt": "Explique avec tes mots ce qui change pour un voyageur.",
+          "model": "Il peut se déplacer plus facilement, plus rapidement et plus loin.",
+          "criteria": [
+            "J’évoque la facilité du déplacement.",
+            "J’évoque la rapidité ou les distances parcourues.",
+            "Je rédige une phrase complète."
+          ],
+          "tag": "avantages",
+          "id": "h2-transports-6-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Vrai ou faux : l’amélioration des transports peut favoriser les échanges.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Le transport facilité des marchandises favorise le commerce.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "economie",
+          "id": "h2-transports-6-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel enchaînement respecte le cours ?",
+          "answer": "Transport facilité → commerce favorisé",
+          "options": [
+            "Transport facilité → commerce favorisé",
+            "Transport facilité → commerce interdit",
+            "Commerce favorisé → disparition immédiate des chevaux"
+          ],
+          "explanation": "L’amélioration des transports facilite les échanges.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "economie",
+          "id": "h2-transports-6-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Les nouveaux transports contribuent à une croissance ___ importante.",
+          "answer": "économique",
+          "aliases": [],
+          "explanation": "Le cours parle de croissance économique.",
+          "hint": "Repère les mots importants de la consigne.",
+          "strict": false,
+          "tag": "economie",
+          "id": "h2-transports-6-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel effet économique faut-il éviter d’affirmer ?",
+          "answer": "Le commerce disparaît avec le train",
+          "options": [
+            "Le commerce disparaît avec le train",
+            "Le commerce se développe",
+            "L’économie bénéficie des transports"
+          ],
+          "explanation": "Le cours décrit un développement, pas une disparition du commerce.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "economie",
+          "id": "h2-transports-6-24"
+        },
+        {
+          "type": "self",
+          "prompt": "Explique le lien entre le transport des marchandises et l’économie.",
+          "model": "Les marchandises se déplacent plus facilement. Les échanges et le commerce se développent, ce qui contribue à la croissance économique.",
+          "criteria": [
+            "Je relie transport et circulation des marchandises.",
+            "Je mentionne le commerce.",
+            "Je relie ces évolutions à la croissance économique."
+          ],
+          "tag": "economie",
+          "id": "h2-transports-6-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle légende associer à un réseau de 2 859 km ?",
+          "answer": "France, 1849",
+          "options": [
+            "France, 1849",
+            "France, 1899",
+            "Date de l’automobile"
+          ],
+          "explanation": "2 859 km correspond à 1849.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "reseau",
+          "id": "h2-transports-6-26"
+        },
+        {
+          "type": "text",
+          "prompt": "En 1899, le document indique ___ km de voies.",
+          "answer": "32601",
+          "aliases": [
+            "32 601"
+          ],
+          "explanation": "La longueur est de 32 601 km.",
+          "hint": "Repère les mots importants de la consigne.",
+          "strict": false,
+          "tag": "reseau",
+          "id": "h2-transports-6-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "Entre les deux mesures du réseau, il s’est écoulé…",
+          "answer": "50 ans",
+          "options": [
+            "50 ans",
+            "5 ans",
+            "500 ans"
+          ],
+          "explanation": "1899 et 1849 sont séparées de 50 ans.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "reseau",
+          "id": "h2-transports-6-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Vrai ou faux : les barres du document doivent être de même longueur.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Les longueurs du réseau sont différentes ; les barres doivent être proportionnelles.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "tag": "reseau",
+          "id": "h2-transports-6-29"
+        },
+        {
+          "type": "self",
+          "prompt": "Que montre le document sur le réseau ferré français ?",
+          "model": "Il passe de 2 859 km en 1849 à 32 601 km en 1899. Il se développe fortement en cinquante ans.",
+          "criteria": [
+            "Je cite les deux dates.",
+            "J’associe les bonnes longueurs aux dates.",
+            "Je conclus à un développement du réseau."
+          ],
+          "tag": "reseau",
+          "id": "h2-transports-6-30"
+        }
+      ],
+      "graph": true
+    }
+  ],
+  "recap": [
+    "Selon le cours : train, 1817 ; bateau à vapeur, 1850 ; automobile, 1886. L’avion est mentionné sans date à apprendre.",
+    "Ferroviaire : chemin de fer. Maritime : mer. Les nouveaux transports facilitent et accélèrent les déplacements des personnes et des marchandises, et permettent d’aller plus loin.",
+    "Ils favorisent le commerce, la modernité et la croissance économique. Les voitures à chevaux ne disparaissent pas immédiatement.",
+    "Réseau ferré français : 2 859 km en 1849 ; 32 601 km en 1899, soit une période de 50 ans."
+  ]
+}

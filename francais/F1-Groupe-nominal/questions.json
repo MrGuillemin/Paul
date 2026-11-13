@@ -1,0 +1,3020 @@
+{
+  "key": "f1",
+  "title": "F1 · Le groupe nominal",
+  "intro": "Trouver le nom noyau et comprendre les mots qui l’accompagnent.",
+  "exercises": [
+    {
+      "title": "Reconnaître un groupe nominal",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "un petit chat",
+          "options": [
+            "un petit chat",
+            "court rapidement",
+            "très doucement"
+          ],
+          "explanation": "« un petit chat » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-01"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "les pommes rouges",
+          "options": [
+            "les pommes rouges",
+            "mange une pomme",
+            "assez loin"
+          ],
+          "explanation": "« les pommes rouges » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-02"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "la maison blanche",
+          "options": [
+            "la maison blanche",
+            "dort ici",
+            "plus tard"
+          ],
+          "explanation": "« la maison blanche » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-03"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "mon vélo neuf",
+          "options": [
+            "mon vélo neuf",
+            "chante bien",
+            "si vite"
+          ],
+          "explanation": "« mon vélo neuf » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-04"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "ces grands arbres",
+          "options": [
+            "ces grands arbres",
+            "part demain",
+            "tout près"
+          ],
+          "explanation": "« ces grands arbres » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-05"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "une fleur jaune",
+          "options": [
+            "une fleur jaune",
+            "revient souvent",
+            "vraiment mal"
+          ],
+          "explanation": "« une fleur jaune » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-06"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "le cahier bleu",
+          "options": [
+            "le cahier bleu",
+            "court rapidement",
+            "très doucement"
+          ],
+          "explanation": "« le cahier bleu » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-07"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "des enfants joyeux",
+          "options": [
+            "des enfants joyeux",
+            "mange une pomme",
+            "assez loin"
+          ],
+          "explanation": "« des enfants joyeux » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-08"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "notre vieux jardin",
+          "options": [
+            "notre vieux jardin",
+            "dort ici",
+            "plus tard"
+          ],
+          "explanation": "« notre vieux jardin » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-09"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "cette longue route",
+          "options": [
+            "cette longue route",
+            "chante bien",
+            "si vite"
+          ],
+          "explanation": "« cette longue route » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "les portes ouvertes",
+          "options": [
+            "les portes ouvertes",
+            "part demain",
+            "tout près"
+          ],
+          "explanation": "« les portes ouvertes » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "un chien fidèle",
+          "options": [
+            "un chien fidèle",
+            "revient souvent",
+            "vraiment mal"
+          ],
+          "explanation": "« un chien fidèle » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "ma sœur aînée",
+          "options": [
+            "ma sœur aînée",
+            "court rapidement",
+            "très doucement"
+          ],
+          "explanation": "« ma sœur aînée » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "ton ballon rond",
+          "options": [
+            "ton ballon rond",
+            "mange une pomme",
+            "assez loin"
+          ],
+          "explanation": "« ton ballon rond » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "ses chaussures noires",
+          "options": [
+            "ses chaussures noires",
+            "dort ici",
+            "plus tard"
+          ],
+          "explanation": "« ses chaussures noires » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "une belle journée",
+          "options": [
+            "une belle journée",
+            "chante bien",
+            "si vite"
+          ],
+          "explanation": "« une belle journée » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "les oiseaux du parc",
+          "options": [
+            "les oiseaux du parc",
+            "part demain",
+            "tout près"
+          ],
+          "explanation": "« les oiseaux du parc » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "le toit de la maison",
+          "options": [
+            "le toit de la maison",
+            "revient souvent",
+            "vraiment mal"
+          ],
+          "explanation": "« le toit de la maison » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "un panier de fruits",
+          "options": [
+            "un panier de fruits",
+            "court rapidement",
+            "très doucement"
+          ],
+          "explanation": "« un panier de fruits » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "la voiture de Julie",
+          "options": [
+            "la voiture de Julie",
+            "mange une pomme",
+            "assez loin"
+          ],
+          "explanation": "« la voiture de Julie » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "mes crayons verts",
+          "options": [
+            "mes crayons verts",
+            "dort ici",
+            "plus tard"
+          ],
+          "explanation": "« mes crayons verts » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "cet animal sauvage",
+          "options": [
+            "cet animal sauvage",
+            "chante bien",
+            "si vite"
+          ],
+          "explanation": "« cet animal sauvage » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "vos livres épais",
+          "options": [
+            "vos livres épais",
+            "part demain",
+            "tout près"
+          ],
+          "explanation": "« vos livres épais » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "le bruit des vagues",
+          "options": [
+            "le bruit des vagues",
+            "revient souvent",
+            "vraiment mal"
+          ],
+          "explanation": "« le bruit des vagues » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "des étoiles brillantes",
+          "options": [
+            "des étoiles brillantes",
+            "court rapidement",
+            "très doucement"
+          ],
+          "explanation": "« des étoiles brillantes » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "une tasse de thé",
+          "options": [
+            "une tasse de thé",
+            "mange une pomme",
+            "assez loin"
+          ],
+          "explanation": "« une tasse de thé » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "la photo de famille",
+          "options": [
+            "la photo de famille",
+            "dort ici",
+            "plus tard"
+          ],
+          "explanation": "« la photo de famille » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "leur nouveau voisin",
+          "options": [
+            "leur nouveau voisin",
+            "chante bien",
+            "si vite"
+          ],
+          "explanation": "« leur nouveau voisin » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "les branches du chêne",
+          "options": [
+            "les branches du chêne",
+            "part demain",
+            "tout près"
+          ],
+          "explanation": "« les branches du chêne » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve le groupe nominal parmi les trois propositions.",
+          "answer": "le sac de mon frère",
+          "options": [
+            "le sac de mon frère",
+            "revient souvent",
+            "vraiment mal"
+          ],
+          "explanation": "« le sac de mon frère » est construit autour d’un nom ; les autres propositions ne sont pas des groupes nominaux.",
+          "hint": "Cherche un groupe organisé autour d’un nom.",
+          "id": "f1-1-30"
+        }
+      ]
+    },
+    {
+      "title": "Identifier le nom noyau",
+      "questions": [
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "les",
+            "roses",
+            "parfumées",
+            "du",
+            "jardin"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « roses ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "les roses parfumées du jardin",
+          "id": "f1-2-01"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "un",
+            "bateau",
+            "blanc",
+            "sur",
+            "le",
+            "dessin"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « bateau ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "un bateau blanc sur le dessin",
+          "id": "f1-2-02"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "la",
+            "montagne",
+            "enneigée",
+            "du",
+            "tableau"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « montagne ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "la montagne enneigée du tableau",
+          "id": "f1-2-03"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "des",
+            "poissons",
+            "dorés",
+            "de",
+            "l’aquarium"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « poissons ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "des poissons dorés de l’aquarium",
+          "id": "f1-2-04"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "mon",
+            "manteau",
+            "épais",
+            "d’hiver"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « manteau ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "mon manteau épais d’hiver",
+          "id": "f1-2-05"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "cette",
+            "horloge",
+            "ancienne",
+            "du",
+            "salon"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « horloge ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "cette horloge ancienne du salon",
+          "id": "f1-2-06"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "nos",
+            "voisins",
+            "aimables",
+            "du",
+            "village"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « voisins ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "nos voisins aimables du village",
+          "id": "f1-2-07"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "le",
+            "jouet",
+            "cassé",
+            "de",
+            "Léa"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « jouet ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "le jouet cassé de Léa",
+          "id": "f1-2-08"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "une",
+            "plume",
+            "légère",
+            "d’oiseau"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « plume ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "une plume légère d’oiseau",
+          "id": "f1-2-09"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "tes",
+            "lunettes",
+            "rondes",
+            "de",
+            "soleil"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « lunettes ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "tes lunettes rondes de soleil",
+          "id": "f1-2-10"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "les",
+            "fenêtres",
+            "hautes",
+            "du",
+            "château"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « fenêtres ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "les fenêtres hautes du château",
+          "id": "f1-2-11"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "son",
+            "carnet",
+            "rouge",
+            "de",
+            "voyage"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « carnet ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "son carnet rouge de voyage",
+          "id": "f1-2-12"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "ces",
+            "paysages",
+            "calmes",
+            "de",
+            "campagne"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « paysages ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ces paysages calmes de campagne",
+          "id": "f1-2-13"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "la",
+            "rivière",
+            "profonde",
+            "du",
+            "récit"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « rivière ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "la rivière profonde du récit",
+          "id": "f1-2-14"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "un",
+            "chemin",
+            "étroit",
+            "de",
+            "forêt"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « chemin ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "un chemin étroit de forêt",
+          "id": "f1-2-15"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "notre",
+            "cuisine",
+            "lumineuse",
+            "de",
+            "vacances"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « cuisine ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "notre cuisine lumineuse de vacances",
+          "id": "f1-2-16"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "vos",
+            "valises",
+            "lourdes",
+            "de",
+            "voyage"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « valises ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "vos valises lourdes de voyage",
+          "id": "f1-2-17"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "leurs",
+            "gants",
+            "chauds",
+            "de",
+            "laine"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « gants ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "leurs gants chauds de laine",
+          "id": "f1-2-18"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "le",
+            "dessert",
+            "sucré",
+            "du",
+            "repas"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « dessert ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "le dessert sucré du repas",
+          "id": "f1-2-19"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "ma",
+            "trousse",
+            "violette",
+            "d’école"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « trousse ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ma trousse violette d’école",
+          "id": "f1-2-20"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "les",
+            "coussins",
+            "moelleux",
+            "du",
+            "canapé"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « coussins ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "les coussins moelleux du canapé",
+          "id": "f1-2-21"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "une",
+            "boîte",
+            "carrée",
+            "de",
+            "biscuits"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « boîte ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "une boîte carrée de biscuits",
+          "id": "f1-2-22"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "ce",
+            "tunnel",
+            "sombre",
+            "de",
+            "la",
+            "maquette"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « tunnel ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ce tunnel sombre de la maquette",
+          "id": "f1-2-23"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "des",
+            "feuilles",
+            "sèches",
+            "de",
+            "platane"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « feuilles ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "des feuilles sèches de platane",
+          "id": "f1-2-24"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "ton",
+            "livre",
+            "ancien",
+            "de",
+            "contes"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « livre ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ton livre ancien de contes",
+          "id": "f1-2-25"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "la",
+            "clé",
+            "dorée",
+            "du",
+            "coffre"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « clé ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "la clé dorée du coffre",
+          "id": "f1-2-26"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "mes",
+            "chaussettes",
+            "rayées",
+            "de",
+            "sport"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « chaussettes ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "mes chaussettes rayées de sport",
+          "id": "f1-2-27"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "cette",
+            "statue",
+            "blanche",
+            "de",
+            "marbre"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « statue ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "cette statue blanche de marbre",
+          "id": "f1-2-28"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "nos",
+            "amis",
+            "fidèles",
+            "du",
+            "quartier"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « amis ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "nos amis fidèles du quartier",
+          "id": "f1-2-29"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le nom noyau du groupe nominal.",
+          "words": [
+            "un",
+            "ruban",
+            "orange",
+            "de",
+            "fête"
+          ],
+          "answer": 1,
+          "explanation": "Le groupe est organisé autour du nom « ruban ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "un ruban orange de fête",
+          "id": "f1-2-30"
+        }
+      ]
+    },
+    {
+      "title": "Décomposer un groupe nominal",
+      "questions": [
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Les fleurs rouges du jardin",
+          "parts": [
+            "Les",
+            "fleurs",
+            "rouges",
+            "du jardin"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Les : déterminant ; fleurs : nom noyau ; rouges : adjectif ; du jardin : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-01"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Un cartable solide de collégien",
+          "parts": [
+            "Un",
+            "cartable",
+            "solide",
+            "de collégien"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Un : déterminant ; cartable : nom noyau ; solide : adjectif ; de collégien : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-02"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "La robe bleue de ma cousine",
+          "parts": [
+            "La",
+            "robe",
+            "bleue",
+            "de ma cousine"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "La : déterminant ; robe : nom noyau ; bleue : adjectif ; de ma cousine : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-03"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Ces bancs verts du square",
+          "parts": [
+            "Ces",
+            "bancs",
+            "verts",
+            "du square"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Ces : déterminant ; bancs : nom noyau ; verts : adjectif ; du square : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-04"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Mon ordinateur portable de travail",
+          "parts": [
+            "Mon",
+            "ordinateur",
+            "portable",
+            "de travail"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Mon : déterminant ; ordinateur : nom noyau ; portable : adjectif ; de travail : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-05"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Une cabane solitaire de pêcheur",
+          "parts": [
+            "Une",
+            "cabane",
+            "solitaire",
+            "de pêcheur"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Une : déterminant ; cabane : nom noyau ; solitaire : adjectif ; de pêcheur : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-06"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Les tours hautes du château",
+          "parts": [
+            "Les",
+            "tours",
+            "hautes",
+            "du château"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Les : déterminant ; tours : nom noyau ; hautes : adjectif ; du château : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-07"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Cette couverture douce de laine",
+          "parts": [
+            "Cette",
+            "couverture",
+            "douce",
+            "de laine"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Cette : déterminant ; couverture : nom noyau ; douce : adjectif ; de laine : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-08"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Nos exercices nouveaux de français",
+          "parts": [
+            "Nos",
+            "exercices",
+            "nouveaux",
+            "de français"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Nos : déterminant ; exercices : nom noyau ; nouveaux : adjectif ; de français : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-09"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Le portail rouillé du voisin",
+          "parts": [
+            "Le",
+            "portail",
+            "rouillé",
+            "du voisin"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Le : déterminant ; portail : nom noyau ; rouillé : adjectif ; du voisin : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-10"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Des gâteaux délicieux de la pâtisserie",
+          "parts": [
+            "Des",
+            "gâteaux",
+            "délicieux",
+            "de la pâtisserie"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Des : déterminant ; gâteaux : nom noyau ; délicieux : adjectif ; de la pâtisserie : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-11"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Ton stylo noir de dessin",
+          "parts": [
+            "Ton",
+            "stylo",
+            "noir",
+            "de dessin"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Ton : déterminant ; stylo : nom noyau ; noir : adjectif ; de dessin : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-12"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "La porte massive du musée",
+          "parts": [
+            "La",
+            "porte",
+            "massive",
+            "du musée"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "La : déterminant ; porte : nom noyau ; massive : adjectif ; du musée : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-13"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Mes billes transparentes de verre",
+          "parts": [
+            "Mes",
+            "billes",
+            "transparentes",
+            "de verre"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Mes : déterminant ; billes : nom noyau ; transparentes : adjectif ; de verre : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-14"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Une écharpe chaude de coton",
+          "parts": [
+            "Une",
+            "écharpe",
+            "chaude",
+            "de coton"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Une : déterminant ; écharpe : nom noyau ; chaude : adjectif ; de coton : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-15"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Ses bottes marron de pluie",
+          "parts": [
+            "Ses",
+            "bottes",
+            "marron",
+            "de pluie"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Ses : déterminant ; bottes : nom noyau ; marron : adjectif ; de pluie : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-16"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Leur jardin fleuri de campagne",
+          "parts": [
+            "Leur",
+            "jardin",
+            "fleuri",
+            "de campagne"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Leur : déterminant ; jardin : nom noyau ; fleuri : adjectif ; de campagne : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-17"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Les barques anciennes du port",
+          "parts": [
+            "Les",
+            "barques",
+            "anciennes",
+            "du port"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Les : déterminant ; barques : nom noyau ; anciennes : adjectif ; du port : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-18"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Votre table ronde de cuisine",
+          "parts": [
+            "Votre",
+            "table",
+            "ronde",
+            "de cuisine"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Votre : déterminant ; table : nom noyau ; ronde : adjectif ; de cuisine : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-19"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Cet oiseau bleu de la forêt",
+          "parts": [
+            "Cet",
+            "oiseau",
+            "bleu",
+            "de la forêt"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Cet : déterminant ; oiseau : nom noyau ; bleu : adjectif ; de la forêt : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-20"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Ma bouteille bleue d’eau",
+          "parts": [
+            "Ma",
+            "bouteille",
+            "bleue",
+            "d’eau"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Ma : déterminant ; bouteille : nom noyau ; bleue : adjectif ; d’eau : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-21"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Les chaises blanches de la terrasse",
+          "parts": [
+            "Les",
+            "chaises",
+            "blanches",
+            "de la terrasse"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Les : déterminant ; chaises : nom noyau ; blanches : adjectif ; de la terrasse : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-22"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Un bijou brillant de famille",
+          "parts": [
+            "Un",
+            "bijou",
+            "brillant",
+            "de famille"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Un : déterminant ; bijou : nom noyau ; brillant : adjectif ; de famille : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-23"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Notre promenade habituelle du dimanche",
+          "parts": [
+            "Notre",
+            "promenade",
+            "habituelle",
+            "du dimanche"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Notre : déterminant ; promenade : nom noyau ; habituelle : adjectif ; du dimanche : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-24"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Ces assiettes creuses de porcelaine",
+          "parts": [
+            "Ces",
+            "assiettes",
+            "creuses",
+            "de porcelaine"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Ces : déterminant ; assiettes : nom noyau ; creuses : adjectif ; de porcelaine : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-25"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Ta chemise propre de cérémonie",
+          "parts": [
+            "Ta",
+            "chemise",
+            "propre",
+            "de cérémonie"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Ta : déterminant ; chemise : nom noyau ; propre : adjectif ; de cérémonie : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-26"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Des branches fines de bouleau",
+          "parts": [
+            "Des",
+            "branches",
+            "fines",
+            "de bouleau"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Des : déterminant ; branches : nom noyau ; fines : adjectif ; de bouleau : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-27"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Le tapis coloré du couloir",
+          "parts": [
+            "Le",
+            "tapis",
+            "coloré",
+            "du couloir"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Le : déterminant ; tapis : nom noyau ; coloré : adjectif ; du couloir : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-28"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Sa chambre claire d’enfant",
+          "parts": [
+            "Sa",
+            "chambre",
+            "claire",
+            "d’enfant"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Sa : déterminant ; chambre : nom noyau ; claire : adjectif ; d’enfant : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-29"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chaque élément à sa fonction.",
+          "context": "Vos dessins précis de paysages",
+          "parts": [
+            "Vos",
+            "dessins",
+            "précis",
+            "de paysages"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Vos : déterminant ; dessins : nom noyau ; précis : adjectif ; de paysages : complément du nom",
+          "hint": "Le nom noyau est le centre ; le déterminant l’introduit, l’adjectif le précise et le complément du nom forme un groupe lié au nom.",
+          "id": "f1-3-30"
+        }
+      ]
+    },
+    {
+      "title": "Nom commun ou nom propre ?",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« chat » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "chat",
+          "id": "f1-4-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« liberté » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "liberté",
+          "id": "f1-4-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« ville » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "ville",
+          "id": "f1-4-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« enfant » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "enfant",
+          "id": "f1-4-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« montagne » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "montagne",
+          "id": "f1-4-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« rivière » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "rivière",
+          "id": "f1-4-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« livre » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "livre",
+          "id": "f1-4-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« musique » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "musique",
+          "id": "f1-4-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« jardin » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "jardin",
+          "id": "f1-4-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« courage » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "courage",
+          "id": "f1-4-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« voiture » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "voiture",
+          "id": "f1-4-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« école » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "école",
+          "id": "f1-4-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« mer » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "mer",
+          "id": "f1-4-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« pays » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "pays",
+          "id": "f1-4-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« famille » est un nom commun : il désigne une catégorie d’êtres, de choses ou d’idées.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "famille",
+          "id": "f1-4-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Marseille » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Marseille",
+          "id": "f1-4-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Julie » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Julie",
+          "id": "f1-4-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« France » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "France",
+          "id": "f1-4-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Paris » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Paris",
+          "id": "f1-4-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Léa » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Léa",
+          "id": "f1-4-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Lyon » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Lyon",
+          "id": "f1-4-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Victor » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Victor",
+          "id": "f1-4-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Bordeaux » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Bordeaux",
+          "id": "f1-4-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Alice » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Alice",
+          "id": "f1-4-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Europe » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Europe",
+          "id": "f1-4-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Nantes » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Nantes",
+          "id": "f1-4-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Hugo » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Hugo",
+          "id": "f1-4-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Toulouse » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Toulouse",
+          "id": "f1-4-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Emma » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Emma",
+          "id": "f1-4-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe ce nom.",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Nice » est un nom propre : il désigne ici une personne ou un lieu particulier et prend une majuscule.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Nice",
+          "id": "f1-4-30"
+        }
+      ]
+    },
+    {
+      "title": "Construire un groupe nominal",
+      "questions": [
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "un",
+            "chat",
+            "noir"
+          ],
+          "answer": "un chat noir",
+          "aliases": [
+            "un noir chat"
+          ],
+          "explanation": "Une construction correcte est « un chat noir ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-01"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "les",
+            "pommes",
+            "rouges"
+          ],
+          "answer": "les pommes rouges",
+          "aliases": [
+            "les rouges pommes"
+          ],
+          "explanation": "Une construction correcte est « les pommes rouges ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-02"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "le",
+            "vélo",
+            "de",
+            "mon",
+            "frère"
+          ],
+          "answer": "le vélo de mon frère",
+          "aliases": [],
+          "explanation": "Une construction correcte est « le vélo de mon frère ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-03"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "une",
+            "grande",
+            "maison"
+          ],
+          "answer": "une grande maison",
+          "aliases": [
+            "une maison grande"
+          ],
+          "explanation": "Une construction correcte est « une grande maison ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-04"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "mon",
+            "petit",
+            "chien"
+          ],
+          "answer": "mon petit chien",
+          "aliases": [
+            "mon chien petit"
+          ],
+          "explanation": "Une construction correcte est « mon petit chien ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-05"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "des",
+            "livres",
+            "épais"
+          ],
+          "answer": "des livres épais",
+          "aliases": [],
+          "explanation": "Une construction correcte est « des livres épais ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-06"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "cette",
+            "belle",
+            "fleur"
+          ],
+          "answer": "cette belle fleur",
+          "aliases": [
+            "cette fleur belle"
+          ],
+          "explanation": "Une construction correcte est « cette belle fleur ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-07"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "les",
+            "ballons",
+            "jaunes"
+          ],
+          "answer": "les ballons jaunes",
+          "aliases": [
+            "les jaunes ballons"
+          ],
+          "explanation": "Une construction correcte est « les ballons jaunes ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-08"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "une",
+            "tasse",
+            "de",
+            "café"
+          ],
+          "answer": "une tasse de café",
+          "aliases": [],
+          "explanation": "Une construction correcte est « une tasse de café ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-09"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "le",
+            "sac",
+            "de",
+            "Julie"
+          ],
+          "answer": "le sac de Julie",
+          "aliases": [],
+          "explanation": "Une construction correcte est « le sac de Julie ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-10"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "mes",
+            "crayons",
+            "bleus"
+          ],
+          "answer": "mes crayons bleus",
+          "aliases": [
+            "mes bleus crayons"
+          ],
+          "explanation": "Une construction correcte est « mes crayons bleus ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-11"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "notre",
+            "vieux",
+            "bateau"
+          ],
+          "answer": "notre vieux bateau",
+          "aliases": [
+            "notre bateau vieux"
+          ],
+          "explanation": "Une construction correcte est « notre vieux bateau ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-12"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "la",
+            "porte",
+            "du",
+            "jardin"
+          ],
+          "answer": "la porte du jardin",
+          "aliases": [],
+          "explanation": "Une construction correcte est « la porte du jardin ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-13"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "un",
+            "petit",
+            "village"
+          ],
+          "answer": "un petit village",
+          "aliases": [
+            "un village petit"
+          ],
+          "explanation": "Une construction correcte est « un petit village ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-14"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "ces",
+            "feuilles",
+            "vertes"
+          ],
+          "answer": "ces feuilles vertes",
+          "aliases": [
+            "ces vertes feuilles"
+          ],
+          "explanation": "Une construction correcte est « ces feuilles vertes ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-15"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "ta",
+            "nouvelle",
+            "robe"
+          ],
+          "answer": "ta nouvelle robe",
+          "aliases": [
+            "ta robe nouvelle"
+          ],
+          "explanation": "Une construction correcte est « ta nouvelle robe ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-16"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "une",
+            "boîte",
+            "de",
+            "chocolats"
+          ],
+          "answer": "une boîte de chocolats",
+          "aliases": [],
+          "explanation": "Une construction correcte est « une boîte de chocolats ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-17"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "les",
+            "chaussures",
+            "de",
+            "Léa"
+          ],
+          "answer": "les chaussures de Léa",
+          "aliases": [],
+          "explanation": "Une construction correcte est « les chaussures de Léa ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-18"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "un",
+            "grand",
+            "arbre"
+          ],
+          "answer": "un grand arbre",
+          "aliases": [
+            "un arbre grand"
+          ],
+          "explanation": "Une construction correcte est « un grand arbre ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-19"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "des",
+            "oiseaux",
+            "blancs"
+          ],
+          "answer": "des oiseaux blancs",
+          "aliases": [],
+          "explanation": "Une construction correcte est « des oiseaux blancs ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-20"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "le",
+            "cahier",
+            "de",
+            "français"
+          ],
+          "answer": "le cahier de français",
+          "aliases": [],
+          "explanation": "Une construction correcte est « le cahier de français ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-21"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "ma",
+            "jolie",
+            "trousse"
+          ],
+          "answer": "ma jolie trousse",
+          "aliases": [
+            "ma trousse jolie"
+          ],
+          "explanation": "Une construction correcte est « ma jolie trousse ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-22"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "ses",
+            "jouets",
+            "neufs"
+          ],
+          "answer": "ses jouets neufs",
+          "aliases": [],
+          "explanation": "Une construction correcte est « ses jouets neufs ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-23"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "la",
+            "chambre",
+            "des",
+            "enfants"
+          ],
+          "answer": "la chambre des enfants",
+          "aliases": [],
+          "explanation": "Une construction correcte est « la chambre des enfants ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-24"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "ce",
+            "petit",
+            "poisson"
+          ],
+          "answer": "ce petit poisson",
+          "aliases": [
+            "ce poisson petit"
+          ],
+          "explanation": "Une construction correcte est « ce petit poisson ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-25"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "les",
+            "rues",
+            "du",
+            "quartier"
+          ],
+          "answer": "les rues du quartier",
+          "aliases": [],
+          "explanation": "Une construction correcte est « les rues du quartier ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-26"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "une",
+            "longue",
+            "histoire"
+          ],
+          "answer": "une longue histoire",
+          "aliases": [
+            "une histoire longue"
+          ],
+          "explanation": "Une construction correcte est « une longue histoire ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-27"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "nos",
+            "amis",
+            "fidèles"
+          ],
+          "answer": "nos amis fidèles",
+          "aliases": [
+            "nos fidèles amis"
+          ],
+          "explanation": "Une construction correcte est « nos amis fidèles ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-28"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "le",
+            "toit",
+            "du",
+            "garage"
+          ],
+          "answer": "le toit du garage",
+          "aliases": [],
+          "explanation": "Une construction correcte est « le toit du garage ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-29"
+        },
+        {
+          "type": "order",
+          "prompt": "Construis un groupe nominal avec tous les mots.",
+          "words": [
+            "vos",
+            "belles",
+            "images"
+          ],
+          "answer": "vos belles images",
+          "aliases": [
+            "vos images belles"
+          ],
+          "explanation": "Une construction correcte est « vos belles images ».",
+          "hint": "Place le déterminant avec le nom ; garde ensemble les mots du complément du nom.",
+          "id": "f1-5-30"
+        }
+      ]
+    },
+    {
+      "title": "Bilan du groupe nominal",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Dans « les montagnes lointaines », quel est le nom noyau ?",
+          "answer": "montagnes",
+          "options": [
+            "montagnes",
+            "les",
+            "lointaines"
+          ],
+          "explanation": "Le nom noyau est montagnes.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-01"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel groupe est construit autour d’un nom ?",
+          "answer": "une lampe allumée",
+          "options": [
+            "une lampe allumée",
+            "avance lentement",
+            "très rapidement"
+          ],
+          "explanation": "Lampe est le nom noyau du groupe nominal.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-02"
+        },
+        {
+          "type": "choice",
+          "prompt": "Dans « ce vase fragile », quelle est la fonction de « fragile » ?",
+          "answer": "Adjectif",
+          "options": [
+            "Adjectif",
+            "Déterminant",
+            "Nom noyau"
+          ],
+          "explanation": "Fragile précise le nom vase.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-03"
+        },
+        {
+          "type": "choice",
+          "prompt": "Dans « un billet de train », quel est le complément du nom ?",
+          "answer": "de train",
+          "options": [
+            "de train",
+            "un",
+            "billet"
+          ],
+          "explanation": "De train complète le nom billet.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-04"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel élément introduit « ces chats curieux » ?",
+          "answer": "ces",
+          "options": [
+            "ces",
+            "chats",
+            "curieux"
+          ],
+          "explanation": "Ces est le déterminant.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-05"
+        },
+        {
+          "type": "choice",
+          "prompt": "Dans « la lumière du soleil », quel est le nom noyau ?",
+          "answer": "lumière",
+          "options": [
+            "lumière",
+            "soleil",
+            "du"
+          ],
+          "explanation": "Le groupe entier est organisé autour de lumière.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-06"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel mot est un nom propre ?",
+          "answer": "Rouen",
+          "options": [
+            "Rouen",
+            "village",
+            "voyage"
+          ],
+          "explanation": "Rouen désigne une ville particulière.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-07"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel mot est un nom commun ?",
+          "answer": "amitié",
+          "options": [
+            "amitié",
+            "Clara",
+            "Dijon"
+          ],
+          "explanation": "Amitié désigne une idée : c’est un nom commun.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-08"
+        },
+        {
+          "type": "choice",
+          "prompt": "Dans « notre voisin souriant », quel mot est un adjectif ?",
+          "answer": "souriant",
+          "options": [
+            "souriant",
+            "notre",
+            "voisin"
+          ],
+          "explanation": "Souriant précise le nom voisin.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-09"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel groupe contient un complément du nom ?",
+          "answer": "le panier du marché",
+          "options": [
+            "le panier du marché",
+            "le panier rouge",
+            "un panier"
+          ],
+          "explanation": "Du marché complète le nom panier.",
+          "hint": "Relis le contexte et les repères du cours.",
+          "id": "f1-6-10"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Dans ce nouveau groupe, clique sur le nom noyau.",
+          "words": [
+            "ces",
+            "nuages",
+            "gris"
+          ],
+          "answer": 1,
+          "explanation": "Le nom noyau est « nuages ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ces nuages gris",
+          "id": "f1-6-11"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Dans ce nouveau groupe, clique sur le nom noyau.",
+          "words": [
+            "la",
+            "guitare",
+            "de",
+            "Sarah"
+          ],
+          "answer": 1,
+          "explanation": "Le nom noyau est « guitare ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "la guitare de Sarah",
+          "id": "f1-6-12"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Dans ce nouveau groupe, clique sur le nom noyau.",
+          "words": [
+            "mon",
+            "ancien",
+            "bureau"
+          ],
+          "answer": 2,
+          "explanation": "Le nom noyau est « bureau ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "mon ancien bureau",
+          "id": "f1-6-13"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Dans ce nouveau groupe, clique sur le nom noyau.",
+          "words": [
+            "des",
+            "chemins",
+            "boueux"
+          ],
+          "answer": 1,
+          "explanation": "Le nom noyau est « chemins ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "des chemins boueux",
+          "id": "f1-6-14"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Dans ce nouveau groupe, clique sur le nom noyau.",
+          "words": [
+            "les",
+            "ailes",
+            "du",
+            "papillon"
+          ],
+          "answer": 1,
+          "explanation": "Le nom noyau est « ailes ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "les ailes du papillon",
+          "id": "f1-6-15"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Dans ce nouveau groupe, clique sur le nom noyau.",
+          "words": [
+            "une",
+            "nuit",
+            "étoilée"
+          ],
+          "answer": 1,
+          "explanation": "Le nom noyau est « nuit ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "une nuit étoilée",
+          "id": "f1-6-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Nom commun ou nom propre ?",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Amiens » est un nom propre.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Amiens",
+          "id": "f1-6-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Nom commun ou nom propre ?",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« patience » est un nom commun.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "patience",
+          "id": "f1-6-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Nom commun ou nom propre ?",
+          "answer": "Nom propre",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« Émilie » est un nom propre.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Émilie",
+          "id": "f1-6-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Nom commun ou nom propre ?",
+          "answer": "Nom commun",
+          "options": [
+            "Nom commun",
+            "Nom propre"
+          ],
+          "explanation": "« océan » est un nom commun.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "océan",
+          "id": "f1-6-20"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Décompose le groupe nominal.",
+          "context": "Un rideau léger de lin",
+          "parts": [
+            "Un",
+            "rideau",
+            "léger",
+            "de lin"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Un : déterminant ; rideau : nom noyau ; léger : adjectif ; de lin : complément du nom",
+          "hint": "Distingue le mot central et les éléments qui l’accompagnent.",
+          "id": "f1-6-21"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Décompose le groupe nominal.",
+          "context": "Les briques rouges du mur",
+          "parts": [
+            "Les",
+            "briques",
+            "rouges",
+            "du mur"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Les : déterminant ; briques : nom noyau ; rouges : adjectif ; du mur : complément du nom",
+          "hint": "Distingue le mot central et les éléments qui l’accompagnent.",
+          "id": "f1-6-22"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Décompose le groupe nominal.",
+          "context": "Cette lampe ronde de bureau",
+          "parts": [
+            "Cette",
+            "lampe",
+            "ronde",
+            "de bureau"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Cette : déterminant ; lampe : nom noyau ; ronde : adjectif ; de bureau : complément du nom",
+          "hint": "Distingue le mot central et les éléments qui l’accompagnent.",
+          "id": "f1-6-23"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Décompose le groupe nominal.",
+          "context": "Mes carnets épais de notes",
+          "parts": [
+            "Mes",
+            "carnets",
+            "épais",
+            "de notes"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Mes : déterminant ; carnets : nom noyau ; épais : adjectif ; de notes : complément du nom",
+          "hint": "Distingue le mot central et les éléments qui l’accompagnent.",
+          "id": "f1-6-24"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Décompose le groupe nominal.",
+          "context": "Notre équipe joyeuse de théâtre",
+          "parts": [
+            "Notre",
+            "équipe",
+            "joyeuse",
+            "de théâtre"
+          ],
+          "answers": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "options": [
+            "Déterminant",
+            "Nom noyau",
+            "Adjectif",
+            "Complément du nom"
+          ],
+          "explanation": "Notre : déterminant ; équipe : nom noyau ; joyeuse : adjectif ; de théâtre : complément du nom",
+          "hint": "Distingue le mot central et les éléments qui l’accompagnent.",
+          "id": "f1-6-25"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets ce groupe nominal en ordre.",
+          "words": [
+            "un",
+            "banc",
+            "de",
+            "bois"
+          ],
+          "answer": "un banc de bois",
+          "aliases": [],
+          "explanation": "Le groupe attendu est « un banc de bois ».",
+          "hint": "Commence par le déterminant, puis garde ensemble le complément du nom.",
+          "id": "f1-6-26"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets ce groupe nominal en ordre.",
+          "words": [
+            "les",
+            "cartes",
+            "du",
+            "jeu"
+          ],
+          "answer": "les cartes du jeu",
+          "aliases": [],
+          "explanation": "Le groupe attendu est « les cartes du jeu ».",
+          "hint": "Commence par le déterminant, puis garde ensemble le complément du nom.",
+          "id": "f1-6-27"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets ce groupe nominal en ordre.",
+          "words": [
+            "ma",
+            "boîte",
+            "à",
+            "musique"
+          ],
+          "answer": "ma boîte à musique",
+          "aliases": [],
+          "explanation": "Le groupe attendu est « ma boîte à musique ».",
+          "hint": "Commence par le déterminant, puis garde ensemble le complément du nom.",
+          "id": "f1-6-28"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets ce groupe nominal en ordre.",
+          "words": [
+            "des",
+            "feuilles",
+            "de",
+            "papier"
+          ],
+          "answer": "des feuilles de papier",
+          "aliases": [],
+          "explanation": "Le groupe attendu est « des feuilles de papier ».",
+          "hint": "Commence par le déterminant, puis garde ensemble le complément du nom.",
+          "id": "f1-6-29"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets ce groupe nominal en ordre.",
+          "words": [
+            "le",
+            "dessin",
+            "de",
+            "Zoé"
+          ],
+          "answer": "le dessin de Zoé",
+          "aliases": [],
+          "explanation": "Le groupe attendu est « le dessin de Zoé ».",
+          "hint": "Commence par le déterminant, puis garde ensemble le complément du nom.",
+          "id": "f1-6-30"
+        }
+      ]
+    }
+  ],
+  "recap": [
+    "Un groupe nominal est organisé autour d’un nom, appelé nom noyau.",
+    "Un nom commun désigne une catégorie d’êtres, de choses ou d’idées. Un nom propre désigne ici un être ou un lieu particulier et commence par une majuscule.",
+    "Le déterminant accompagne le nom. Un adjectif le précise. Un complément du nom apporte une précision sous la forme d’un groupe.",
+    "Dans « les pommes rouges de mon jardin » : les = déterminant ; pommes = nom noyau ; rouges = adjectif ; de mon jardin = complément du nom."
+  ]
+}

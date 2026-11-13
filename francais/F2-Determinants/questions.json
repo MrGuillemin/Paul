@@ -1,0 +1,2449 @@
+{
+  "key": "f2",
+  "title": "F2 · Les déterminants",
+  "intro": "Reconnaître les familles de déterminants et choisir la forme adaptée au contexte.",
+  "exercises": [
+    {
+      "title": "Identifier le déterminant",
+      "questions": [
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "le",
+            "jardin"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « le » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "le jardin",
+          "id": "f2-1-01"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "la",
+            "fenêtre"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « la » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "la fenêtre",
+          "id": "f2-1-02"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "l’",
+            "arbre"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « l’ » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "l’arbre",
+          "id": "f2-1-03"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "les",
+            "montagnes"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « les » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "les montagnes",
+          "id": "f2-1-04"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "un",
+            "ballon"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « un » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "un ballon",
+          "id": "f2-1-05"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "une",
+            "affiche"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « une » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "une affiche",
+          "id": "f2-1-06"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "des",
+            "paniers"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « des » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "des paniers",
+          "id": "f2-1-07"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "mon",
+            "cahier"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « mon » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "mon cahier",
+          "id": "f2-1-08"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "ma",
+            "guitare"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « ma » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ma guitare",
+          "id": "f2-1-09"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "mes",
+            "chaussons"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « mes » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "mes chaussons",
+          "id": "f2-1-10"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "ton",
+            "cartable"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « ton » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ton cartable",
+          "id": "f2-1-11"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "ta",
+            "chemise"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « ta » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ta chemise",
+          "id": "f2-1-12"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "tes",
+            "crayons"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « tes » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "tes crayons",
+          "id": "f2-1-13"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "son",
+            "bateau"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « son » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "son bateau",
+          "id": "f2-1-14"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "sa",
+            "robe"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « sa » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "sa robe",
+          "id": "f2-1-15"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "ses",
+            "bottes"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « ses » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ses bottes",
+          "id": "f2-1-16"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "notre",
+            "jardin"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « notre » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "notre jardin",
+          "id": "f2-1-17"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "nos",
+            "voisins"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « nos » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "nos voisins",
+          "id": "f2-1-18"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "votre",
+            "porte"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « votre » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "votre porte",
+          "id": "f2-1-19"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "vos",
+            "valises"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « vos » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "vos valises",
+          "id": "f2-1-20"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "leur",
+            "chien"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « leur » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "leur chien",
+          "id": "f2-1-21"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "leurs",
+            "vélos"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « leurs » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "leurs vélos",
+          "id": "f2-1-22"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "ce",
+            "portail"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « ce » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ce portail",
+          "id": "f2-1-23"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "cet",
+            "arbre"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « cet » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "cet arbre",
+          "id": "f2-1-24"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "cette",
+            "chaise"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « cette » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "cette chaise",
+          "id": "f2-1-25"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "ces",
+            "fleurs"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « ces » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ces fleurs",
+          "id": "f2-1-26"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "notre",
+            "classe"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « notre » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "notre classe",
+          "id": "f2-1-27"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "votre",
+            "maison"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « votre » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "votre maison",
+          "id": "f2-1-28"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "une",
+            "étoile"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « une » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "une étoile",
+          "id": "f2-1-29"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant du groupe nominal indiqué.",
+          "words": [
+            "les",
+            "feuilles"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « les » : il accompagne le nom.",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "les feuilles",
+          "id": "f2-1-30"
+        }
+      ]
+    },
+    {
+      "title": "Classer les déterminants",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Le » dans cette phrase.",
+          "answer": "Article défini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Le est un article défini.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Le chat dort.",
+          "id": "f2-2-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « La » dans cette phrase.",
+          "answer": "Article défini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "La est un article défini.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "La porte est ouverte.",
+          "id": "f2-2-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « L’ » dans cette phrase.",
+          "answer": "Article défini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "L’ est la forme élidée d’un article défini.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "L’oiseau chante.",
+          "id": "f2-2-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Les » dans cette phrase.",
+          "answer": "Article défini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Les est un article défini pluriel.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Les enfants lisent.",
+          "id": "f2-2-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Un » dans cette phrase.",
+          "answer": "Article indéfini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Un est un article indéfini.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Un chien aboie.",
+          "id": "f2-2-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Une » dans cette phrase.",
+          "answer": "Article indéfini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Une est un article indéfini.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Une fleur pousse.",
+          "id": "f2-2-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Des » dans cette phrase.",
+          "answer": "Article indéfini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Ici des introduit des oiseaux sans contraction avec de.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Des oiseaux volent.",
+          "id": "f2-2-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « au » dans cette phrase.",
+          "answer": "Article contracté",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Au remplace à + le.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Je parle au voisin.",
+          "id": "f2-2-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « aux » dans cette phrase.",
+          "answer": "Article contracté",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Aux remplace à + les.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Elle écrit aux élèves.",
+          "id": "f2-2-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « du » dans cette phrase.",
+          "answer": "Article contracté",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Du remplace de + le.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "La porte du garage est lourde.",
+          "id": "f2-2-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « des » dans cette phrase.",
+          "answer": "Article contracté",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Des remplace de + les dans de les murs.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "La couleur des murs change.",
+          "id": "f2-2-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Mon » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Mon est un possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Mon vélo est neuf.",
+          "id": "f2-2-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Ma » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Ma est un possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Ma veste est chaude.",
+          "id": "f2-2-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Mes » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Mes est un possessif pluriel.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Mes livres sont rangés.",
+          "id": "f2-2-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Ton » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Ton est un possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Ton ballon roule.",
+          "id": "f2-2-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Ta » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Ta est un possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Ta sœur arrive.",
+          "id": "f2-2-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Tes » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Tes est un possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Tes cahiers sont ouverts.",
+          "id": "f2-2-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Son » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Son est un possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Son manteau est bleu.",
+          "id": "f2-2-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Sa » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Sa est un possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Sa montre fonctionne.",
+          "id": "f2-2-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Ses » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Ses est un possessif pluriel.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Ses clés sont sur la table.",
+          "id": "f2-2-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Notre » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Notre est un possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Notre maison est proche.",
+          "id": "f2-2-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Nos » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Nos est un possessif pluriel.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Nos amis arrivent.",
+          "id": "f2-2-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Votre » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Votre est un possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Votre voiture est propre.",
+          "id": "f2-2-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Vos » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Vos est un possessif pluriel.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Vos gants sont secs.",
+          "id": "f2-2-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Leur » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Leur accompagne ici un nom singulier.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Leur chat est calme.",
+          "id": "f2-2-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Leurs » dans cette phrase.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Leurs accompagne ici un nom pluriel.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Leurs sacs sont lourds.",
+          "id": "f2-2-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Ce » dans cette phrase.",
+          "answer": "Déterminant démonstratif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Ce est un démonstratif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Ce jardin est fleuri.",
+          "id": "f2-2-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Cet » dans cette phrase.",
+          "answer": "Déterminant démonstratif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Cet est un démonstratif devant arbre.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Cet arbre est immense.",
+          "id": "f2-2-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Cette » dans cette phrase.",
+          "answer": "Déterminant démonstratif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Cette est un démonstratif féminin singulier.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Cette route est longue.",
+          "id": "f2-2-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant « Ces » dans cette phrase.",
+          "answer": "Déterminant démonstratif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Ces est un démonstratif pluriel.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "Ces fenêtres sont hautes.",
+          "id": "f2-2-30"
+        }
+      ]
+    },
+    {
+      "title": "Choisir le bon déterminant",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif qui convient.",
+          "answer": "Cet",
+          "options": [
+            "Cet",
+            "Ce",
+            "Cette"
+          ],
+          "explanation": "Arbre est masculin singulier et commence par une voyelle : cet.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ arbre est immense.",
+          "id": "f2-3-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif qui convient.",
+          "answer": "Ces",
+          "options": [
+            "Ces",
+            "Cet",
+            "Cette"
+          ],
+          "explanation": "Enfants est pluriel : ces.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ enfants jouent dans la cour.",
+          "id": "f2-3-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Je parle de la voiture qui m’appartient. Choisis le possessif.",
+          "answer": "Ma",
+          "options": [
+            "Ma",
+            "Mon",
+            "Mes"
+          ],
+          "explanation": "Voiture est féminin singulier : ma.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ voiture est rouge.",
+          "id": "f2-3-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Ce livre m’appartient. Choisis le possessif.",
+          "answer": "Mon",
+          "options": [
+            "Mon",
+            "Ma",
+            "Mes"
+          ],
+          "explanation": "Livre est masculin singulier : mon.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ livre est sur la table.",
+          "id": "f2-3-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Ces chaussures t’appartiennent. Choisis le possessif.",
+          "answer": "Tes",
+          "options": [
+            "Tes",
+            "Ton",
+            "Ta"
+          ],
+          "explanation": "Chaussures est pluriel : tes.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ chaussures sont neuves.",
+          "id": "f2-3-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette trousse t’appartient. Choisis le possessif.",
+          "answer": "Ta",
+          "options": [
+            "Ta",
+            "Ton",
+            "Tes"
+          ],
+          "explanation": "Trousse est féminin singulier : ta.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ trousse est ouverte.",
+          "id": "f2-3-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Ce manteau appartient à Léa. Choisis le possessif.",
+          "answer": "Son",
+          "options": [
+            "Son",
+            "Sa",
+            "Ses"
+          ],
+          "explanation": "Manteau est masculin singulier : son.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ manteau est chaud.",
+          "id": "f2-3-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette robe appartient à Paul. Choisis le possessif.",
+          "answer": "Sa",
+          "options": [
+            "Sa",
+            "Son",
+            "Ses"
+          ],
+          "explanation": "Robe est féminin singulier : sa ; le déterminant s’accorde avec le nom.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ robe est propre.",
+          "id": "f2-3-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Les clés appartiennent à un voisin. Choisis le possessif.",
+          "answer": "Ses",
+          "options": [
+            "Ses",
+            "Ces",
+            "Sa"
+          ],
+          "explanation": "On demande un possessif pluriel : ses.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ clés sont ici.",
+          "id": "f2-3-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif pluriel pour montrer les maisons.",
+          "answer": "ces",
+          "options": [
+            "ces",
+            "ses",
+            "cette"
+          ],
+          "explanation": "On montre les maisons : ces est démonstratif et pluriel.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "Regarde ___ maisons.",
+          "id": "f2-3-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Cette classe est la nôtre. Choisis le possessif.",
+          "answer": "Notre",
+          "options": [
+            "Notre",
+            "Nos",
+            "Leurs"
+          ],
+          "explanation": "Classe est singulier : notre.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ classe est au premier étage.",
+          "id": "f2-3-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Ces vélos nous appartiennent. Choisis le possessif.",
+          "answer": "Nos",
+          "options": [
+            "Nos",
+            "Notre",
+            "Votre"
+          ],
+          "explanation": "Vélos est pluriel et appartient à nous : nos.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ vélos sont rangés.",
+          "id": "f2-3-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Ce chien appartient à plusieurs voisins. Choisis leur ou leurs.",
+          "answer": "Leur",
+          "options": [
+            "Leur",
+            "Leurs",
+            "Nos"
+          ],
+          "explanation": "Chien est singulier : leur.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ chien dort.",
+          "id": "f2-3-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Ces livres appartiennent à plusieurs enfants. Choisis leur ou leurs.",
+          "answer": "Leurs",
+          "options": [
+            "Leurs",
+            "Leur",
+            "Votre"
+          ],
+          "explanation": "Livres est pluriel : leurs.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ livres sont couverts.",
+          "id": "f2-3-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Ce sac vous appartient. Choisis le possessif.",
+          "answer": "Votre",
+          "options": [
+            "Votre",
+            "Vos",
+            "Notre"
+          ],
+          "explanation": "Sac est singulier et appartient à vous : votre.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ sac est prêt.",
+          "id": "f2-3-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Ces valises vous appartiennent. Choisis le possessif.",
+          "answer": "Vos",
+          "options": [
+            "Vos",
+            "Votre",
+            "Mon"
+          ],
+          "explanation": "Valises est pluriel : vos.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ valises sont fermées.",
+          "id": "f2-3-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif qui convient.",
+          "answer": "Cette",
+          "options": [
+            "Cette",
+            "Cet",
+            "Ce"
+          ],
+          "explanation": "Chaise est féminin singulier : cette.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ chaise est solide.",
+          "id": "f2-3-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif qui convient.",
+          "answer": "Ce",
+          "options": [
+            "Ce",
+            "Cet",
+            "Cette"
+          ],
+          "explanation": "Portail est masculin singulier devant une consonne : ce.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ portail est vert.",
+          "id": "f2-3-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif qui convient.",
+          "answer": "Cet",
+          "options": [
+            "Cet",
+            "Ce",
+            "Cette"
+          ],
+          "explanation": "Animal est masculin singulier devant une voyelle : cet.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ animal est petit.",
+          "id": "f2-3-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif qui convient.",
+          "answer": "Ces",
+          "options": [
+            "Ces",
+            "Cet",
+            "Cette"
+          ],
+          "explanation": "Oranges est pluriel : ces.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ oranges sont mûres.",
+          "id": "f2-3-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Le jardin m’appartient. Choisis le possessif.",
+          "answer": "Mon",
+          "options": [
+            "Mon",
+            "Ma",
+            "Mes"
+          ],
+          "explanation": "Jardin est masculin singulier : mon.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ jardin est fleuri.",
+          "id": "f2-3-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Les billes m’appartiennent. Choisis le possessif.",
+          "answer": "Mes",
+          "options": [
+            "Mes",
+            "Mon",
+            "Ma"
+          ],
+          "explanation": "Billes est pluriel : mes.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ billes sont rondes.",
+          "id": "f2-3-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Le vélo t’appartient. Choisis le possessif.",
+          "answer": "Ton",
+          "options": [
+            "Ton",
+            "Ta",
+            "Tes"
+          ],
+          "explanation": "Vélo est masculin singulier : ton.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ vélo est neuf.",
+          "id": "f2-3-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Les bottes appartiennent à une seule personne. Choisis le possessif.",
+          "answer": "Ses",
+          "options": [
+            "Ses",
+            "Sa",
+            "Son"
+          ],
+          "explanation": "Bottes est pluriel : ses.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ bottes sèchent.",
+          "id": "f2-3-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif pour montrer cette étoile.",
+          "answer": "Cette",
+          "options": [
+            "Cette",
+            "Cet",
+            "Ce"
+          ],
+          "explanation": "Étoile est féminin singulier : cette.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ étoile brille.",
+          "id": "f2-3-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif pour montrer cet écran.",
+          "answer": "Cet",
+          "options": [
+            "Cet",
+            "Ce",
+            "Cette"
+          ],
+          "explanation": "Écran est masculin singulier devant une voyelle : cet.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ écran est allumé.",
+          "id": "f2-3-26"
+        },
+        {
+          "type": "select",
+          "prompt": "La maison appartient à plusieurs personnes. Choisis leur ou leurs.",
+          "answer": "Leur",
+          "options": [
+            "Leur",
+            "Leurs",
+            "Nos"
+          ],
+          "explanation": "Maison est singulier : leur.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ maison est loin.",
+          "id": "f2-3-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Les jardins appartiennent à plusieurs personnes. Choisis leur ou leurs.",
+          "answer": "Leurs",
+          "options": [
+            "Leurs",
+            "Leur",
+            "Notre"
+          ],
+          "explanation": "Jardins est pluriel : leurs.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ jardins sont verts.",
+          "id": "f2-3-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif pour montrer un cahier.",
+          "answer": "Ce",
+          "options": [
+            "Ce",
+            "Cet",
+            "Cette"
+          ],
+          "explanation": "Cahier est masculin singulier devant une consonne : ce.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ cahier est bleu.",
+          "id": "f2-3-29"
+        },
+        {
+          "type": "select",
+          "prompt": "La photo nous appartient. Choisis le possessif.",
+          "answer": "Notre",
+          "options": [
+            "Notre",
+            "Nos",
+            "Votre"
+          ],
+          "explanation": "Photo est singulier et appartient à nous : notre.",
+          "hint": "Observe la catégorie demandée, le possesseur précisé et le genre ou le nombre du nom.",
+          "context": "___ photo est nette.",
+          "id": "f2-3-30"
+        }
+      ]
+    },
+    {
+      "title": "Les articles contractés",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Contracte « à + le » pour compléter : Je vais ___ collège.",
+          "answer": "au",
+          "aliases": [],
+          "explanation": "à + le donne « au ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + les » pour compléter : Elle répond ___ voisins.",
+          "answer": "aux",
+          "aliases": [],
+          "explanation": "à + les donne « aux ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + le » pour compléter : La couleur ___ mur change.",
+          "answer": "du",
+          "aliases": [],
+          "explanation": "de + le donne « du ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + les » pour compléter : Le chant ___ oiseaux résonne.",
+          "answer": "des",
+          "aliases": [],
+          "explanation": "de + les donne « des ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + le » pour compléter : Nous entrons ___ musée.",
+          "answer": "au",
+          "aliases": [],
+          "explanation": "à + le donne « au ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + les » pour compléter : Il téléphone ___ parents.",
+          "answer": "aux",
+          "aliases": [],
+          "explanation": "à + les donne « aux ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + le » pour compléter : La porte ___ salon est fermée.",
+          "answer": "du",
+          "aliases": [],
+          "explanation": "de + le donne « du ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + les » pour compléter : Les pages ___ cahiers sont blanches.",
+          "answer": "des",
+          "aliases": [],
+          "explanation": "de + les donne « des ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + le » pour compléter : Tu parles ___ professeur.",
+          "answer": "au",
+          "aliases": [],
+          "explanation": "à + le donne « au ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + les » pour compléter : Elle distribue des feuilles ___ élèves.",
+          "answer": "aux",
+          "aliases": [],
+          "explanation": "à + les donne « aux ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + le » pour compléter : Le toit ___ garage fuit.",
+          "answer": "du",
+          "aliases": [],
+          "explanation": "de + le donne « du ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + les » pour compléter : La cour ___ enfants est grande.",
+          "answer": "des",
+          "aliases": [],
+          "explanation": "de + les donne « des ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + le » pour compléter : Ils jouent ___ ballon.",
+          "answer": "au",
+          "aliases": [],
+          "explanation": "à + le donne « au ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + les » pour compléter : Il écrit ___ amis.",
+          "answer": "aux",
+          "aliases": [],
+          "explanation": "à + les donne « aux ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + le » pour compléter : La clé ___ coffre est dorée.",
+          "answer": "du",
+          "aliases": [],
+          "explanation": "de + le donne « du ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + les » pour compléter : Les branches ___ arbres bougent.",
+          "answer": "des",
+          "aliases": [],
+          "explanation": "de + les donne « des ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + le » pour compléter : Je pense ___ voyage.",
+          "answer": "au",
+          "aliases": [],
+          "explanation": "à + le donne « au ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + les » pour compléter : Elle sourit ___ visiteurs.",
+          "answer": "aux",
+          "aliases": [],
+          "explanation": "à + les donne « aux ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + le » pour compléter : Le pied ___ banc est cassé.",
+          "answer": "du",
+          "aliases": [],
+          "explanation": "de + le donne « du ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + les » pour compléter : Le rangement ___ jouets est terminé.",
+          "answer": "des",
+          "aliases": [],
+          "explanation": "de + les donne « des ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + le » pour compléter : Nous allons ___ marché.",
+          "answer": "au",
+          "aliases": [],
+          "explanation": "à + le donne « au ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-21"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + les » pour compléter : Tu apportes de l’eau ___ chevaux.",
+          "answer": "aux",
+          "aliases": [],
+          "explanation": "à + les donne « aux ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + le » pour compléter : La vitre ___ bus est propre.",
+          "answer": "du",
+          "aliases": [],
+          "explanation": "de + le donne « du ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-23"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + les » pour compléter : La voix ___ chanteurs s’élève.",
+          "answer": "des",
+          "aliases": [],
+          "explanation": "de + les donne « des ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + le » pour compléter : Elle s’intéresse ___ théâtre.",
+          "answer": "au",
+          "aliases": [],
+          "explanation": "à + le donne « au ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + les » pour compléter : Il explique la règle ___ joueurs.",
+          "answer": "aux",
+          "aliases": [],
+          "explanation": "à + les donne « aux ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + le » pour compléter : Le bord ___ tapis est usé.",
+          "answer": "du",
+          "aliases": [],
+          "explanation": "de + le donne « du ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « de + les » pour compléter : La taille ___ chaussures convient.",
+          "answer": "des",
+          "aliases": [],
+          "explanation": "de + les donne « des ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + le » pour compléter : Le garçon retourne ___ village.",
+          "answer": "au",
+          "aliases": [],
+          "explanation": "à + le donne « au ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-29"
+        },
+        {
+          "type": "text",
+          "prompt": "Contracte « à + les » pour compléter : La maîtresse parle ___ équipes.",
+          "answer": "aux",
+          "aliases": [],
+          "explanation": "à + les donne « aux ».",
+          "hint": "Combine la préposition et l’article défini.",
+          "strict": false,
+          "id": "f2-4-30"
+        }
+      ]
+    },
+    {
+      "title": "Possessif ou démonstratif ?",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« mon » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "mon chien",
+          "id": "f2-5-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« cette » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "cette voiture",
+          "id": "f2-5-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« leurs » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "leurs livres",
+          "id": "f2-5-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ces » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ces maisons",
+          "id": "f2-5-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ma » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ma chambre",
+          "id": "f2-5-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ce » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ce cahier",
+          "id": "f2-5-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« mes » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "mes dessins",
+          "id": "f2-5-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« cet » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "cet avion",
+          "id": "f2-5-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ton » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ton jardin",
+          "id": "f2-5-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« cette » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "cette fenêtre",
+          "id": "f2-5-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ta » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ta veste",
+          "id": "f2-5-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ces » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ces arbres",
+          "id": "f2-5-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« tes » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "tes chaussures",
+          "id": "f2-5-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ce » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ce ballon",
+          "id": "f2-5-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« son » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "son sac",
+          "id": "f2-5-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« cet » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "cet enfant",
+          "id": "f2-5-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« sa » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "sa boîte",
+          "id": "f2-5-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« cette » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "cette lampe",
+          "id": "f2-5-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ses » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ses crayons",
+          "id": "f2-5-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ces » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ces routes",
+          "id": "f2-5-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« notre » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "notre voisin",
+          "id": "f2-5-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ce » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ce toit",
+          "id": "f2-5-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« nos » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "nos valises",
+          "id": "f2-5-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« cet » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "cet objet",
+          "id": "f2-5-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« votre » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "votre terrasse",
+          "id": "f2-5-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« cette » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "cette image",
+          "id": "f2-5-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« vos » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "vos photos",
+          "id": "f2-5-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« ces » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "ces tables",
+          "id": "f2-5-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "possessif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« leur » est un déterminant possessif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "leur portail",
+          "id": "f2-5-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Le déterminant de ce groupe est-il possessif ou démonstratif ?",
+          "answer": "démonstratif",
+          "options": [
+            "possessif",
+            "démonstratif"
+          ],
+          "explanation": "« cet » est un déterminant démonstratif.",
+          "hint": "Le possessif indique un lien avec un possesseur ; le démonstratif sert à désigner ou montrer.",
+          "context": "cet oiseau",
+          "id": "f2-5-30"
+        }
+      ]
+    },
+    {
+      "title": "Bilan des déterminants",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Choisis le possessif : ces cahiers appartiennent à une seule personne.",
+          "answer": "Ses",
+          "options": [
+            "Ses",
+            "Ces",
+            "Son"
+          ],
+          "explanation": "Cahiers est pluriel et un possessif est demandé : ses.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ cahiers sont neufs.",
+          "id": "f2-6-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif pour montrer des robes.",
+          "answer": "Ces",
+          "options": [
+            "Ces",
+            "Ses",
+            "Cette"
+          ],
+          "explanation": "Ces est le démonstratif pluriel.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ robes sont rouges.",
+          "id": "f2-6-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète avec le démonstratif correct.",
+          "answer": "Cet",
+          "options": [
+            "Cet",
+            "Cette",
+            "Ce"
+          ],
+          "explanation": "Escalier est masculin singulier et commence par une voyelle.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ escalier est raide.",
+          "id": "f2-6-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète avec le démonstratif correct.",
+          "answer": "Cette",
+          "options": [
+            "Cette",
+            "Cet",
+            "Ce"
+          ],
+          "explanation": "Armoire est féminin singulier : cette.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ armoire est haute.",
+          "id": "f2-6-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le possessif : ce pull m’appartient.",
+          "answer": "Mon",
+          "options": [
+            "Mon",
+            "Ma",
+            "Mes"
+          ],
+          "explanation": "Pull est masculin singulier : mon.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ pull est bleu.",
+          "id": "f2-6-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le possessif : cette table m’appartient.",
+          "answer": "Ma",
+          "options": [
+            "Ma",
+            "Mon",
+            "Mes"
+          ],
+          "explanation": "Table est féminin singulier : ma.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ table est ronde.",
+          "id": "f2-6-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Plusieurs enfants possèdent un seul ballon. Complète avec leur ou leurs.",
+          "answer": "Leur",
+          "options": [
+            "Leur",
+            "Leurs",
+            "Nos"
+          ],
+          "explanation": "Ballon est singulier, donc leur.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ ballon est rouge.",
+          "id": "f2-6-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Plusieurs enfants possèdent plusieurs manteaux. Complète avec leur ou leurs.",
+          "answer": "Leurs",
+          "options": [
+            "Leurs",
+            "Leur",
+            "Notre"
+          ],
+          "explanation": "Manteaux est pluriel, donc leurs.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ manteaux sont chauds.",
+          "id": "f2-6-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis un possessif pour les jouets qui t’appartiennent.",
+          "answer": "Tes",
+          "options": [
+            "Tes",
+            "Ces",
+            "Ta"
+          ],
+          "explanation": "Tes est le possessif pluriel correspondant à toi.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ jouets sont propres.",
+          "id": "f2-6-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Choisis le démonstratif pour montrer un autobus.",
+          "answer": "Cet",
+          "options": [
+            "Cet",
+            "Ce",
+            "Cette"
+          ],
+          "explanation": "Autobus est masculin singulier devant une voyelle : cet.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "___ autobus arrive.",
+          "id": "f2-6-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle est la catégorie de « des » dans ce contexte ?",
+          "answer": "Article indéfini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Des introduit directement des chats, sans de + les.",
+          "hint": "Teste si des correspond à de + les dans la phrase.",
+          "context": "Des chats se reposent.",
+          "id": "f2-6-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle est la catégorie de « des » dans ce contexte ?",
+          "answer": "Article contracté",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Des correspond ici à de + les chats.",
+          "hint": "Teste si des correspond à de + les dans la phrase.",
+          "context": "Le panier des chats est neuf.",
+          "id": "f2-6-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle est la catégorie de « des » dans ce contexte ?",
+          "answer": "Article indéfini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Des introduit directement des nuages.",
+          "hint": "Teste si des correspond à de + les dans la phrase.",
+          "context": "Des nuages passent.",
+          "id": "f2-6-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle est la catégorie de « des » dans ce contexte ?",
+          "answer": "Article contracté",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Des correspond à de + les nuages.",
+          "hint": "Teste si des correspond à de + les dans la phrase.",
+          "context": "La forme des nuages varie.",
+          "id": "f2-6-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle est la catégorie de « des » dans ce contexte ?",
+          "answer": "Article indéfini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Des introduit directement des musiciens.",
+          "hint": "Teste si des correspond à de + les dans la phrase.",
+          "context": "Des musiciens arrivent.",
+          "id": "f2-6-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle est la catégorie de « des » dans ce contexte ?",
+          "answer": "Article contracté",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "Des correspond à de + les musiciens.",
+          "hint": "Teste si des correspond à de + les dans la phrase.",
+          "context": "Les instruments des musiciens brillent.",
+          "id": "f2-6-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec un article contracté : Nous allons ___ stade.",
+          "answer": "au",
+          "aliases": [],
+          "explanation": "La contraction attendue est « au ».",
+          "hint": "Retrouve la préposition et l’article définis réunis.",
+          "strict": false,
+          "id": "f2-6-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec un article contracté : La longueur ___ fleuve est indiquée.",
+          "answer": "du",
+          "aliases": [],
+          "explanation": "La contraction attendue est « du ».",
+          "hint": "Retrouve la préposition et l’article définis réunis.",
+          "strict": false,
+          "id": "f2-6-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec l’article contracté correspondant à « à + les » : Elle donne une consigne ___ groupes.",
+          "answer": "aux",
+          "aliases": [],
+          "explanation": "La contraction attendue est « aux ».",
+          "hint": "Retrouve la préposition et l’article définis réunis.",
+          "strict": false,
+          "id": "f2-6-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec l’article contracté correspondant à « de + les » : La peinture ___ portes sèche.",
+          "answer": "des",
+          "aliases": [],
+          "explanation": "La contraction attendue est « des ».",
+          "hint": "Retrouve la préposition et l’article définis réunis.",
+          "strict": false,
+          "id": "f2-6-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant du groupe indiqué.",
+          "answer": "Article défini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "« les » est de la catégorie article défini.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "les cerises",
+          "id": "f2-6-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant du groupe indiqué.",
+          "answer": "Article indéfini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "« un » est de la catégorie article indéfini.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "un tambour",
+          "id": "f2-6-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant du groupe indiqué.",
+          "answer": "Déterminant possessif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "« notre » est de la catégorie déterminant possessif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "notre fenêtre",
+          "id": "f2-6-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant du groupe indiqué.",
+          "answer": "Déterminant démonstratif",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "« ces » est de la catégorie déterminant démonstratif.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "ces lunettes",
+          "id": "f2-6-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Classe le déterminant du groupe indiqué.",
+          "answer": "Article indéfini",
+          "options": [
+            "Article défini",
+            "Article indéfini",
+            "Article contracté",
+            "Déterminant possessif",
+            "Déterminant démonstratif"
+          ],
+          "explanation": "« une » est de la catégorie article indéfini.",
+          "hint": "Appuie-toi sur le contexte et la définition des catégories.",
+          "context": "une cloche",
+          "id": "f2-6-25"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant de ce groupe.",
+          "words": [
+            "leurs",
+            "petites",
+            "cabanes"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « leurs ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "leurs petites cabanes",
+          "id": "f2-6-26"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant de ce groupe.",
+          "words": [
+            "cette",
+            "longue",
+            "avenue"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « cette ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "cette longue avenue",
+          "id": "f2-6-27"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant de ce groupe.",
+          "words": [
+            "ma",
+            "nouvelle",
+            "jupe"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « ma ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "ma nouvelle jupe",
+          "id": "f2-6-28"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant de ce groupe.",
+          "words": [
+            "un",
+            "immense",
+            "château"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « un ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "un immense château",
+          "id": "f2-6-29"
+        },
+        {
+          "type": "tokens",
+          "prompt": "Clique sur le déterminant de ce groupe.",
+          "words": [
+            "les",
+            "nouveaux",
+            "cahiers"
+          ],
+          "answer": 0,
+          "explanation": "Le déterminant est « les ».",
+          "hint": "Cherche le mot qui remplit exactement le rôle demandé.",
+          "context": "les nouveaux cahiers",
+          "id": "f2-6-30"
+        }
+      ]
+    }
+  ],
+  "recap": [
+    "Articles définis : le, la, l’, les. Articles indéfinis : un, une, des.",
+    "Articles contractés : à + le = au ; à + les = aux ; de + le = du ; de + les = des. Le contexte distingue les deux emplois de des.",
+    "Possessifs : mon, ma, mes, ton, ta, tes, son, sa, ses, notre, nos, votre, vos, leur, leurs. Ils accompagnent le nom en fonction de son genre et de son nombre.",
+    "Démonstratifs : ce, cet, cette, ces. Dans ces / ses, ces est démonstratif et ses est possessif. Leur accompagne un nom singulier et leurs un nom pluriel."
+  ]
+}

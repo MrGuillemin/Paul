@@ -1,0 +1,2065 @@
+{
+  "key": "f3",
+  "title": "F3 · Les nombres en lettres",
+  "intro": "Écrire, lire et corriger les nombres en respectant les accords et les traits d’union.",
+  "exercises": [
+    {
+      "title": "Écrire les nombres en lettres",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Écris 18 en lettres, avec les traits d’union.",
+          "answer": "dix-huit",
+          "aliases": [],
+          "explanation": "18 s’écrit « dix-huit ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 24 en lettres, avec les traits d’union.",
+          "answer": "vingt-quatre",
+          "aliases": [],
+          "explanation": "24 s’écrit « vingt-quatre ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 37 en lettres, avec les traits d’union.",
+          "answer": "trente-sept",
+          "aliases": [],
+          "explanation": "37 s’écrit « trente-sept ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 49 en lettres, avec les traits d’union.",
+          "answer": "quarante-neuf",
+          "aliases": [],
+          "explanation": "49 s’écrit « quarante-neuf ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 58 en lettres, avec les traits d’union.",
+          "answer": "cinquante-huit",
+          "aliases": [],
+          "explanation": "58 s’écrit « cinquante-huit ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 63 en lettres, avec les traits d’union.",
+          "answer": "soixante-trois",
+          "aliases": [],
+          "explanation": "63 s’écrit « soixante-trois ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 71 en lettres, avec les traits d’union.",
+          "answer": "soixante-et-onze",
+          "aliases": [],
+          "explanation": "71 s’écrit « soixante-et-onze ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 75 en lettres, avec les traits d’union.",
+          "answer": "soixante-quinze",
+          "aliases": [],
+          "explanation": "75 s’écrit « soixante-quinze ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 80 en lettres, avec les traits d’union.",
+          "answer": "quatre-vingts",
+          "aliases": [],
+          "explanation": "80 s’écrit « quatre-vingts ». Quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 81 en lettres, avec les traits d’union.",
+          "answer": "quatre-vingt-un",
+          "aliases": [],
+          "explanation": "81 s’écrit « quatre-vingt-un ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 88 en lettres, avec les traits d’union.",
+          "answer": "quatre-vingt-huit",
+          "aliases": [],
+          "explanation": "88 s’écrit « quatre-vingt-huit ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 90 en lettres, avec les traits d’union.",
+          "answer": "quatre-vingt-dix",
+          "aliases": [],
+          "explanation": "90 s’écrit « quatre-vingt-dix ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 97 en lettres, avec les traits d’union.",
+          "answer": "quatre-vingt-dix-sept",
+          "aliases": [],
+          "explanation": "97 s’écrit « quatre-vingt-dix-sept ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 100 en lettres, avec les traits d’union.",
+          "answer": "cent",
+          "aliases": [],
+          "explanation": "100 s’écrit « cent ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 101 en lettres, avec les traits d’union.",
+          "answer": "cent-un",
+          "aliases": [],
+          "explanation": "101 s’écrit « cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 120 en lettres, avec les traits d’union.",
+          "answer": "cent-vingt",
+          "aliases": [],
+          "explanation": "120 s’écrit « cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 180 en lettres, avec les traits d’union.",
+          "answer": "cent-quatre-vingts",
+          "aliases": [],
+          "explanation": "180 s’écrit « cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 200 en lettres, avec les traits d’union.",
+          "answer": "deux-cents",
+          "aliases": [],
+          "explanation": "200 s’écrit « deux-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 201 en lettres, avec les traits d’union.",
+          "answer": "deux-cent-un",
+          "aliases": [],
+          "explanation": "201 s’écrit « deux-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 280 en lettres, avec les traits d’union.",
+          "answer": "deux-cent-quatre-vingts",
+          "aliases": [],
+          "explanation": "280 s’écrit « deux-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 300 en lettres, avec les traits d’union.",
+          "answer": "trois-cents",
+          "aliases": [],
+          "explanation": "300 s’écrit « trois-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-21"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 320 en lettres, avec les traits d’union.",
+          "answer": "trois-cent-vingt",
+          "aliases": [],
+          "explanation": "320 s’écrit « trois-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 400 en lettres, avec les traits d’union.",
+          "answer": "quatre-cents",
+          "aliases": [],
+          "explanation": "400 s’écrit « quatre-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-23"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 500 en lettres, avec les traits d’union.",
+          "answer": "cinq-cents",
+          "aliases": [],
+          "explanation": "500 s’écrit « cinq-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 501 en lettres, avec les traits d’union.",
+          "answer": "cinq-cent-un",
+          "aliases": [],
+          "explanation": "501 s’écrit « cinq-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 520 en lettres, avec les traits d’union.",
+          "answer": "cinq-cent-vingt",
+          "aliases": [],
+          "explanation": "520 s’écrit « cinq-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 600 en lettres, avec les traits d’union.",
+          "answer": "six-cents",
+          "aliases": [],
+          "explanation": "600 s’écrit « six-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 800 en lettres, avec les traits d’union.",
+          "answer": "huit-cents",
+          "aliases": [],
+          "explanation": "800 s’écrit « huit-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 1000 en lettres, avec les traits d’union.",
+          "answer": "mille",
+          "aliases": [],
+          "explanation": "1 000 s’écrit « mille ». Mille est invariable.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-29"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 6000 en lettres, avec les traits d’union.",
+          "answer": "six-mille",
+          "aliases": [],
+          "explanation": "6 000 s’écrit « six-mille ». Mille est invariable.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-1-30"
+        }
+      ]
+    },
+    {
+      "title": "Écrire les nombres en chiffres",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : douze.",
+          "answer": "12",
+          "aliases": [
+            "12"
+          ],
+          "explanation": "12 s’écrit « douze ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : vingt-trois.",
+          "answer": "23",
+          "aliases": [
+            "23"
+          ],
+          "explanation": "23 s’écrit « vingt-trois ». Vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : trente-quatre.",
+          "answer": "34",
+          "aliases": [
+            "34"
+          ],
+          "explanation": "34 s’écrit « trente-quatre ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : quarante-cinq.",
+          "answer": "45",
+          "aliases": [
+            "45"
+          ],
+          "explanation": "45 s’écrit « quarante-cinq ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : cinquante-six.",
+          "answer": "56",
+          "aliases": [
+            "56"
+          ],
+          "explanation": "56 s’écrit « cinquante-six ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : soixante-sept.",
+          "answer": "67",
+          "aliases": [
+            "67"
+          ],
+          "explanation": "67 s’écrit « soixante-sept ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : soixante-douze.",
+          "answer": "72",
+          "aliases": [
+            "72"
+          ],
+          "explanation": "72 s’écrit « soixante-douze ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : soixante-seize.",
+          "answer": "76",
+          "aliases": [
+            "76"
+          ],
+          "explanation": "76 s’écrit « soixante-seize ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : quatre-vingt-deux.",
+          "answer": "82",
+          "aliases": [
+            "82"
+          ],
+          "explanation": "82 s’écrit « quatre-vingt-deux ». Vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : quatre-vingt-huit.",
+          "answer": "88",
+          "aliases": [
+            "88"
+          ],
+          "explanation": "88 s’écrit « quatre-vingt-huit ». Vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : quatre-vingt-onze.",
+          "answer": "91",
+          "aliases": [
+            "91"
+          ],
+          "explanation": "91 s’écrit « quatre-vingt-onze ». Vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : quatre-vingt-seize.",
+          "answer": "96",
+          "aliases": [
+            "96"
+          ],
+          "explanation": "96 s’écrit « quatre-vingt-seize ». Vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : cent-deux.",
+          "answer": "102",
+          "aliases": [
+            "102"
+          ],
+          "explanation": "102 s’écrit « cent-deux ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : cent-dix.",
+          "answer": "110",
+          "aliases": [
+            "110"
+          ],
+          "explanation": "110 s’écrit « cent-dix ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : cent-vingt-cinq.",
+          "answer": "125",
+          "aliases": [
+            "125"
+          ],
+          "explanation": "125 s’écrit « cent-vingt-cinq ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : cent-soixante.",
+          "answer": "160",
+          "aliases": [
+            "160"
+          ],
+          "explanation": "160 s’écrit « cent-soixante ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : cent-quatre-vingt-un.",
+          "answer": "181",
+          "aliases": [
+            "181"
+          ],
+          "explanation": "181 s’écrit « cent-quatre-vingt-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : deux-cent-deux.",
+          "answer": "202",
+          "aliases": [
+            "202"
+          ],
+          "explanation": "202 s’écrit « deux-cent-deux ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : deux-cent-cinquante.",
+          "answer": "250",
+          "aliases": [
+            "250"
+          ],
+          "explanation": "250 s’écrit « deux-cent-cinquante ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : deux-cent-quatre-vingt-un.",
+          "answer": "281",
+          "aliases": [
+            "281"
+          ],
+          "explanation": "281 s’écrit « deux-cent-quatre-vingt-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : trois-cents.",
+          "answer": "300",
+          "aliases": [
+            "300"
+          ],
+          "explanation": "300 s’écrit « trois-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-21"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : trois-cent-vingt-et-un.",
+          "answer": "321",
+          "aliases": [
+            "321"
+          ],
+          "explanation": "321 s’écrit « trois-cent-vingt-et-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : quatre-cent-un.",
+          "answer": "401",
+          "aliases": [
+            "401"
+          ],
+          "explanation": "401 s’écrit « quatre-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-23"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : cinq-cent-deux.",
+          "answer": "502",
+          "aliases": [
+            "502"
+          ],
+          "explanation": "502 s’écrit « cinq-cent-deux ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : cinq-cent-vingt.",
+          "answer": "520",
+          "aliases": [
+            "520"
+          ],
+          "explanation": "520 s’écrit « cinq-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : six-cent-un.",
+          "answer": "601",
+          "aliases": [
+            "601"
+          ],
+          "explanation": "601 s’écrit « six-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : sept-cents.",
+          "answer": "700",
+          "aliases": [
+            "700"
+          ],
+          "explanation": "700 s’écrit « sept-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : neuf-cents.",
+          "answer": "900",
+          "aliases": [
+            "900"
+          ],
+          "explanation": "900 s’écrit « neuf-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : mille-un.",
+          "answer": "1001",
+          "aliases": [
+            "1 001"
+          ],
+          "explanation": "1 001 s’écrit « mille-un ». Mille est invariable.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-29"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris en chiffres : six-mille.",
+          "answer": "6000",
+          "aliases": [
+            "6 000"
+          ],
+          "explanation": "6 000 s’écrit « six-mille ». Mille est invariable.",
+          "hint": "Écris uniquement les chiffres du nombre.",
+          "strict": false,
+          "id": "f3-2-30"
+        }
+      ]
+    },
+    {
+      "title": "Cent ou cents ?",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Pour 200, complète « deux-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "200 s’écrit « deux-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 201, complète « deux-___-un ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "201 s’écrit « deux-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 208, complète « deux-___-huit ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "208 s’écrit « deux-cent-huit ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 220, complète « deux-___-vingt ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "220 s’écrit « deux-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 280, complète « deux-___-quatre-vingts ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "280 s’écrit « deux-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 300, complète « trois-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "300 s’écrit « trois-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 301, complète « trois-___-un ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "301 s’écrit « trois-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 310, complète « trois-___-dix ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "310 s’écrit « trois-cent-dix ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 320, complète « trois-___-vingt ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "320 s’écrit « trois-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 380, complète « trois-___-quatre-vingts ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "380 s’écrit « trois-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 400, complète « quatre-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "400 s’écrit « quatre-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 401, complète « quatre-___-un ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "401 s’écrit « quatre-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 450, complète « quatre-___-cinquante ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "450 s’écrit « quatre-cent-cinquante ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 480, complète « quatre-___-quatre-vingts ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "480 s’écrit « quatre-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 500, complète « cinq-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "500 s’écrit « cinq-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 501, complète « cinq-___-un ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "501 s’écrit « cinq-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 510, complète « cinq-___-dix ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "510 s’écrit « cinq-cent-dix ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 520, complète « cinq-___-vingt ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "520 s’écrit « cinq-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 580, complète « cinq-___-quatre-vingts ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "580 s’écrit « cinq-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 600, complète « six-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "600 s’écrit « six-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 601, complète « six-___-un ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "601 s’écrit « six-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 620, complète « six-___-vingt ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "620 s’écrit « six-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 680, complète « six-___-quatre-vingts ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "680 s’écrit « six-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 700, complète « sept-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "700 s’écrit « sept-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 701, complète « sept-___-un ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "701 s’écrit « sept-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 720, complète « sept-___-vingt ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "720 s’écrit « sept-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 800, complète « huit-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "800 s’écrit « huit-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 801, complète « huit-___-un ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "801 s’écrit « huit-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 900, complète « neuf-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "900 s’écrit « neuf-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 901, complète « neuf-___-un ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "901 s’écrit « neuf-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-3-30"
+        }
+      ]
+    },
+    {
+      "title": "Vingt ou vingts ?",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Pour 80, complète « quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "80 s’écrit « quatre-vingts ». Quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 81, complète « quatre-___-un ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "81 s’écrit « quatre-vingt-un ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 82, complète « quatre-___-deux ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "82 s’écrit « quatre-vingt-deux ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 83, complète « quatre-___-trois ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "83 s’écrit « quatre-vingt-trois ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 84, complète « quatre-___-quatre ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "84 s’écrit « quatre-vingt-quatre ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 85, complète « quatre-___-cinq ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "85 s’écrit « quatre-vingt-cinq ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 86, complète « quatre-___-six ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "86 s’écrit « quatre-vingt-six ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 87, complète « quatre-___-sept ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "87 s’écrit « quatre-vingt-sept ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 88, complète « quatre-___-huit ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "88 s’écrit « quatre-vingt-huit ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 89, complète « quatre-___-neuf ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "89 s’écrit « quatre-vingt-neuf ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 90, complète « quatre-___-dix ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "90 s’écrit « quatre-vingt-dix ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 91, complète « quatre-___-onze ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "91 s’écrit « quatre-vingt-onze ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 92, complète « quatre-___-douze ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "92 s’écrit « quatre-vingt-douze ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 93, complète « quatre-___-treize ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "93 s’écrit « quatre-vingt-treize ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 94, complète « quatre-___-quatorze ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "94 s’écrit « quatre-vingt-quatorze ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 95, complète « quatre-___-quinze ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "95 s’écrit « quatre-vingt-quinze ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 96, complète « quatre-___-seize ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "96 s’écrit « quatre-vingt-seize ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 97, complète « quatre-___-dix-sept ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "97 s’écrit « quatre-vingt-dix-sept ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 98, complète « quatre-___-dix-huit ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "98 s’écrit « quatre-vingt-dix-huit ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 99, complète « quatre-___-dix-neuf ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "99 s’écrit « quatre-vingt-dix-neuf ». Vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 180, complète « cent-quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "180 s’écrit « cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 181, complète « cent-quatre-___-un ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "181 s’écrit « cent-quatre-vingt-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 188, complète « cent-quatre-___-huit ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "188 s’écrit « cent-quatre-vingt-huit ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 280, complète « deux-cent-quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "280 s’écrit « deux-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 281, complète « deux-cent-quatre-___-un ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "281 s’écrit « deux-cent-quatre-vingt-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 380, complète « trois-cent-quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "380 s’écrit « trois-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 480, complète « quatre-cent-quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "480 s’écrit « quatre-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 580, complète « cinq-cent-quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "580 s’écrit « cinq-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 680, complète « six-cent-quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "680 s’écrit « six-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 880, complète « huit-cent-quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "880 s’écrit « huit-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-4-30"
+        }
+      ]
+    },
+    {
+      "title": "Corriger les erreurs",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 88 : « quatre-vingts-huit ».",
+          "answer": "quatre-vingt-huit",
+          "aliases": [],
+          "explanation": "88 s’écrit « quatre-vingt-huit ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 520 : « cinq-cents-vingt ».",
+          "answer": "cinq-cent-vingt",
+          "aliases": [],
+          "explanation": "520 s’écrit « cinq-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 6000 : « six-milles ».",
+          "answer": "six-mille",
+          "aliases": [],
+          "explanation": "6 000 s’écrit « six-mille ». Mille est invariable.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 310 : « trois-cents-dix ».",
+          "answer": "trois-cent-dix",
+          "aliases": [],
+          "explanation": "310 s’écrit « trois-cent-dix ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 80 : « quatre-vingt ».",
+          "answer": "quatre-vingts",
+          "aliases": [],
+          "explanation": "80 s’écrit « quatre-vingts ». Quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 81 : « quatre-vingts-un ».",
+          "answer": "quatre-vingt-un",
+          "aliases": [],
+          "explanation": "81 s’écrit « quatre-vingt-un ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 180 : « cent-quatre-vingt ».",
+          "answer": "cent-quatre-vingts",
+          "aliases": [],
+          "explanation": "180 s’écrit « cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 181 : « cent-quatre-vingts-un ».",
+          "answer": "cent-quatre-vingt-un",
+          "aliases": [],
+          "explanation": "181 s’écrit « cent-quatre-vingt-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 200 : « deux-cent ».",
+          "answer": "deux-cents",
+          "aliases": [],
+          "explanation": "200 s’écrit « deux-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 201 : « deux-cents-un ».",
+          "answer": "deux-cent-un",
+          "aliases": [],
+          "explanation": "201 s’écrit « deux-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 280 : « deux-cent-quatre-vingt ».",
+          "answer": "deux-cent-quatre-vingts",
+          "aliases": [],
+          "explanation": "280 s’écrit « deux-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 281 : « deux-cents-quatre-vingt-un ».",
+          "answer": "deux-cent-quatre-vingt-un",
+          "aliases": [],
+          "explanation": "281 s’écrit « deux-cent-quatre-vingt-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 300 : « trois-cent ».",
+          "answer": "trois-cents",
+          "aliases": [],
+          "explanation": "300 s’écrit « trois-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 320 : « trois-cents-vingt ».",
+          "answer": "trois-cent-vingt",
+          "aliases": [],
+          "explanation": "320 s’écrit « trois-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 400 : « quatre-cent ».",
+          "answer": "quatre-cents",
+          "aliases": [],
+          "explanation": "400 s’écrit « quatre-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 401 : « quatre-cents-un ».",
+          "answer": "quatre-cent-un",
+          "aliases": [],
+          "explanation": "401 s’écrit « quatre-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 500 : « cinq-cent ».",
+          "answer": "cinq-cents",
+          "aliases": [],
+          "explanation": "500 s’écrit « cinq-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 501 : « cinq-cents-un ».",
+          "answer": "cinq-cent-un",
+          "aliases": [],
+          "explanation": "501 s’écrit « cinq-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 600 : « six-cent ».",
+          "answer": "six-cents",
+          "aliases": [],
+          "explanation": "600 s’écrit « six-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 601 : « six-cents-un ».",
+          "answer": "six-cent-un",
+          "aliases": [],
+          "explanation": "601 s’écrit « six-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 800 : « huit-cent ».",
+          "answer": "huit-cents",
+          "aliases": [],
+          "explanation": "800 s’écrit « huit-cents ». Cent est multiplié et aucun autre nombre ne le suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-21"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 801 : « huit-cents-un ».",
+          "answer": "huit-cent-un",
+          "aliases": [],
+          "explanation": "801 s’écrit « huit-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 1000 : « milles ».",
+          "answer": "mille",
+          "aliases": [],
+          "explanation": "1 000 s’écrit « mille ». Mille est invariable.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-23"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 2000 : « deux-milles ».",
+          "answer": "deux-mille",
+          "aliases": [],
+          "explanation": "2 000 s’écrit « deux-mille ». Mille est invariable.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 3000 : « trois-milles ».",
+          "answer": "trois-mille",
+          "aliases": [],
+          "explanation": "3 000 s’écrit « trois-mille ». Mille est invariable.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 4000 : « quatre-milles ».",
+          "answer": "quatre-mille",
+          "aliases": [],
+          "explanation": "4 000 s’écrit « quatre-mille ». Mille est invariable.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 91 : « quatre-vingts-onze ».",
+          "answer": "quatre-vingt-onze",
+          "aliases": [],
+          "explanation": "91 s’écrit « quatre-vingt-onze ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 97 : « quatre-vingts-dix-sept ».",
+          "answer": "quatre-vingt-dix-sept",
+          "aliases": [],
+          "explanation": "97 s’écrit « quatre-vingt-dix-sept ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 480 : « quatre-cent-quatre-vingt ».",
+          "answer": "quatre-cent-quatre-vingts",
+          "aliases": [],
+          "explanation": "480 s’écrit « quatre-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-29"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige l’écriture du nombre 580 : « cinq-cents-quatre-vingts ».",
+          "answer": "cinq-cent-quatre-vingts",
+          "aliases": [],
+          "explanation": "580 s’écrit « cinq-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-5-30"
+        }
+      ]
+    },
+    {
+      "title": "Défi final sur les nombres",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Écris 16 en lettres, avec les traits d’union.",
+          "answer": "seize",
+          "aliases": [],
+          "explanation": "16 s’écrit « seize ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-6-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 27 en lettres, avec les traits d’union.",
+          "answer": "vingt-sept",
+          "aliases": [],
+          "explanation": "27 s’écrit « vingt-sept ». Vingt reste sans s ici.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-6-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 33 en lettres, avec les traits d’union.",
+          "answer": "trente-trois",
+          "aliases": [],
+          "explanation": "33 s’écrit « trente-trois ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-6-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 46 en lettres, avec les traits d’union.",
+          "answer": "quarante-six",
+          "aliases": [],
+          "explanation": "46 s’écrit « quarante-six ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-6-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 59 en lettres, avec les traits d’union.",
+          "answer": "cinquante-neuf",
+          "aliases": [],
+          "explanation": "59 s’écrit « cinquante-neuf ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-6-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Écris 64 en lettres, avec les traits d’union.",
+          "answer": "soixante-quatre",
+          "aliases": [],
+          "explanation": "64 s’écrit « soixante-quatre ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Vérifie les traits d’union et les accords de cent, vingt et mille.",
+          "strict": true,
+          "id": "f3-6-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Convertis en chiffres : soixante-treize.",
+          "answer": "73",
+          "aliases": [],
+          "explanation": "73 s’écrit « soixante-treize ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Lis le nombre complet avant d’écrire les chiffres.",
+          "strict": false,
+          "id": "f3-6-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Convertis en chiffres : soixante-dix-huit.",
+          "answer": "78",
+          "aliases": [],
+          "explanation": "78 s’écrit « soixante-dix-huit ». Les éléments du nombre composé sont reliés par des traits d’union.",
+          "hint": "Lis le nombre complet avant d’écrire les chiffres.",
+          "strict": false,
+          "id": "f3-6-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Convertis en chiffres : quatre-vingt-trois.",
+          "answer": "83",
+          "aliases": [],
+          "explanation": "83 s’écrit « quatre-vingt-trois ». Vingt reste sans s ici.",
+          "hint": "Lis le nombre complet avant d’écrire les chiffres.",
+          "strict": false,
+          "id": "f3-6-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Convertis en chiffres : quatre-vingt-quatorze.",
+          "answer": "94",
+          "aliases": [],
+          "explanation": "94 s’écrit « quatre-vingt-quatorze ». Vingt reste sans s ici.",
+          "hint": "Lis le nombre complet avant d’écrire les chiffres.",
+          "strict": false,
+          "id": "f3-6-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Convertis en chiffres : cent-six.",
+          "answer": "106",
+          "aliases": [],
+          "explanation": "106 s’écrit « cent-six ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Lis le nombre complet avant d’écrire les chiffres.",
+          "strict": false,
+          "id": "f3-6-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Convertis en chiffres : cent-seize.",
+          "answer": "116",
+          "aliases": [],
+          "explanation": "116 s’écrit « cent-seize ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié.",
+          "hint": "Lis le nombre complet avant d’écrire les chiffres.",
+          "strict": false,
+          "id": "f3-6-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 1400, complète « mille-quatre-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "1 400 s’écrit « mille-quatre-cents ». Cent est multiplié et aucun autre nombre ne le suit; mille est invariable.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-6-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 1401, complète « mille-quatre-___-un ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "1 401 s’écrit « mille-quatre-cent-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; mille est invariable.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-6-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 2300, complète « deux-mille-trois-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "2 300 s’écrit « deux-mille-trois-cents ». Cent est multiplié et aucun autre nombre ne le suit; mille est invariable.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-6-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 2310, complète « deux-mille-trois-___-dix ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "2 310 s’écrit « deux-mille-trois-cent-dix ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; mille est invariable.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-6-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 3500, complète « trois-mille-cinq-___ ».",
+          "answer": "cents",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "3 500 s’écrit « trois-mille-cinq-cents ». Cent est multiplié et aucun autre nombre ne le suit; mille est invariable.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-6-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 3520, complète « trois-mille-cinq-___-vingt ».",
+          "answer": "cent",
+          "options": [
+            "cent",
+            "cents"
+          ],
+          "explanation": "3 520 s’écrit « trois-mille-cinq-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici; mille est invariable.",
+          "hint": "Cent ne prend un s que s’il est multiplié et qu’aucun autre nombre ne suit.",
+          "id": "f3-6-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 780, complète « sept-cent-quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "780 s’écrit « sept-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-6-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 781, complète « sept-cent-quatre-___-un ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "781 s’écrit « sept-cent-quatre-vingt-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-6-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 784, complète « sept-cent-quatre-___-quatre ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "784 s’écrit « sept-cent-quatre-vingt-quatre ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-6-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 820, complète « huit-cent-___ ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "820 s’écrit « huit-cent-vingt ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-6-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 1180, complète « mille-cent-quatre-___ ».",
+          "answer": "vingts",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "1 180 s’écrit « mille-cent-quatre-vingts ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; quatre-vingts prend un s lorsqu’aucun autre nombre ne suit; mille est invariable.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-6-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 1181, complète « mille-cent-quatre-___-un ».",
+          "answer": "vingt",
+          "options": [
+            "vingt",
+            "vingts"
+          ],
+          "explanation": "1 181 s’écrit « mille-cent-quatre-vingt-un ». Cent reste sans s lorsqu’il est suivi d’un autre nombre, ou lorsqu’il n’est pas multiplié; vingt reste sans s ici; mille est invariable.",
+          "hint": "Dans quatre-vingts, vérifie si un autre nombre suit vingt.",
+          "id": "f3-6-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 2000, choisis la bonne écriture.",
+          "answer": "deux-mille",
+          "options": [
+            "deux-mille",
+            "deux-milles",
+            "deux mille"
+          ],
+          "explanation": "2 000 s’écrit « deux-mille ». Mille est invariable.",
+          "hint": "Mille reste invariable ; dans la nouvelle orthographe, les éléments du nombre composé sont reliés par des traits d’union.",
+          "id": "f3-6-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 3001, choisis la bonne écriture.",
+          "answer": "trois-mille-un",
+          "options": [
+            "trois-mille-un",
+            "trois-milles-un",
+            "trois mille un"
+          ],
+          "explanation": "3 001 s’écrit « trois-mille-un ». Mille est invariable.",
+          "hint": "Mille reste invariable ; dans la nouvelle orthographe, les éléments du nombre composé sont reliés par des traits d’union.",
+          "id": "f3-6-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 4002, choisis la bonne écriture.",
+          "answer": "quatre-mille-deux",
+          "options": [
+            "quatre-mille-deux",
+            "quatre-milles-deux",
+            "quatre mille deux"
+          ],
+          "explanation": "4 002 s’écrit « quatre-mille-deux ». Mille est invariable.",
+          "hint": "Mille reste invariable ; dans la nouvelle orthographe, les éléments du nombre composé sont reliés par des traits d’union.",
+          "id": "f3-6-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 7000, choisis la bonne écriture.",
+          "answer": "sept-mille",
+          "options": [
+            "sept-mille",
+            "sept-milles",
+            "sept mille"
+          ],
+          "explanation": "7 000 s’écrit « sept-mille ». Mille est invariable.",
+          "hint": "Mille reste invariable ; dans la nouvelle orthographe, les éléments du nombre composé sont reliés par des traits d’union.",
+          "id": "f3-6-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 8003, choisis la bonne écriture.",
+          "answer": "huit-mille-trois",
+          "options": [
+            "huit-mille-trois",
+            "huit-milles-trois",
+            "huit mille trois"
+          ],
+          "explanation": "8 003 s’écrit « huit-mille-trois ». Mille est invariable.",
+          "hint": "Mille reste invariable ; dans la nouvelle orthographe, les éléments du nombre composé sont reliés par des traits d’union.",
+          "id": "f3-6-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Pour 9000, choisis la bonne écriture.",
+          "answer": "neuf-mille",
+          "options": [
+            "neuf-mille",
+            "neuf-milles",
+            "neuf mille"
+          ],
+          "explanation": "9 000 s’écrit « neuf-mille ». Mille est invariable.",
+          "hint": "Mille reste invariable ; dans la nouvelle orthographe, les éléments du nombre composé sont reliés par des traits d’union.",
+          "id": "f3-6-30"
+        }
+      ]
+    }
+  ],
+  "recap": [
+    "Les nombres composés s’écrivent avec des traits d’union entre leurs éléments : vingt-et-un, deux-cents, six-mille.",
+    "Cent prend un s lorsqu’il est multiplié et qu’aucun autre nombre ne suit : deux-cents ; mais deux-cent-un.",
+    "Vingt prend un s dans quatre-vingts lorsqu’aucun autre nombre ne suit : quatre-vingts ; mais quatre-vingt-huit.",
+    "Mille est invariable : six-mille. Les accords de cent et de vingt doivent être conservés même lorsqu’on accepte différentes majuscules ou formes de tirets."
+  ]
+}
