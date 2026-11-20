@@ -8,40 +8,40 @@
       "questions": [
         {
           "type": "choice",
-          "prompt": "Quel transport est associé à 1817 dans le cours ?",
+          "prompt": "Quel transport est associé à 1804 dans le rappel ?",
           "answer": "Le train",
           "options": [
             "Le train",
             "L’automobile",
             "Le bateau à vapeur"
           ],
-          "explanation": "Le cours associe le train à 1817.",
+          "explanation": "Le cours associe le train à 1804.",
           "hint": "Relis le contexte et les repères du cours.",
           "id": "h2-transports-1-01"
         },
         {
           "type": "choice",
-          "prompt": "Quelle date le cours associe-t-il au bateau à vapeur ?",
-          "answer": "1850",
+          "prompt": "En quelle année Fulton inaugure-t-il son service de bateau à vapeur sur l’Hudson ?",
+          "answer": "1807",
           "options": [
-            "1850",
-            "1817",
+            "1807",
+            "1804",
             "1886"
           ],
-          "explanation": "La date à mémoriser pour le bateau à vapeur est 1850.",
+          "explanation": "En 1807, Fulton inaugure son service de bateau à vapeur sur l’Hudson. Des essais de bateaux à vapeur ont eu lieu avant cette date.",
           "hint": "Relis le contexte et les repères du cours.",
           "id": "h2-transports-1-02"
         },
         {
           "type": "choice",
-          "prompt": "En quelle année l’automobile apparaît-elle selon le cours ?",
+          "prompt": "En quelle année Benz dépose-t-il son brevet automobile ?",
           "answer": "1886",
           "options": [
             "1886",
-            "1850",
-            "1817"
+            "1807",
+            "1804"
           ],
-          "explanation": "Le cours retient 1886 pour l’automobile.",
+          "explanation": "Benz dépose son brevet automobile en 1886.",
           "hint": "Relis le contexte et les repères du cours.",
           "id": "h2-transports-1-03"
         },
@@ -99,7 +99,7 @@
         },
         {
           "type": "choice",
-          "prompt": "À quel siècle appartiennent 1817, 1850 et 1886 ?",
+          "prompt": "À quel siècle appartiennent 1804, 1807 et 1886 ?",
           "answer": "Au XIXᵉ siècle",
           "options": [
             "Au XIXᵉ siècle",
@@ -113,35 +113,35 @@
         {
           "type": "choice",
           "prompt": "Quel couple respecte les repères du cours ?",
-          "answer": "Train — 1817",
+          "answer": "Train — 1804",
           "options": [
-            "Train — 1817",
+            "Train — 1804",
             "Train — 1886",
-            "Train — 1850"
+            "Train — 1807"
           ],
-          "explanation": "Le repère donné pour le train est 1817.",
+          "explanation": "Le repère donné pour le train est 1804.",
           "hint": "Relis le contexte et les repères du cours.",
           "id": "h2-transports-1-09"
         },
         {
           "type": "choice",
-          "prompt": "Quelle association est correcte pour 1850 ?",
-          "answer": "Bateau à vapeur — 1850",
+          "prompt": "Quelle association est correcte pour 1807 ?",
+          "answer": "Bateau à vapeur — 1807",
           "options": [
-            "Bateau à vapeur — 1850",
-            "Automobile — 1850",
-            "Avion — 1850"
+            "Bateau à vapeur — 1807",
+            "Automobile — 1807",
+            "Avion — 1807"
           ],
-          "explanation": "1850 correspond au bateau à vapeur selon le cours.",
+          "explanation": "1807 correspond au bateau à vapeur selon le cours.",
           "hint": "Relis le contexte et les repères du cours.",
           "id": "h2-transports-1-10"
         },
         {
           "type": "choice",
-          "prompt": "Quel événement est associé à 1886 ?",
-          "answer": "L’apparition de l’automobile",
+          "prompt": "Quel événement automobile est associé à 1886 ?",
+          "answer": "Le dépôt du brevet automobile de Benz",
           "options": [
-            "L’apparition de l’automobile",
+            "Le dépôt du brevet automobile de Benz",
             "Le repère du train",
             "Le repère du bateau à vapeur"
           ],
@@ -184,20 +184,20 @@
             "Le bateau à vapeur",
             "L’automobile"
           ],
-          "explanation": "1817 vient avant 1850 et 1886.",
+          "explanation": "1804 vient avant 1807 et 1886.",
           "hint": "Relis le contexte et les repères du cours.",
           "id": "h2-transports-1-14"
         },
         {
           "type": "choice",
-          "prompt": "Quel repère vient entre 1817 et 1886 ?",
-          "answer": "1850 : bateau à vapeur",
+          "prompt": "Quel repère vient entre 1804 et 1886 ?",
+          "answer": "1807 : bateau à vapeur",
           "options": [
-            "1850 : bateau à vapeur",
+            "1807 : bateau à vapeur",
             "1886 : automobile",
             "Une date de l’avion à apprendre"
           ],
-          "explanation": "1850 se situe entre les deux autres dates du cours.",
+          "explanation": "1807 se situe entre les deux autres dates du cours.",
           "hint": "Relis le contexte et les repères du cours.",
           "id": "h2-transports-1-15"
         },
@@ -207,8 +207,8 @@
           "answer": "1886 : automobile",
           "options": [
             "1886 : automobile",
-            "1817 : train",
-            "1850 : bateau à vapeur"
+            "1804 : train",
+            "1807 : bateau à vapeur"
           ],
           "explanation": "1886 est la plus récente des trois dates indiquées.",
           "hint": "Relis le contexte et les repères du cours.",
@@ -234,7 +234,7 @@
           "options": [
             "Une voiture tirée par des chevaux",
             "Un avion avec une date à apprendre",
-            "Une automobile à vapeur datée de 1817"
+            "Une automobile à vapeur datée de 1804"
           ],
           "explanation": "Les documents montrent d’anciennes voitures tirées par des chevaux.",
           "hint": "Relis le contexte et les repères du cours.",
@@ -311,7 +311,7 @@
           "answer": "Retenir qu’il est mentionné, sans lui inventer une date",
           "options": [
             "Retenir qu’il est mentionné, sans lui inventer une date",
-            "Apprendre obligatoirement 1817 pour l’avion",
+            "Apprendre obligatoirement 1804 pour l’avion",
             "Remplacer la date de l’automobile par celle de l’avion"
           ],
           "explanation": "Aucune date de l’avion n’est demandée dans cette partie.",
@@ -385,7 +385,7 @@
         },
         {
           "type": "choice",
-          "prompt": "Que peut-on conclure des repères 1817, 1850 et 1886 ?",
+          "prompt": "Que peut-on conclure des repères 1804, 1807 et 1886 ?",
           "answer": "Plusieurs transports apparaissent ou se développent au XIXᵉ siècle",
           "options": [
             "Plusieurs transports apparaissent ou se développent au XIXᵉ siècle",
@@ -995,30 +995,30 @@
         },
         {
           "type": "text",
-          "prompt": "Selon le cours, le train est associé à l’année ___.",
-          "answer": "1817",
+          "prompt": "Dans le rappel, la locomotive de Trevithick est associé à l’année ___.",
+          "answer": "1804",
           "aliases": [],
-          "explanation": "Le repère à retenir est 1817.",
+          "explanation": "En 1804, la locomotive de Trevithick tire un convoi sur rails à Penydarren.",
           "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
           "strict": false,
           "id": "h2-transports-3-20"
         },
         {
           "type": "text",
-          "prompt": "Selon le cours, le bateau à vapeur est associé à l’année ___.",
-          "answer": "1850",
+          "prompt": "Dans le rappel, le service du bateau de Fulton sur l’Hudson est associé à l’année ___.",
+          "answer": "1807",
           "aliases": [],
-          "explanation": "Le repère à retenir est 1850.",
+          "explanation": "En 1807, Fulton inaugure son service de bateau à vapeur sur l’Hudson. Des essais de bateaux à vapeur ont eu lieu avant cette date.",
           "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
           "strict": false,
           "id": "h2-transports-3-21"
         },
         {
           "type": "text",
-          "prompt": "Selon le cours, l’automobile est associée à l’année ___.",
+          "prompt": "Dans le rappel, l’automobile est associée à l’année ___.",
           "answer": "1886",
           "aliases": [],
-          "explanation": "Le repère à retenir est 1886.",
+          "explanation": "Benz dépose son brevet automobile en 1886.",
           "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
           "strict": false,
           "id": "h2-transports-3-22"
@@ -1118,7 +1118,7 @@
             "19ème",
             "XIXème"
           ],
-          "explanation": "1817, 1850 et 1886 se situent au XIXᵉ siècle.",
+          "explanation": "1804, 1807 et 1886 se situent au XIXᵉ siècle.",
           "hint": "Relis la phrase et cherche le mot ou le repère précis du cours.",
           "strict": false,
           "id": "h2-transports-3-30"
@@ -1148,7 +1148,7 @@
           "options": [
             "1899",
             "1849",
-            "1850"
+            "1807"
           ],
           "explanation": "La seconde barre porte l’étiquette 1899.",
           "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
@@ -1429,7 +1429,7 @@
         },
         {
           "type": "choice",
-          "prompt": "Quelle conséquence du développement du réseau est citée dans le cours ?",
+          "prompt": "Quelle conséquence du développement du réseau est citée dans le rappel ?",
           "answer": "Des déplacements facilités",
           "options": [
             "Des déplacements facilités",
@@ -1468,14 +1468,14 @@
         },
         {
           "type": "choice",
-          "prompt": "L’année 1849 est-elle la date du train donnée dans le cours ?",
-          "answer": "Non, son repère est 1817",
+          "prompt": "L’année 1849 est-elle la date du train donnée dans le rappel ?",
+          "answer": "Non, son repère est 1804",
           "options": [
-            "Non, son repère est 1817",
+            "Non, son repère est 1804",
             "Oui, le cours donne 1849",
             "Non, son repère est 1886"
           ],
-          "explanation": "1849 est une date de mesure du réseau ; le train est associé à 1817.",
+          "explanation": "1849 est une date de mesure du réseau ; le train est associé à 1804.",
           "hint": "Lis les étiquettes, les valeurs et l’unité du graphique.",
           "id": "h2-transports-4-27"
         },
@@ -1526,7 +1526,7 @@
       "questions": [
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Développement de nouveaux moyens de transport",
           "options": [
             "Développement de nouveaux moyens de transport",
@@ -1540,7 +1540,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Développement du transport ferroviaire",
           "options": [
             "Développement du transport ferroviaire",
@@ -1554,7 +1554,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Transport maritime facilité",
           "options": [
             "Transport maritime facilité",
@@ -1568,7 +1568,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Temps de déplacement réduit",
           "options": [
             "Temps de déplacement réduit",
@@ -1582,7 +1582,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Développement du commerce",
           "options": [
             "Développement du commerce",
@@ -1596,7 +1596,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Contribution à la croissance économique",
           "options": [
             "Contribution à la croissance économique",
@@ -1610,7 +1610,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Développement du réseau de chemin de fer",
           "options": [
             "Développement du réseau de chemin de fer",
@@ -1624,7 +1624,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Dépendance à la force animale",
           "options": [
             "Dépendance à la force animale",
@@ -1638,7 +1638,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Voyages plus longs",
           "options": [
             "Voyages plus longs",
@@ -1652,7 +1652,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Déplacement moins facile à diriger",
           "options": [
             "Déplacement moins facile à diriger",
@@ -1666,7 +1666,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Possibilité de parcourir de plus grandes distances",
           "options": [
             "Possibilité de parcourir de plus grandes distances",
@@ -1680,7 +1680,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Accès plus facile à des lieux éloignés",
           "options": [
             "Accès plus facile à des lieux éloignés",
@@ -1694,7 +1694,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Développement des déplacements maritimes",
           "options": [
             "Développement des déplacements maritimes",
@@ -1708,7 +1708,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Développement des déplacements ferroviaires",
           "options": [
             "Développement des déplacements ferroviaires",
@@ -1722,7 +1722,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Réseau ferré français plus étendu",
           "options": [
             "Réseau ferré français plus étendu",
@@ -1736,7 +1736,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Circulation des marchandises facilitée",
           "options": [
             "Circulation des marchandises facilitée",
@@ -1750,7 +1750,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Déplacement plus facile",
           "options": [
             "Déplacement plus facile",
@@ -1764,7 +1764,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Mobilité des personnes améliorée",
           "options": [
             "Mobilité des personnes améliorée",
@@ -1778,7 +1778,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Essor des transports ferroviaire et maritime",
           "options": [
             "Essor des transports ferroviaire et maritime",
@@ -1792,7 +1792,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Accès à la modernité facilité",
           "options": [
             "Accès à la modernité facilité",
@@ -1806,7 +1806,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Échanges commerciaux facilités",
           "options": [
             "Échanges commerciaux facilités",
@@ -1820,7 +1820,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Le mécanisme étudié ne dépend pas de chevaux pour tirer le train",
           "options": [
             "Le mécanisme étudié ne dépend pas de chevaux pour tirer le train",
@@ -1834,7 +1834,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "La vapeur participe au déplacement maritime",
           "options": [
             "La vapeur participe au déplacement maritime",
@@ -1848,7 +1848,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Le document montre un développement du chemin de fer",
           "options": [
             "Le document montre un développement du chemin de fer",
@@ -1862,7 +1862,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Elles se déplacent plus facilement",
           "options": [
             "Elles se déplacent plus facilement",
@@ -1876,7 +1876,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Le commerce peut se développer",
           "options": [
             "Le commerce peut se développer",
@@ -1890,7 +1890,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "L’économie bénéficie de ces évolutions",
           "options": [
             "L’économie bénéficie de ces évolutions",
@@ -1904,7 +1904,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Le document illustre une limite des anciens transports",
           "options": [
             "Le document illustre une limite des anciens transports",
@@ -1918,7 +1918,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Des transports nouveaux apparaissent ou se développent",
           "options": [
             "Des transports nouveaux apparaissent ou se développent",
@@ -1932,7 +1932,7 @@
         },
         {
           "type": "select",
-          "prompt": "Associe cette cause ou situation à son effet dans le cours.",
+          "prompt": "Associe cette cause ou situation à son effet dans le rappel.",
           "answer": "Les personnes et les marchandises circulent mieux",
           "options": [
             "Les personnes et les marchandises circulent mieux",
@@ -1952,23 +1952,23 @@
         {
           "type": "choice",
           "prompt": "Un élève attribue 1886 au train. Quel repère doit-il utiliser ?",
-          "answer": "1817",
+          "answer": "1804",
           "options": [
-            "1817",
-            "1850",
+            "1804",
+            "1807",
             "1886"
           ],
-          "explanation": "Le train est associé à 1817 dans le cours.",
+          "explanation": "En 1804, la locomotive de Trevithick tire un convoi sur rails à Penydarren.",
           "hint": "Relis le contexte et les repères du cours.",
           "tag": "inventions",
           "id": "h2-transports-6-01"
         },
         {
           "type": "text",
-          "prompt": "Complète le repère du bateau à vapeur : ___ .",
-          "answer": "1850",
+          "prompt": "Complète le repère du service du bateau de Fulton sur l’Hudson : ___ .",
+          "answer": "1807",
           "aliases": [],
-          "explanation": "Le cours retient 1850.",
+          "explanation": "En 1807, Fulton inaugure son service de bateau à vapeur sur l’Hudson. Des essais de bateaux à vapeur ont eu lieu avant cette date.",
           "hint": "Repère les mots importants de la consigne.",
           "strict": false,
           "tag": "inventions",
@@ -1980,10 +1980,10 @@
           "answer": "1886",
           "options": [
             "1886",
-            "1817",
-            "1850"
+            "1804",
+            "1807"
           ],
-          "explanation": "L’automobile est associée à 1886.",
+          "explanation": "Benz dépose son brevet automobile en 1886.",
           "hint": "Relis le contexte et les repères du cours.",
           "tag": "inventions",
           "id": "h2-transports-6-03"
@@ -1994,8 +1994,8 @@
           "answer": "Non",
           "options": [
             "Non",
-            "Oui, 1817",
-            "Oui, 1850"
+            "Oui, 1804",
+            "Oui, 1807"
           ],
           "explanation": "L’avion est mentionné sans date à retenir.",
           "hint": "Relis le contexte et les repères du cours.",
@@ -2024,7 +2024,7 @@
             "Automobile, train, bateau à vapeur",
             "Bateau à vapeur, automobile, train"
           ],
-          "explanation": "1817, puis 1850, puis 1886.",
+          "explanation": "1804, puis 1807, puis 1886.",
           "hint": "Relis le contexte et les repères du cours.",
           "tag": "inventions",
           "id": "h2-transports-6-06"
@@ -2350,9 +2350,10 @@
     }
   ],
   "recap": [
-    "Selon le cours : train, 1817 ; bateau à vapeur, 1850 ; automobile, 1886. L’avion est mentionné sans date à apprendre.",
+    "Repères vérifiés : en 1804, la locomotive de Trevithick tire un convoi sur rails ; en 1807, le bateau de Fulton inaugure un service sur l’Hudson ; en 1886, Benz dépose le brevet de son automobile à moteur à essence. Ces dates décrivent des étapes précises, pas une invention unique de chaque moyen de transport.",
+    "Ces repères concernent la locomotive de Trevithick, le service de Fulton et le brevet de Benz. L’avion reste mentionné sans date à mémoriser dans cette leçon.",
     "Ferroviaire : chemin de fer. Maritime : mer. Les nouveaux transports facilitent et accélèrent les déplacements des personnes et des marchandises, et permettent d’aller plus loin.",
     "Ils favorisent le commerce, la modernité et la croissance économique. Les voitures à chevaux ne disparaissent pas immédiatement.",
-    "Réseau ferré français : 2 859 km en 1849 ; 32 601 km en 1899, soit une période de 50 ans."
+    "Lecture du document fourni : 2 859 km en 1849 et 32 601 km en 1899. Ces valeurs servent à lire le graphique de la fiche ; son périmètre statistique n’est pas précisé et elles ne sont pas présentées comme une série historique nationale vérifiée."
   ]
 }

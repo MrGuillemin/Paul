@@ -5,11 +5,11 @@
   "expectedExercises": 9,
   "exercises": [
     {
-      "title": "Régions et préfectures",
+      "title": "Les régions et leurs chefs-lieux",
       "questions": [
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Rennes",
           "options": [
             "Rennes",
@@ -26,14 +26,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Bretagne est Rennes.",
+          "explanation": "La chef-lieu de région de Bretagne est Rennes.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Bretagne",
           "id": "geo-regions-1-01"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Rouen",
           "options": [
             "Rennes",
@@ -50,14 +50,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Normandie est Rouen.",
+          "explanation": "La chef-lieu de région de Normandie est Rouen.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Normandie",
           "id": "geo-regions-1-02"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Lille",
           "options": [
             "Rennes",
@@ -74,14 +74,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Hauts-de-France est Lille.",
+          "explanation": "La chef-lieu de région de Hauts-de-France est Lille.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Hauts-de-France",
           "id": "geo-regions-1-03"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Strasbourg",
           "options": [
             "Rennes",
@@ -98,14 +98,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Grand Est est Strasbourg.",
+          "explanation": "La chef-lieu de région de Grand Est est Strasbourg.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Grand Est",
           "id": "geo-regions-1-04"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Dijon",
           "options": [
             "Rennes",
@@ -122,14 +122,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Bourgogne-Franche-Comté est Dijon.",
+          "explanation": "La chef-lieu de région de Bourgogne-Franche-Comté est Dijon.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Bourgogne-Franche-Comté",
           "id": "geo-regions-1-05"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Orléans",
           "options": [
             "Rennes",
@@ -146,14 +146,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Centre-Val de Loire est Orléans.",
-          "hint": "Observe le contexte et les mots importants.",
+          "explanation": "La chef-lieu de région de Centre-Val de Loire est Orléans. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "context": "Centre-Val de Loire",
           "id": "geo-regions-1-06"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Paris",
           "options": [
             "Rennes",
@@ -170,14 +170,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Île-de-France est Paris.",
+          "explanation": "La chef-lieu de région de Île-de-France est Paris.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Île-de-France",
           "id": "geo-regions-1-07"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Nantes",
           "options": [
             "Rennes",
@@ -194,14 +194,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Pays de la Loire est Nantes.",
-          "hint": "Observe le contexte et les mots importants.",
+          "explanation": "La chef-lieu de région de Pays de la Loire est Nantes. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "context": "Pays de la Loire",
           "id": "geo-regions-1-08"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Bordeaux",
           "options": [
             "Rennes",
@@ -218,14 +218,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Nouvelle-Aquitaine est Bordeaux.",
+          "explanation": "La chef-lieu de région de Nouvelle-Aquitaine est Bordeaux.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Nouvelle-Aquitaine",
           "id": "geo-regions-1-09"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Lyon",
           "options": [
             "Rennes",
@@ -242,14 +242,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Auvergne-Rhône-Alpes est Lyon.",
+          "explanation": "La chef-lieu de région de Auvergne-Rhône-Alpes est Lyon.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Auvergne-Rhône-Alpes",
           "id": "geo-regions-1-10"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Toulouse",
           "options": [
             "Rennes",
@@ -266,14 +266,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Occitanie est Toulouse.",
+          "explanation": "La chef-lieu de région de Occitanie est Toulouse.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Occitanie",
           "id": "geo-regions-1-11"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Marseille",
           "options": [
             "Rennes",
@@ -290,14 +290,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Provence-Alpes-Côte d’Azur est Marseille.",
+          "explanation": "La chef-lieu de région de Provence-Alpes-Côte d’Azur est Marseille.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Provence-Alpes-Côte d’Azur",
           "id": "geo-regions-1-12"
         },
         {
           "type": "select",
-          "prompt": "Associe cette région à sa préfecture régionale.",
+          "prompt": "Associe cette région à sa chef-lieu de région.",
           "answer": "Ajaccio",
           "options": [
             "Rennes",
@@ -314,14 +314,14 @@
             "Marseille",
             "Ajaccio"
           ],
-          "explanation": "La préfecture régionale de Corse est Ajaccio.",
+          "explanation": "La chef-lieu de région de Corse est Ajaccio.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Corse",
           "id": "geo-regions-1-13"
         },
         {
           "type": "choice",
-          "prompt": "« Rennes est la préfecture régionale de Bretagne. » Vrai ou faux ?",
+          "prompt": "« Rennes est la chef-lieu de région de Bretagne. » Vrai ou faux ?",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -333,7 +333,7 @@
         },
         {
           "type": "choice",
-          "prompt": "« Lille est la préfecture régionale de Normandie. » Vrai ou faux ?",
+          "prompt": "« Lille est la chef-lieu de région de Normandie. » Vrai ou faux ?",
           "answer": "Faux",
           "options": [
             "Vrai",
@@ -345,7 +345,7 @@
         },
         {
           "type": "choice",
-          "prompt": "« Lille est la préfecture régionale de Hauts-de-France. » Vrai ou faux ?",
+          "prompt": "« Lille est la chef-lieu de région de Hauts-de-France. » Vrai ou faux ?",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -357,7 +357,7 @@
         },
         {
           "type": "choice",
-          "prompt": "« Dijon est la préfecture régionale de Grand Est. » Vrai ou faux ?",
+          "prompt": "« Dijon est la chef-lieu de région de Grand Est. » Vrai ou faux ?",
           "answer": "Faux",
           "options": [
             "Vrai",
@@ -369,7 +369,7 @@
         },
         {
           "type": "choice",
-          "prompt": "« Dijon est la préfecture régionale de Bourgogne-Franche-Comté. » Vrai ou faux ?",
+          "prompt": "« Dijon est la chef-lieu de région de Bourgogne-Franche-Comté. » Vrai ou faux ?",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -381,19 +381,19 @@
         },
         {
           "type": "choice",
-          "prompt": "« Paris est la préfecture régionale de Centre-Val de Loire. » Vrai ou faux ?",
+          "prompt": "« Paris est la chef-lieu de région de Centre-Val de Loire. » Vrai ou faux ?",
           "answer": "Faux",
           "options": [
             "Vrai",
             "Faux"
           ],
-          "explanation": "La bonne correspondance est Centre-Val de Loire → Orléans.",
-          "hint": "Appuie-toi sur les informations précises du cours.",
+          "explanation": "La bonne correspondance est Centre-Val de Loire → Orléans. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "id": "geo-regions-1-19"
         },
         {
           "type": "choice",
-          "prompt": "« Paris est la préfecture régionale de Île-de-France. » Vrai ou faux ?",
+          "prompt": "« Paris est la chef-lieu de région de Île-de-France. » Vrai ou faux ?",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -405,19 +405,19 @@
         },
         {
           "type": "choice",
-          "prompt": "« Bordeaux est la préfecture régionale de Pays de la Loire. » Vrai ou faux ?",
+          "prompt": "« Bordeaux est la chef-lieu de région de Pays de la Loire. » Vrai ou faux ?",
           "answer": "Faux",
           "options": [
             "Vrai",
             "Faux"
           ],
-          "explanation": "La bonne correspondance est Pays de la Loire → Nantes.",
-          "hint": "Appuie-toi sur les informations précises du cours.",
+          "explanation": "La bonne correspondance est Pays de la Loire → Nantes. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "id": "geo-regions-1-21"
         },
         {
           "type": "choice",
-          "prompt": "« Bordeaux est la préfecture régionale de Nouvelle-Aquitaine. » Vrai ou faux ?",
+          "prompt": "« Bordeaux est la chef-lieu de région de Nouvelle-Aquitaine. » Vrai ou faux ?",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -429,7 +429,7 @@
         },
         {
           "type": "choice",
-          "prompt": "« Toulouse est la préfecture régionale de Auvergne-Rhône-Alpes. » Vrai ou faux ?",
+          "prompt": "« Toulouse est la chef-lieu de région de Auvergne-Rhône-Alpes. » Vrai ou faux ?",
           "answer": "Faux",
           "options": [
             "Vrai",
@@ -441,7 +441,7 @@
         },
         {
           "type": "choice",
-          "prompt": "« Toulouse est la préfecture régionale de Occitanie. » Vrai ou faux ?",
+          "prompt": "« Toulouse est la chef-lieu de région de Occitanie. » Vrai ou faux ?",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -453,7 +453,7 @@
         },
         {
           "type": "choice",
-          "prompt": "« Ajaccio est la préfecture régionale de Provence-Alpes-Côte d’Azur. » Vrai ou faux ?",
+          "prompt": "« Ajaccio est la chef-lieu de région de Provence-Alpes-Côte d’Azur. » Vrai ou faux ?",
           "answer": "Faux",
           "options": [
             "Vrai",
@@ -465,7 +465,7 @@
         },
         {
           "type": "choice",
-          "prompt": "« Ajaccio est la préfecture régionale de Corse. » Vrai ou faux ?",
+          "prompt": "« Ajaccio est la chef-lieu de région de Corse. » Vrai ou faux ?",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -660,8 +660,8 @@
               "Ajaccio"
             ]
           ],
-          "explanation": "Bourgogne-Franche-Comté → Dijon ; Centre-Val de Loire → Orléans.",
-          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "explanation": "Bourgogne-Franche-Comté → Dijon ; Centre-Val de Loire → Orléans. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "id": "geo-regions-1-29"
         },
         {
@@ -723,8 +723,8 @@
               "Ajaccio"
             ]
           ],
-          "explanation": "Île-de-France → Paris ; Pays de la Loire → Nantes.",
-          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "explanation": "Île-de-France → Paris ; Pays de la Loire → Nantes. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "id": "geo-regions-1-30"
         }
       ]
@@ -734,148 +734,148 @@
       "questions": [
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Rennes ?",
+          "prompt": "Quelle région a pour chef-lieu de région Rennes ?",
           "answer": "Bretagne",
           "aliases": [],
-          "explanation": "Rennes est la préfecture régionale de Bretagne.",
+          "explanation": "Rennes est la chef-lieu de région de Bretagne.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-01"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Rouen ?",
+          "prompt": "Quelle région a pour chef-lieu de région Rouen ?",
           "answer": "Normandie",
           "aliases": [],
-          "explanation": "Rouen est la préfecture régionale de Normandie.",
+          "explanation": "Rouen est la chef-lieu de région de Normandie.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-02"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Lille ?",
+          "prompt": "Quelle région a pour chef-lieu de région Lille ?",
           "answer": "Hauts-de-France",
           "aliases": [
             "Hauts de France"
           ],
-          "explanation": "Lille est la préfecture régionale de Hauts-de-France.",
+          "explanation": "Lille est la chef-lieu de région de Hauts-de-France.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-03"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Strasbourg ?",
+          "prompt": "Quelle région a pour chef-lieu de région Strasbourg ?",
           "answer": "Grand Est",
           "aliases": [],
-          "explanation": "Strasbourg est la préfecture régionale de Grand Est.",
+          "explanation": "Strasbourg est la chef-lieu de région de Grand Est.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-04"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Dijon ?",
+          "prompt": "Quelle région a pour chef-lieu de région Dijon ?",
           "answer": "Bourgogne-Franche-Comté",
           "aliases": [
             "Bourgogne Franche Comté"
           ],
-          "explanation": "Dijon est la préfecture régionale de Bourgogne-Franche-Comté.",
+          "explanation": "Dijon est la chef-lieu de région de Bourgogne-Franche-Comté.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-05"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Orléans ?",
+          "prompt": "Quelle région a pour chef-lieu de région Orléans ?",
           "answer": "Centre-Val de Loire",
           "aliases": [
             "Centre Val de Loire",
             "Centre Val de Loire"
           ],
-          "explanation": "Orléans est la préfecture régionale de Centre-Val de Loire.",
+          "explanation": "Orléans est la chef-lieu de région de Centre-Val de Loire.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-06"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Paris ?",
+          "prompt": "Quelle région a pour chef-lieu de région Paris ?",
           "answer": "Île-de-France",
           "aliases": [
             "Île de France",
             "Ile de France"
           ],
-          "explanation": "Paris est la préfecture régionale de Île-de-France.",
+          "explanation": "Paris est la chef-lieu de région de Île-de-France.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-07"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Nantes ?",
+          "prompt": "Quelle région a pour chef-lieu de région Nantes ?",
           "answer": "Pays de la Loire",
           "aliases": [],
-          "explanation": "Nantes est la préfecture régionale de Pays de la Loire.",
+          "explanation": "Nantes est la chef-lieu de région de Pays de la Loire.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-08"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Bordeaux ?",
+          "prompt": "Quelle région a pour chef-lieu de région Bordeaux ?",
           "answer": "Nouvelle-Aquitaine",
           "aliases": [
             "Nouvelle Aquitaine"
           ],
-          "explanation": "Bordeaux est la préfecture régionale de Nouvelle-Aquitaine.",
+          "explanation": "Bordeaux est la chef-lieu de région de Nouvelle-Aquitaine.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-09"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Lyon ?",
+          "prompt": "Quelle région a pour chef-lieu de région Lyon ?",
           "answer": "Auvergne-Rhône-Alpes",
           "aliases": [
             "Auvergne Rhône Alpes"
           ],
-          "explanation": "Lyon est la préfecture régionale de Auvergne-Rhône-Alpes.",
+          "explanation": "Lyon est la chef-lieu de région de Auvergne-Rhône-Alpes.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-10"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Toulouse ?",
+          "prompt": "Quelle région a pour chef-lieu de région Toulouse ?",
           "answer": "Occitanie",
           "aliases": [],
-          "explanation": "Toulouse est la préfecture régionale de Occitanie.",
+          "explanation": "Toulouse est la chef-lieu de région de Occitanie.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-11"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Marseille ?",
+          "prompt": "Quelle région a pour chef-lieu de région Marseille ?",
           "answer": "Provence-Alpes-Côte d’Azur",
           "aliases": [
             "Provence Alpes Côte d’Azur",
             "Provence-Alpes-Côte d'Azur",
             "PACA"
           ],
-          "explanation": "Marseille est la préfecture régionale de Provence-Alpes-Côte d’Azur.",
+          "explanation": "Marseille est la chef-lieu de région de Provence-Alpes-Côte d’Azur.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-12"
         },
         {
           "type": "text",
-          "prompt": "Quelle région a pour préfecture régionale Ajaccio ?",
+          "prompt": "Quelle région a pour chef-lieu de région Ajaccio ?",
           "answer": "Corse",
           "aliases": [],
-          "explanation": "Ajaccio est la préfecture régionale de Corse.",
+          "explanation": "Ajaccio est la chef-lieu de région de Corse.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-2-13"
@@ -1369,8 +1369,8 @@
           "prompt": "Clique sur la région Centre-Val de Loire.",
           "answer": "24",
           "map": "metro",
-          "explanation": "La zone à sélectionner est Centre-Val de Loire.",
-          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "explanation": "La zone à sélectionner est Centre-Val de Loire. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "id": "geo-regions-3-06"
         },
         {
@@ -1387,8 +1387,8 @@
           "prompt": "Clique sur la région Pays de la Loire.",
           "answer": "52",
           "map": "metro",
-          "explanation": "La zone à sélectionner est Pays de la Loire.",
-          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "explanation": "La zone à sélectionner est Pays de la Loire. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "id": "geo-regions-3-08"
         },
         {
@@ -1637,9 +1637,9 @@
             "Saint-Denis",
             "Mamoudzou"
           ],
-          "explanation": "Le chef-lieu de Guyane française est Cayenne.",
+          "explanation": "Le chef-lieu de Guyane est Cayenne.",
           "hint": "Observe le contexte et les mots importants.",
-          "context": "Guyane française",
+          "context": "Guyane",
           "id": "geo-regions-4-03"
         },
         {
@@ -1697,11 +1697,11 @@
         {
           "type": "text",
           "prompt": "Quel DROM a pour chef-lieu Cayenne ?",
-          "answer": "Guyane française",
+          "answer": "Guyane",
           "aliases": [
             "Guyane"
           ],
-          "explanation": "Cayenne est le chef-lieu de Guyane française.",
+          "explanation": "Cayenne est le chef-lieu de Guyane.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "geo-regions-4-08"
@@ -1752,13 +1752,13 @@
         },
         {
           "type": "choice",
-          "prompt": "« Le chef-lieu de Guyane française est Saint-Denis. » Vrai ou faux ?",
+          "prompt": "« Le chef-lieu de Guyane est Saint-Denis. » Vrai ou faux ?",
           "answer": "Faux",
           "options": [
             "Vrai",
             "Faux"
           ],
-          "explanation": "Le chef-lieu correct de Guyane française est Cayenne.",
+          "explanation": "Le chef-lieu correct de Guyane est Cayenne.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "geo-regions-4-13"
         },
@@ -1813,10 +1813,10 @@
         },
         {
           "type": "map",
-          "prompt": "Clique sur le territoire Guyane française.",
+          "prompt": "Clique sur le territoire Guyane.",
           "answer": "03",
           "map": "drom",
-          "explanation": "La zone à sélectionner est Guyane française.",
+          "explanation": "La zone à sélectionner est Guyane.",
           "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
           "id": "geo-regions-5-03"
         },
@@ -1861,7 +1861,7 @@
           "prompt": "Clique sur le DROM dont le chef-lieu est Cayenne.",
           "answer": "03",
           "map": "drom",
-          "explanation": "Cayenne est le chef-lieu de Guyane française.",
+          "explanation": "Cayenne est le chef-lieu de Guyane.",
           "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
           "id": "geo-regions-5-08"
         },
@@ -1903,10 +1903,10 @@
         },
         {
           "type": "map",
-          "prompt": "Selon la fiche, clique sur le DROM associé à « Matété ».",
+          "prompt": "Selon la fiche, clique sur le DROM associé à « Bouillon d’awara ».",
           "answer": "03",
           "map": "drom",
-          "explanation": "Matété est associé à Guyane française dans la fiche.",
+          "explanation": "Bouillon d’awara est associé à Guyane dans la fiche.",
           "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
           "id": "geo-regions-5-13"
         },
@@ -1921,10 +1921,10 @@
         },
         {
           "type": "map",
-          "prompt": "Selon la fiche, clique sur le DROM associé à « Brèdes ».",
+          "prompt": "Selon la fiche, clique sur le DROM associé à « Mataba ».",
           "answer": "06",
           "map": "drom",
-          "explanation": "Brèdes est associé à Mayotte dans la fiche.",
+          "explanation": "Mataba est associé à Mayotte dans la fiche.",
           "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
           "id": "geo-regions-5-15"
         }
@@ -2074,8 +2074,8 @@
             "Bouillabaisse",
             "Fiadone"
           ],
-          "explanation": "La fiche associe Centre-Val de Loire à Tarte Tatin.",
-          "hint": "Observe le contexte et les mots importants.",
+          "explanation": "La fiche associe Centre-Val de Loire à Tarte Tatin. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "context": "Centre-Val de Loire",
           "id": "geo-regions-6-06"
         },
@@ -2122,8 +2122,8 @@
             "Bouillabaisse",
             "Fiadone"
           ],
-          "explanation": "La fiche associe Pays de la Loire à Rillettes du Mans.",
-          "hint": "Observe le contexte et les mots importants.",
+          "explanation": "La fiche associe Pays de la Loire à Rillettes du Mans. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "context": "Pays de la Loire",
           "id": "geo-regions-6-08"
         },
@@ -2269,7 +2269,6 @@
           "explanation": "Kouign-amann → Bretagne, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Kouign-amann",
-          "illustration": "food-0",
           "id": "geo-regions-6-14"
         },
         {
@@ -2294,7 +2293,6 @@
           "explanation": "Camembert → Normandie, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Camembert",
-          "illustration": "food-1",
           "id": "geo-regions-6-15"
         },
         {
@@ -2319,7 +2317,6 @@
           "explanation": "Carbonade flamande → Hauts-de-France, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Carbonade flamande",
-          "illustration": "food-2",
           "id": "geo-regions-6-16"
         },
         {
@@ -2344,7 +2341,6 @@
           "explanation": "Choucroute → Grand Est, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Choucroute",
-          "illustration": "food-3",
           "id": "geo-regions-6-17"
         },
         {
@@ -2369,7 +2365,6 @@
           "explanation": "Escargots → Bourgogne-Franche-Comté, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Escargots",
-          "illustration": "food-4",
           "id": "geo-regions-6-18"
         },
         {
@@ -2394,7 +2389,6 @@
           "explanation": "Tarte Tatin → Centre-Val de Loire, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Tarte Tatin",
-          "illustration": "food-5",
           "id": "geo-regions-6-19"
         },
         {
@@ -2419,7 +2413,6 @@
           "explanation": "Croissant → Île-de-France, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Croissant",
-          "illustration": "food-6",
           "id": "geo-regions-6-20"
         },
         {
@@ -2444,7 +2437,6 @@
           "explanation": "Rillettes du Mans → Pays de la Loire, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Rillettes du Mans",
-          "illustration": "food-7",
           "id": "geo-regions-6-21"
         },
         {
@@ -2469,7 +2461,6 @@
           "explanation": "Canelés → Nouvelle-Aquitaine, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Canelés",
-          "illustration": "food-8",
           "id": "geo-regions-6-22"
         },
         {
@@ -2494,7 +2485,6 @@
           "explanation": "Tartiflette → Auvergne-Rhône-Alpes, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Tartiflette",
-          "illustration": "food-9",
           "id": "geo-regions-6-23"
         },
         {
@@ -2519,7 +2509,6 @@
           "explanation": "Cassoulet → Occitanie, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Cassoulet",
-          "illustration": "food-10",
           "id": "geo-regions-6-24"
         },
         {
@@ -2544,7 +2533,6 @@
           "explanation": "Bouillabaisse → Provence-Alpes-Côte d’Azur, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Bouillabaisse",
-          "illustration": "food-11",
           "id": "geo-regions-6-25"
         },
         {
@@ -2569,7 +2557,6 @@
           "explanation": "Fiadone → Corse, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Fiadone",
-          "illustration": "food-12",
           "id": "geo-regions-6-26"
         },
         {
@@ -2580,8 +2567,8 @@
             "Vrai",
             "Faux"
           ],
-          "explanation": "La spécialité associée à Pays de la Loire est Rillettes du Mans.",
-          "hint": "Appuie-toi sur les informations précises du cours.",
+          "explanation": "La spécialité associée à Pays de la Loire est Rillettes du Mans. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "id": "geo-regions-6-27"
         },
         {
@@ -2632,9 +2619,9 @@
           "options": [
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
           "explanation": "La fiche associe Guadeloupe à Dombrés.",
           "hint": "Observe le contexte et les mots importants.",
@@ -2648,9 +2635,9 @@
           "options": [
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
           "explanation": "La fiche associe Martinique à Blanc-manger coco.",
           "hint": "Observe le contexte et les mots importants.",
@@ -2660,17 +2647,17 @@
         {
           "type": "select",
           "prompt": "Selon la fiche, associe ce DROM à sa spécialité.",
-          "answer": "Matété",
+          "answer": "Bouillon d’awara",
           "options": [
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
-          "explanation": "La fiche associe Guyane française à Matété.",
+          "explanation": "La fiche associe Guyane à Bouillon d’awara.",
           "hint": "Observe le contexte et les mots importants.",
-          "context": "Guyane française",
+          "context": "Guyane",
           "id": "geo-regions-7-03"
         },
         {
@@ -2680,9 +2667,9 @@
           "options": [
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
           "explanation": "La fiche associe La Réunion à Cari de poulet.",
           "hint": "Observe le contexte et les mots importants.",
@@ -2692,15 +2679,15 @@
         {
           "type": "select",
           "prompt": "Selon la fiche, associe ce DROM à sa spécialité.",
-          "answer": "Brèdes",
+          "answer": "Mataba",
           "options": [
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
-          "explanation": "La fiche associe Mayotte à Brèdes.",
+          "explanation": "La fiche associe Mayotte à Mataba.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Mayotte",
           "id": "geo-regions-7-05"
@@ -2712,14 +2699,13 @@
           "options": [
             "Guadeloupe",
             "Martinique",
-            "Guyane française",
+            "Guyane",
             "La Réunion",
             "Mayotte"
           ],
           "explanation": "Dombrés → Guadeloupe, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Dombrés",
-          "illustration": "food-13",
           "id": "geo-regions-7-06"
         },
         {
@@ -2729,31 +2715,29 @@
           "options": [
             "Guadeloupe",
             "Martinique",
-            "Guyane française",
+            "Guyane",
             "La Réunion",
             "Mayotte"
           ],
           "explanation": "Blanc-manger coco → Martinique, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Blanc-manger coco",
-          "illustration": "food-14",
           "id": "geo-regions-7-07"
         },
         {
           "type": "select",
           "prompt": "Selon la fiche, retrouve le DROM associé au plat.",
-          "answer": "Guyane française",
+          "answer": "Guyane",
           "options": [
             "Guadeloupe",
             "Martinique",
-            "Guyane française",
+            "Guyane",
             "La Réunion",
             "Mayotte"
           ],
-          "explanation": "Matété → Guyane française, selon la fiche.",
+          "explanation": "Bouillon d’awara → Guyane, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
-          "context": "Matété",
-          "illustration": "food-15",
+          "context": "Bouillon d’awara",
           "id": "geo-regions-7-08"
         },
         {
@@ -2763,14 +2747,13 @@
           "options": [
             "Guadeloupe",
             "Martinique",
-            "Guyane française",
+            "Guyane",
             "La Réunion",
             "Mayotte"
           ],
           "explanation": "Cari de poulet → La Réunion, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Cari de poulet",
-          "illustration": "food-16",
           "id": "geo-regions-7-09"
         },
         {
@@ -2780,14 +2763,13 @@
           "options": [
             "Guadeloupe",
             "Martinique",
-            "Guyane française",
+            "Guyane",
             "La Réunion",
             "Mayotte"
           ],
-          "explanation": "Brèdes → Mayotte, selon la fiche.",
+          "explanation": "Mataba → Mayotte, selon la fiche.",
           "hint": "Observe le contexte et les mots importants.",
-          "context": "Brèdes",
-          "illustration": "food-17",
+          "context": "Mataba",
           "id": "geo-regions-7-10"
         },
         {
@@ -2804,7 +2786,7 @@
         },
         {
           "type": "choice",
-          "prompt": "Selon la fiche, « Martinique est associé à Matété ». Vrai ou faux ?",
+          "prompt": "Selon la fiche, « Martinique est associé à Bouillon d’awara ». Vrai ou faux ?",
           "answer": "Faux",
           "options": [
             "Vrai",
@@ -2816,19 +2798,19 @@
         },
         {
           "type": "choice",
-          "prompt": "Selon la fiche, « Guyane française est associé à Matété ». Vrai ou faux ?",
+          "prompt": "Selon la fiche, « Guyane est associé à Bouillon d’awara ». Vrai ou faux ?",
           "answer": "Vrai",
           "options": [
             "Vrai",
             "Faux"
           ],
-          "explanation": "La fiche donne Guyane française → Matété.",
+          "explanation": "La fiche donne Guyane → Bouillon d’awara.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "geo-regions-7-13"
         },
         {
           "type": "choice",
-          "prompt": "Selon la fiche, « La Réunion est associé à Brèdes ». Vrai ou faux ?",
+          "prompt": "Selon la fiche, « La Réunion est associé à Mataba ». Vrai ou faux ?",
           "answer": "Faux",
           "options": [
             "Vrai",
@@ -2840,13 +2822,13 @@
         },
         {
           "type": "choice",
-          "prompt": "Selon la fiche, « Mayotte est associé à Brèdes ». Vrai ou faux ?",
+          "prompt": "Selon la fiche, « Mayotte est associé à Mataba ». Vrai ou faux ?",
           "answer": "Vrai",
           "options": [
             "Vrai",
             "Faux"
           ],
-          "explanation": "La fiche donne Mayotte → Brèdes.",
+          "explanation": "La fiche donne Mayotte → Mataba.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "geo-regions-7-15"
         }
@@ -2859,10 +2841,10 @@
       "questions": [
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Bretagne",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -2935,10 +2917,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Normandie",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3011,10 +2993,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Hauts-de-France",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3087,10 +3069,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Grand Est",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3163,10 +3145,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Bourgogne-Franche-Comté",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3239,10 +3221,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Centre-Val de Loire",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3309,16 +3291,16 @@
               "Fiadone"
             ]
           ],
-          "explanation": "Centre-Val de Loire → Orléans → Tarte Tatin.",
-          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "explanation": "Centre-Val de Loire → Orléans → Tarte Tatin. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "id": "geo-regions-8-06"
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Île-de-France",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3391,10 +3373,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Pays de la Loire",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3461,16 +3443,16 @@
               "Fiadone"
             ]
           ],
-          "explanation": "Pays de la Loire → Nantes → Rillettes du Mans.",
-          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "explanation": "Pays de la Loire → Nantes → Rillettes du Mans. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "id": "geo-regions-8-08"
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Nouvelle-Aquitaine",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3543,10 +3525,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Auvergne-Rhône-Alpes",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3619,10 +3601,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Occitanie",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3695,10 +3677,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Provence-Alpes-Côte d’Azur",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3771,10 +3753,10 @@
         },
         {
           "type": "decompose",
-          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "prompt": "Complète l’association région → chef-lieu → spécialité.",
           "context": "Corse",
           "parts": [
-            "Préfecture régionale",
+            "Chef-lieu de région",
             "Spécialité"
           ],
           "answers": [
@@ -3847,7 +3829,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Rennes",
           "parts": [
             "Région",
@@ -3923,7 +3905,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Rouen",
           "parts": [
             "Région",
@@ -3999,7 +3981,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Lille",
           "parts": [
             "Région",
@@ -4075,7 +4057,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Strasbourg",
           "parts": [
             "Région",
@@ -4151,7 +4133,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Dijon",
           "parts": [
             "Région",
@@ -4227,7 +4209,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Orléans",
           "parts": [
             "Région",
@@ -4303,7 +4285,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Paris",
           "parts": [
             "Région",
@@ -4379,7 +4361,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Nantes",
           "parts": [
             "Région",
@@ -4455,7 +4437,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Bordeaux",
           "parts": [
             "Région",
@@ -4531,7 +4513,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Lyon",
           "parts": [
             "Région",
@@ -4607,7 +4589,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Toulouse",
           "parts": [
             "Région",
@@ -4683,7 +4665,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Marseille",
           "parts": [
             "Région",
@@ -4759,7 +4741,7 @@
         },
         {
           "type": "decompose",
-          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "prompt": "Retrouve la région et sa spécialité à partir du chef-lieu.",
           "context": "Ajaccio",
           "parts": [
             "Région",
@@ -4839,7 +4821,7 @@
           "context": "Tartiflette",
           "parts": [
             "Région",
-            "Préfecture régionale"
+            "Chef-lieu de région"
           ],
           "answers": [
             "Auvergne-Rhône-Alpes",
@@ -4907,7 +4889,6 @@
           ],
           "explanation": "Tartiflette → Auvergne-Rhône-Alpes → Lyon.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
-          "illustration": "food-9",
           "id": "geo-regions-8-27"
         },
         {
@@ -4916,7 +4897,7 @@
           "context": "Cassoulet",
           "parts": [
             "Région",
-            "Préfecture régionale"
+            "Chef-lieu de région"
           ],
           "answers": [
             "Occitanie",
@@ -4984,7 +4965,6 @@
           ],
           "explanation": "Cassoulet → Occitanie → Toulouse.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
-          "illustration": "food-10",
           "id": "geo-regions-8-28"
         },
         {
@@ -4993,7 +4973,7 @@
           "context": "Bouillabaisse",
           "parts": [
             "Région",
-            "Préfecture régionale"
+            "Chef-lieu de région"
           ],
           "answers": [
             "Provence-Alpes-Côte d’Azur",
@@ -5061,7 +5041,6 @@
           ],
           "explanation": "Bouillabaisse → Provence-Alpes-Côte d’Azur → Marseille.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
-          "illustration": "food-11",
           "id": "geo-regions-8-29"
         },
         {
@@ -5070,7 +5049,7 @@
           "context": "Fiadone",
           "parts": [
             "Région",
-            "Préfecture régionale"
+            "Chef-lieu de région"
           ],
           "answers": [
             "Corse",
@@ -5138,7 +5117,6 @@
           ],
           "explanation": "Fiadone → Corse → Ajaccio.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
-          "illustration": "food-12",
           "id": "geo-regions-8-30"
         }
       ]
@@ -5214,7 +5192,7 @@
           "prompt": "Bilan : retrouve sur les cartes le territoire dont le chef-lieu est Cayenne.",
           "answer": "03",
           "map": "drom",
-          "explanation": "La zone à sélectionner est Guyane française.",
+          "explanation": "La zone à sélectionner est Guyane.",
           "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
           "id": "geo-regions-9-08"
         },
@@ -5255,8 +5233,8 @@
             "Bouillabaisse",
             "Fiadone"
           ],
-          "explanation": "Centre-Val de Loire → Tarte Tatin.",
-          "hint": "Observe le contexte et les mots importants.",
+          "explanation": "Centre-Val de Loire → Tarte Tatin. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "context": "Centre-Val de Loire",
           "id": "geo-regions-9-11"
         },
@@ -5303,8 +5281,8 @@
             "Bouillabaisse",
             "Fiadone"
           ],
-          "explanation": "Pays de la Loire → Rillettes du Mans.",
-          "hint": "Observe le contexte et les mots importants.",
+          "explanation": "Pays de la Loire → Rillettes du Mans. À distinguer : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans.",
+          "hint": "Ne confonds pas les deux régions qui portent le nom de la Loire. Consulte les deux lignes du rappel.",
           "context": "Pays de la Loire",
           "id": "geo-regions-9-13"
         },
@@ -5358,7 +5336,7 @@
         },
         {
           "type": "select",
-          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "prompt": "Bilan : quelle est la chef-lieu de région ?",
           "answer": "Bordeaux",
           "options": [
             "Rennes",
@@ -5382,7 +5360,7 @@
         },
         {
           "type": "select",
-          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "prompt": "Bilan : quelle est la chef-lieu de région ?",
           "answer": "Lyon",
           "options": [
             "Rennes",
@@ -5406,7 +5384,7 @@
         },
         {
           "type": "select",
-          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "prompt": "Bilan : quelle est la chef-lieu de région ?",
           "answer": "Toulouse",
           "options": [
             "Rennes",
@@ -5430,7 +5408,7 @@
         },
         {
           "type": "select",
-          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "prompt": "Bilan : quelle est la chef-lieu de région ?",
           "answer": "Marseille",
           "options": [
             "Rennes",
@@ -5454,7 +5432,7 @@
         },
         {
           "type": "select",
-          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "prompt": "Bilan : quelle est la chef-lieu de région ?",
           "answer": "Ajaccio",
           "options": [
             "Rennes",
@@ -5496,9 +5474,9 @@
             "Mamoudzou",
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
           "fieldOptions": [
             [
@@ -5511,9 +5489,9 @@
             [
               "Dombrés",
               "Blanc-manger coco",
-              "Matété",
+              "Bouillon d’awara",
               "Cari de poulet",
-              "Brèdes"
+              "Mataba"
             ]
           ],
           "explanation": "Guadeloupe → Basse-Terre → Dombrés.",
@@ -5540,9 +5518,9 @@
             "Mamoudzou",
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
           "fieldOptions": [
             [
@@ -5555,9 +5533,9 @@
             [
               "Dombrés",
               "Blanc-manger coco",
-              "Matété",
+              "Bouillon d’awara",
               "Cari de poulet",
-              "Brèdes"
+              "Mataba"
             ]
           ],
           "explanation": "Martinique → Fort-de-France → Blanc-manger coco.",
@@ -5567,14 +5545,14 @@
         {
           "type": "decompose",
           "prompt": "Bilan : associe le territoire à son chef-lieu et au plat de la fiche.",
-          "context": "Guyane française",
+          "context": "Guyane",
           "parts": [
             "Chef-lieu",
             "Spécialité"
           ],
           "answers": [
             "Cayenne",
-            "Matété"
+            "Bouillon d’awara"
           ],
           "options": [
             "Basse-Terre",
@@ -5584,9 +5562,9 @@
             "Mamoudzou",
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
           "fieldOptions": [
             [
@@ -5599,12 +5577,12 @@
             [
               "Dombrés",
               "Blanc-manger coco",
-              "Matété",
+              "Bouillon d’awara",
               "Cari de poulet",
-              "Brèdes"
+              "Mataba"
             ]
           ],
-          "explanation": "Guyane française → Cayenne → Matété.",
+          "explanation": "Guyane → Cayenne → Bouillon d’awara.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
           "id": "geo-regions-9-23"
         },
@@ -5628,9 +5606,9 @@
             "Mamoudzou",
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
           "fieldOptions": [
             [
@@ -5643,9 +5621,9 @@
             [
               "Dombrés",
               "Blanc-manger coco",
-              "Matété",
+              "Bouillon d’awara",
               "Cari de poulet",
-              "Brèdes"
+              "Mataba"
             ]
           ],
           "explanation": "La Réunion → Saint-Denis → Cari de poulet.",
@@ -5662,7 +5640,7 @@
           ],
           "answers": [
             "Mamoudzou",
-            "Brèdes"
+            "Mataba"
           ],
           "options": [
             "Basse-Terre",
@@ -5672,9 +5650,9 @@
             "Mamoudzou",
             "Dombrés",
             "Blanc-manger coco",
-            "Matété",
+            "Bouillon d’awara",
             "Cari de poulet",
-            "Brèdes"
+            "Mataba"
           ],
           "fieldOptions": [
             [
@@ -5687,12 +5665,12 @@
             [
               "Dombrés",
               "Blanc-manger coco",
-              "Matété",
+              "Bouillon d’awara",
               "Cari de poulet",
-              "Brèdes"
+              "Mataba"
             ]
           ],
-          "explanation": "Mayotte → Mamoudzou → Brèdes.",
+          "explanation": "Mayotte → Mamoudzou → Mataba.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
           "id": "geo-regions-9-25"
         },
@@ -5702,7 +5680,7 @@
           "context": "Kouign-amann",
           "parts": [
             "Région",
-            "Préfecture régionale"
+            "Chef-lieu de région"
           ],
           "answers": [
             "Bretagne",
@@ -5770,7 +5748,6 @@
           ],
           "explanation": "Kouign-amann → Bretagne → Rennes.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
-          "illustration": "food-0",
           "id": "geo-regions-9-26"
         },
         {
@@ -5779,7 +5756,7 @@
           "context": "Camembert",
           "parts": [
             "Région",
-            "Préfecture régionale"
+            "Chef-lieu de région"
           ],
           "answers": [
             "Normandie",
@@ -5847,7 +5824,6 @@
           ],
           "explanation": "Camembert → Normandie → Rouen.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
-          "illustration": "food-1",
           "id": "geo-regions-9-27"
         },
         {
@@ -5856,7 +5832,7 @@
           "context": "Carbonade flamande",
           "parts": [
             "Région",
-            "Préfecture régionale"
+            "Chef-lieu de région"
           ],
           "answers": [
             "Hauts-de-France",
@@ -5924,7 +5900,6 @@
           ],
           "explanation": "Carbonade flamande → Hauts-de-France → Lille.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
-          "illustration": "food-2",
           "id": "geo-regions-9-28"
         },
         {
@@ -5933,7 +5908,7 @@
           "context": "Choucroute",
           "parts": [
             "Région",
-            "Préfecture régionale"
+            "Chef-lieu de région"
           ],
           "answers": [
             "Grand Est",
@@ -6001,7 +5976,6 @@
           ],
           "explanation": "Choucroute → Grand Est → Strasbourg.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
-          "illustration": "food-3",
           "id": "geo-regions-9-29"
         },
         {
@@ -6010,7 +5984,7 @@
           "context": "Escargots",
           "parts": [
             "Région",
-            "Préfecture régionale"
+            "Chef-lieu de région"
           ],
           "answers": [
             "Bourgogne-Franche-Comté",
@@ -6078,16 +6052,16 @@
           ],
           "explanation": "Escargots → Bourgogne-Franche-Comté → Dijon.",
           "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
-          "illustration": "food-4",
           "id": "geo-regions-9-30"
         }
       ]
     }
   ],
   "recap": [
-    "Les associations de spécialités sont celles de la fiche étudiée ; elles ne prétendent pas être des spécialités exclusives de ces territoires.",
+    "Un chef-lieu de région est la ville où siège la préfecture de région. Les spécialités sont des exemples associés aux territoires, sans exclusivité. Guyane : bouillon d’awara ; Mayotte : mataba (feuilles de manioc au lait de coco).",
+    "À ne pas confondre : Pays de la Loire → Nantes ; Centre-Val de Loire → Orléans. Les deux régions sont distinctes, même si leur nom contient « Loire ».",
     "Métropole — Bretagne : Rennes, Kouign-amann ; Normandie : Rouen, Camembert ; Hauts-de-France : Lille, Carbonade flamande ; Grand Est : Strasbourg, Choucroute ; Bourgogne-Franche-Comté : Dijon, Escargots ; Centre-Val de Loire : Orléans, Tarte Tatin ; Île-de-France : Paris, Croissant ; Pays de la Loire : Nantes, Rillettes du Mans ; Nouvelle-Aquitaine : Bordeaux, Canelés ; Auvergne-Rhône-Alpes : Lyon, Tartiflette ; Occitanie : Toulouse, Cassoulet ; Provence-Alpes-Côte d’Azur : Marseille, Bouillabaisse ; Corse : Ajaccio, Fiadone.",
-    "DROM — Guadeloupe : Basse-Terre, Dombrés ; Martinique : Fort-de-France, Blanc-manger coco ; Guyane française : Cayenne, Matété ; La Réunion : Saint-Denis, Cari de poulet ; Mayotte : Mamoudzou, Brèdes.",
+    "DROM — Guadeloupe : Basse-Terre, Dombrés ; Martinique : Fort-de-France, Blanc-manger coco ; Guyane : Cayenne, Bouillon d’awara ; La Réunion : Saint-Denis, Cari de poulet ; Mayotte : Mamoudzou, Mataba.",
     "Attention : le chef-lieu de la Guadeloupe est Basse-Terre. Pointe-à-Pitre fait partie des grandes villes étudiées mais n’est pas ce chef-lieu.",
     "Les cartes utilisent les contours IGN ADMIN EXPRESS COG 2026. Les repères du planisphère sont placés sur les points officiels des chefs-lieux. Les agrandissements des DROM n’ont pas tous la même échelle."
   ]

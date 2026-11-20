@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "updated": "2026-11-20",
+  "pages": [
+    {
+      "path": "index.html",
+      "title": "Mes révisions",
+      "subject": "",
+      "category": "",
+      "parent": null,
+      "description": "",
+      "kind": "home"
+    },
+    {
+      "path": "francais/index.html",
+      "title": "Français",
+      "subject": "Français",
+      "category": "",
+      "parent": "index.html",
+      "description": "Choisis une leçon ou une catégorie.",
+      "kind": "subject"
+    },
+    {
+      "path": "anglais/index.html",
+      "title": "Anglais",
+      "subject": "Anglais",
+      "category": "",
+      "parent": "index.html",
+      "description": "Choisis une leçon ou une catégorie.",
+      "kind": "subject"
+    },
+    {
+      "path": "maths/index.html",
+      "title": "Mathématiques",
+      "subject": "Mathématiques",
+      "category": "",
+      "parent": "index.html",
+      "description": "Choisis une leçon ou une catégorie.",
+      "kind": "subject"
+    },
+    {
+      "path": "histoire-geo/index.html",
+      "title": "Histoire et géographie",
+      "subject": "Histoire et géographie",
+      "category": "",
+      "parent": "index.html",
+      "description": "Choisis une leçon ou une catégorie.",
+      "kind": "subject"
+    },
+    {
+      "path": "sciences/index.html",
+      "title": "Sciences",
+      "subject": "Sciences",
+      "category": "",
+      "parent": "index.html",
+      "description": "Choisis une leçon ou une catégorie.",
+      "kind": "subject"
+    },
+    {
+      "path": "grammaire/index.html",
+      "title": "Grammaire",
+      "subject": "Français",
+      "category": "Grammaire",
+      "parent": "francais/index.html",
+      "description": "Choisis une leçon de grammaire.",
+      "kind": "category"
+    },
+    {
+      "path": "conjugaison/index.html",
+      "title": "Conjugaison",
+      "subject": "Français",
+      "category": "Conjugaison",
+      "parent": "francais/index.html",
+      "description": "Choisis une leçon de conjugaison.",
+      "kind": "category"
+    },
+    {
+      "path": "orthographe/index.html",
+      "title": "Orthographe",
+      "subject": "Français",
+      "category": "Orthographe",
+      "parent": "francais/index.html",
+      "description": "Choisis une leçon de orthographe.",
+      "kind": "category"
+    },
+    {
+      "path": "vocabulaire/index.html",
+      "title": "Vocabulaire",
+      "subject": "Français",
+      "category": "Vocabulaire",
+      "parent": "francais/index.html",
+      "description": "Choisis une leçon de vocabulaire.",
+      "kind": "category"
+    },
+    {
+      "path": "francais/F1-Groupe-nominal/index.html",
+      "title": "F1 · Le groupe nominal",
+      "subject": "Français",
+      "category": "Grammaire",
+      "parent": "grammaire/index.html",
+      "description": "Trouver le nom noyau et les mots qui l’accompagnent.",
+      "kind": "lesson"
+    },
+    {
+      "path": "francais/F2-Determinants/index.html",
+      "title": "F2 · Les déterminants",
+      "subject": "Français",
+      "category": "Grammaire",
+      "parent": "grammaire/index.html",
+      "description": "Reconnaître les familles de déterminants.",
+      "kind": "lesson"
+    },
+    {
+      "path": "grammaire/sujet-verbe.html",
+      "title": "Le sujet et le verbe",
+      "subject": "Français",
+      "category": "Grammaire",
+      "parent": "grammaire/index.html",
+      "description": "Repérer le sujet, le verbe et leur accord.",
+      "kind": "lesson"
+    },
+    {
+      "path": "grammaire/types-formes-phrases.html",
+      "title": "Les types et les formes de phrases",
+      "subject": "Français",
+      "category": "Grammaire",
+      "parent": "grammaire/index.html",
+      "description": "Distinguer le type et les formes de la phrase.",
+      "kind": "lesson"
+    },
+    {
+      "path": "conjugaison/present-1er-groupe.html",
+      "title": "Le présent des verbes du 1er groupe",
+      "subject": "Français",
+      "category": "Conjugaison",
+      "parent": "conjugaison/index.html",
+      "description": "Radical, pronom sujet et terminaisons.",
+      "kind": "lesson"
+    },
+    {
+      "path": "conjugaison/present-indicatif.html",
+      "title": "Le présent : chanter et vomir",
+      "subject": "Français",
+      "category": "Conjugaison",
+      "parent": "conjugaison/index.html",
+      "description": "Conjuguer les deux modèles étudiés.",
+      "kind": "lesson"
+    },
+    {
+      "path": "francais/C3-Futur-simple/index.html",
+      "title": "C3 · Le futur simple",
+      "subject": "Français",
+      "category": "Conjugaison",
+      "parent": "conjugaison/index.html",
+      "description": "Verbes réguliers en -er et verbe être.",
+      "kind": "lesson"
+    },
+    {
+      "path": "francais/F3-Nombres-en-lettres/index.html",
+      "title": "F3 · Les nombres en lettres",
+      "subject": "Français",
+      "category": "Orthographe",
+      "parent": "orthographe/index.html",
+      "description": "Accords et traits d’union selon l’orthographe rectifiée.",
+      "kind": "lesson"
+    },
+    {
+      "path": "orthographe/homophones-essentiels.html",
+      "title": "Les homophones : a / à / as, on / ont, et / est, son / sont",
+      "subject": "Français",
+      "category": "Orthographe",
+      "parent": "orthographe/index.html",
+      "description": "Choisir le bon homophone en contexte.",
+      "kind": "lesson"
+    },
+    {
+      "path": "francais/a-a-as.html",
+      "title": "Les homophones : a / à / as",
+      "subject": "Français",
+      "category": "Orthographe",
+      "parent": "orthographe/index.html",
+      "description": "Distinguer le verbe avoir et la préposition à.",
+      "kind": "lesson"
+    },
+    {
+      "path": "francais/on-ont.html",
+      "title": "Les homophones : on / ont",
+      "subject": "Français",
+      "category": "Orthographe",
+      "parent": "orthographe/index.html",
+      "description": "Distinguer le pronom on et le verbe avoir.",
+      "kind": "lesson"
+    },
+    {
+      "path": "vocabulaire/dictionnaire-ordre-alphabetique.html",
+      "title": "Le dictionnaire et l’ordre alphabétique",
+      "subject": "Français",
+      "category": "Vocabulaire",
+      "parent": "vocabulaire/index.html",
+      "description": "Chercher un mot et comprendre un article.",
+      "kind": "lesson"
+    },
+    {
+      "path": "vocabulaire/mots-wayang-kulit.html",
+      "title": "Le vocabulaire du wayang kulit",
+      "subject": "Français",
+      "category": "Vocabulaire",
+      "parent": "vocabulaire/index.html",
+      "description": "Sens et classes grammaticales des mots de la fiche.",
+      "kind": "lesson"
+    },
+    {
+      "path": "anglais/introduce-yourself.html",
+      "title": "Introduce Yourself · Se présenter",
+      "subject": "Anglais",
+      "category": "",
+      "parent": "anglais/index.html",
+      "description": "Nom, âge, origine, lieu de vie et pronoms.",
+      "kind": "lesson"
+    },
+    {
+      "path": "anglais/At-School/index.html",
+      "title": "At School · À l’école",
+      "subject": "Anglais",
+      "category": "",
+      "parent": "anglais/index.html",
+      "description": "Personnes, lieux, fournitures, There is / There are et impératif.",
+      "kind": "lesson"
+    },
+    {
+      "path": "anglais/my-hobbies.html",
+      "title": "My Hobbies · Mes loisirs",
+      "subject": "Anglais",
+      "category": "",
+      "parent": "anglais/index.html",
+      "description": "Les activités et les loisirs en anglais.",
+      "kind": "lesson"
+    },
+    {
+      "path": "anglais/nombres-0-100.html",
+      "title": "Les nombres de 0 à 100 en anglais",
+      "subject": "Anglais",
+      "category": "",
+      "parent": "anglais/index.html",
+      "description": "Lire, écrire et reconnaître les nombres.",
+      "kind": "lesson"
+    },
+    {
+      "path": "Mathematiques/M4-Fractions/index.html",
+      "title": "M4 · Les fractions",
+      "subject": "Mathématiques",
+      "category": "Nombres et calcul",
+      "parent": "maths/index.html",
+      "description": "Définir, représenter et lire les fractions.",
+      "kind": "lesson"
+    },
+    {
+      "path": "maths/essentiels-tables.html",
+      "title": "Les tables de multiplication",
+      "subject": "Mathématiques",
+      "category": "Nombres et calcul",
+      "parent": "maths/index.html",
+      "description": "Les tables de 1 à 10.",
+      "kind": "lesson"
+    },
+    {
+      "path": "maths/essentiels-multiples-25.html",
+      "title": "Les multiples de 25",
+      "subject": "Mathématiques",
+      "category": "Nombres et calcul",
+      "parent": "maths/index.html",
+      "description": "Les multiples de 1 × 25 à 8 × 25.",
+      "kind": "lesson"
+    },
+    {
+      "path": "maths/essentiels-mesures.html",
+      "title": "Les longueurs, les masses et les contenances",
+      "subject": "Mathématiques",
+      "category": "Grandeurs et mesures",
+      "parent": "maths/index.html",
+      "description": "Unités, volumes et équivalences.",
+      "kind": "lesson"
+    },
+    {
+      "path": "maths/geometrie-definitions.html",
+      "title": "Les définitions de géométrie",
+      "subject": "Mathématiques",
+      "category": "Géométrie",
+      "parent": "maths/index.html",
+      "description": "Points, droites, segments, polygones et périmètres.",
+      "kind": "lesson"
+    },
+    {
+      "path": "maths/essentiels.html",
+      "title": "Les essentiels de mathématiques",
+      "subject": "Mathématiques",
+      "category": "",
+      "parent": "maths/index.html",
+      "description": "Retrouver les tables, les multiples de 25 et les mesures.",
+      "kind": "collection"
+    },
+    {
+      "path": "histoire-geo/ancien-regime.html",
+      "title": "De la monarchie à la Révolution",
+      "subject": "Histoire et géographie",
+      "category": "Histoire",
+      "parent": "histoire-geo/index.html",
+      "description": "Société d’ordres, crise et événements de 1789.",
+      "kind": "lesson"
+    },
+    {
+      "path": "histoire-geo/revolution-republique-terreur.html",
+      "title": "De la Révolution à la République",
+      "subject": "Histoire et géographie",
+      "category": "Histoire",
+      "parent": "histoire-geo/index.html",
+      "description": "1789–1794 : monarchie constitutionnelle, République et Terreur.",
+      "kind": "lesson"
+    },
+    {
+      "path": "histoire-geo/napoleon-consulat-empire.html",
+      "title": "Napoléon : du Consulat à l’Empire",
+      "subject": "Histoire et géographie",
+      "category": "Histoire",
+      "parent": "histoire-geo/index.html",
+      "description": "1799–1815 : prise du pouvoir, Empire et défaites.",
+      "kind": "lesson"
+    },
+    {
+      "path": "Histoire/Lecon-2/index.html",
+      "title": "Leçon 2 · Les révolutions du XIXᵉ siècle",
+      "subject": "Histoire et géographie",
+      "category": "Histoire",
+      "parent": "histoire-geo/index.html",
+      "description": "Trois parties : vapeur, transports et industrie.",
+      "kind": "collection"
+    },
+    {
+      "path": "Histoire/Lecon-2/Machine-a-vapeur/index.html",
+      "title": "Partie 1 · La machine à vapeur",
+      "subject": "Histoire et géographie",
+      "category": "Histoire",
+      "parent": "Histoire/Lecon-2/index.html",
+      "description": "Comprendre la machine et l’amélioration de Watt.",
+      "kind": "lesson"
+    },
+    {
+      "path": "Histoire/Lecon-2/Revolution-des-transports/index.html",
+      "title": "Partie 2 · La révolution des transports",
+      "subject": "Histoire et géographie",
+      "category": "Histoire",
+      "parent": "Histoire/Lecon-2/index.html",
+      "description": "Locomotive, bateau à vapeur, automobile et échanges.",
+      "kind": "lesson"
+    },
+    {
+      "path": "Histoire/Lecon-2/Revolution-industrie/index.html",
+      "title": "Partie 3 · La révolution de l’industrie",
+      "subject": "Histoire et géographie",
+      "category": "Histoire",
+      "parent": "Histoire/Lecon-2/index.html",
+      "description": "Usines, machines, production et énergies.",
+      "kind": "lesson"
+    },
+    {
+      "path": "histoire-geo/geographie-charite-region.html",
+      "title": "La Charité-sur-Loire et sa région",
+      "subject": "Histoire et géographie",
+      "category": "Géographie",
+      "parent": "histoire-geo/index.html",
+      "description": "Départements, numéros et régions.",
+      "kind": "lesson"
+    },
+    {
+      "path": "histoire-geo/geographie-geoportail.html",
+      "title": "Se repérer avec Géoportail",
+      "subject": "Histoire et géographie",
+      "category": "Géographie",
+      "parent": "histoire-geo/index.html",
+      "description": "Orientation, légende et lecture de carte.",
+      "kind": "lesson"
+    },
+    {
+      "path": "histoire-geo/regions-francaises.html",
+      "title": "Les régions : organisation et compétences",
+      "subject": "Histoire et géographie",
+      "category": "Géographie",
+      "parent": "histoire-geo/index.html",
+      "description": "Conseil régional, préfet, compétences et réforme de 2016.",
+      "kind": "lesson"
+    },
+    {
+      "path": "histoire-geo/Regions-prefectures-DROM/index.html",
+      "title": "Les régions et l’outre-mer : chefs-lieux et spécialités",
+      "subject": "Histoire et géographie",
+      "category": "Géographie",
+      "parent": "histoire-geo/index.html",
+      "description": "Régions, chefs-lieux, cartes et exemples de spécialités.",
+      "kind": "lesson"
+    },
+    {
+      "path": "histoire-geo/villes-de-france.html",
+      "title": "Les villes de France",
+      "subject": "Histoire et géographie",
+      "category": "Géographie",
+      "parent": "histoire-geo/index.html",
+      "description": "Activité externe LearningApps.",
+      "kind": "lesson"
+    },
+    {
+      "path": "sciences/systeme-solaire.html",
+      "title": "Le système solaire",
+      "subject": "Sciences",
+      "category": "",
+      "parent": "sciences/index.html",
+      "description": "Ordre des planètes, telluriques et géantes.",
+      "kind": "lesson"
+    },
+    {
+      "path": "sciences/rotation-revolution-planetes.html",
+      "title": "La rotation et la révolution des planètes",
+      "subject": "Sciences",
+      "category": "",
+      "parent": "sciences/index.html",
+      "description": "Mouvements, orbites et distances moyennes au Soleil.",
+      "kind": "lesson"
+    },
+    {
+      "path": "orthographe/present-1er-groupe.html",
+      "title": "Le présent des verbes du 1er groupe",
+      "subject": "Français",
+      "category": "Conjugaison",
+      "parent": "conjugaison/index.html",
+      "description": "Ancienne adresse conservée.",
+      "kind": "redirect"
+    }
+  ]
+}

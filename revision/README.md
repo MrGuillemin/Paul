@@ -1,47 +1,27 @@
-# Extension Histoire et Français
+# Maintenance du site de révisions
 
-## Pages
+Le [catalogue](catalogue.json) recense les 48 pages, leurs intitulés, leurs catégories et leurs parents. Il constitue la référence pour les menus et fils d’Ariane. Les anciens chemins restent accessibles ; ne pas les renommer sans redirection.
 
-- `Histoire/Lecon-2/index.html` : choix des deux parties d’histoire.
-- `Histoire/Lecon-2/Revolution-des-transports/index.html` : 6 nouveaux exercices.
-- `francais/F1-Groupe-nominal/index.html` : 6 exercices.
-- `francais/F2-Determinants/index.html` : 6 exercices.
-- `francais/F3-Nombres-en-lettres/index.html` : 6 exercices.
+Le [rapport d’audit du 20 novembre 2026](audit-2026-11-20.md) décrit les corrections pédagogiques, leurs sources et les limites documentaires.
 
-Chaque nouvelle leçon possède un fichier `questions.json`, contenant six banques de 30 entrées. Le total initial est de 720 entrées (180 en histoire et 540 en français). Les identifiants restent stables ; les champs `prompt`, `context`, `answer`, `options`, `hint`, `explanation` et `aliases` sont destinés à la maintenance pédagogique.
+## Moteurs
 
-## Composants partagés
+- `app.js` : mélange Fisher-Yates, scores proportionnels et sauvegarde facultative des meilleurs résultats.
+- `revision/quiz.js` : 19 pages de QCM, 66 exercices et 884 entrées dédoublonnées. Les données de chaque page figurent dans le bloc JSON `quiz-data`. Une série contient au plus 10 questions ; les petites listes ne sont pas artificiellement répétées.
+- `revision/engine.js` : 8 leçons à banques JSON, 51 exercices et 1 438 entrées. Une série comprend 10 questions distinctes. Les types pris en charge sont `choice`, `select`, `text`, `tokens`, `decompose`, `order`, `self` et `map`.
+- Les activités de vapeur, fractions, nombres anglais, loisirs, vocabulaire et les deux courts exercices d’homophones conservent leurs interactions spécialisées.
+- `revision/maps.js` et `revision/maps/` : contours IGN 2026, chargement et interactions cartographiques. Les sources géométriques sont indiquées dans `revision/maps/sources.json`.
 
-- `app.js`, inchangé : mélange Fisher-Yates utilisé également par les anciens exercices.
-- `revision/engine.js` : chargement des banques, tirages, interactions et corrections des nouvelles pages.
-- `revision/style.css` : compléments au thème ; importe `../style.css` sans modifier les anciennes pages.
+Les QCM et les nouvelles banques donnent un indice à la première erreur, puis une correction à la deuxième. Une association à plusieurs champs vaut un point lorsque tous les champs sont corrects ; un retour séparé indique le statut de chaque champ. Les rédactions autoévaluées restent hors du score automatique.
 
-Les anciennes leçons gardent leur moteur. Seule la navigation de la page « Machine à vapeur » est enrichie ; ses exercices, sa feuille CSS et son script ne changent pas.
-
-## Interactions
-
-`choice` : QCM, y compris vrai/faux ; `select` : classement ou association contextualisée ; `text` : réponse courte ; `tokens` : choix d’un mot ; `decompose` : fonctions des constituants ; `order` : mots à sélectionner dans l’ordre ; `self` : rédaction avec modèle, critères et autoévaluation.
-
-Dans les associations, chaque situation possède ses propres propositions. Il n’existe pas de liste globale imposant artificiellement une correspondance unique entre des causes dont les effets peuvent être proches.
-
-Une série contient dix identifiants distincts. Les choix et l’ordre des questions sont mélangés. « Nouvelle série » renouvelle le tirage de l’exercice courant, conserve les autres exercices et garantit qu’au moins une entrée change. Les résultats des séries précédentes ne sont pas cumulés.
-
-Une question vaut un seul point, même si elle contient plusieurs champs ou a été vérifiée plusieurs fois. Une modification retire le résultat jusqu’à une nouvelle vérification. Après une première erreur, un indice est donné ; l’erreur suivante affiche une correction expliquée. « Réessayer » permet de recommencer la question. Les rédactions sont autoévaluées et exclues du score automatique.
-
-Pour les nombres en lettres, le mode `strict` conserve les marques d’accord et les traits d’union. Les majuscules et les variantes de tirets sont normalisées, mais « cents » et « cent », « vingts » et « vingt », « mille » et « milles » ne sont pas confondus.
-
-Pour enrichir une banque, ajouter des identifiants uniques et conserver au moins 30 entrées. Mettre à jour les mentions du nombre d’entrées et les tests de comptage lorsqu’un enrichissement au-delà de 30 est volontaire.
+Les tailles minimales des banques fermées sont explicites (`minimumQuestions`, `poolNote`). Ne pas créer de faux doublons pour atteindre un quota. Les corrections doivent être vérifiées avec une référence indépendante, pas seulement avec la réponse enregistrée dans la banque.
 
 ## Vérifications
 
-Depuis la racine du dépôt, avec Node.js (sans paquet supplémentaire) :
-
 ```sh
-node --test tests/revision-banks.test.cjs
+node --test tests/*.test.cjs
 ```
 
-Ces tests contrôlent les 24 banques, les 720 identifiants, les doublons de données, les réponses, les distracteurs, les variantes de construction, le tirage, le mélange, la distribution du bilan historique, les dates et les règles d’orthographe des nombres. Ils ne remplacent pas une relecture pédagogique des nouvelles entrées ajoutées ultérieurement.
+Les trois suites contrôlent les banques JSON, les variantes et distracteurs, les cartes compressées, le catalogue, les QCM dédoublonnés, les dates corrigées, les formes anglaises, les calculs et le cas Pays de la Loire/Nantes contre Centre-Val de Loire/Orléans.
 
-Le graphique des kilomètres utilise une échelle commune : `500 × valeur / 32601` pour la première barre et `500` pour la seconde. Une table fournit également les données exactes.
-
-Les tests navigateur de livraison couvrent les 24 séries, les corrections, les tentatives, les scores, les nouveaux tirages, les bilans, la navigation entre les parties d’histoire et les largeurs 320, 375, 768 et 1440 px. Les tests antérieurs de vapeur et de fractions sont également relancés.
+Les sources historiques et les précisions utiles sont accessibles dans les leçons concernées. Les valeurs 2 859 km / 32 601 km du graphique restent celles du document fourni : leur périmètre statistique n’est pas certifié. Le contenu de l’activité LearningApps appartient au service externe.

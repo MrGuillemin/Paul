@@ -28,7 +28,7 @@ test('Chaque série a dix questions sans doublon ; les questions et choix sont r
 });
 test('Dates historiques, données du réseau et répartition du bilan',()=>{
  const h=lessons[0];const counts={};h.exercises[5].questions.forEach(q=>counts[q.tag]=(counts[q.tag]||0)+1);assert.deepEqual(counts,{inventions:8,vocabulaire:6,avantages:6,economie:5,reseau:5});
- for(const [snippet,answer] of [['Quel transport est associé à 1817','Le train'],['Quelle date le cours associe-t-il au bateau','1850'],['En quelle année l’automobile','1886']])assert.equal(h.exercises[0].questions.find(q=>q.prompt.startsWith(snippet)).answer,answer);
+ for(const [id,answer] of [['h2-transports-1-01','Le train'],['h2-transports-1-02','1807'],['h2-transports-1-03','1886']])assert.equal(h.exercises[0].questions.find(q=>q.id===id).answer,answer);
  const source=fs.readFileSync(path.join(root,'revision/engine.js'),'utf8');assert.match(source,/500\*2859\/32601/);assert.match(source,/32 601 km/);assert.match(source,/2 859 km/);
 });
 test('Nombres : formes indépendamment vérifiées, traits d’union et accords stricts',()=>{
@@ -42,3 +42,4 @@ test('Nombres : formes indépendamment vérifiées, traits d’union et accords 
 test('Des indéfini et des contracté sont présentés en contexte',()=>{
  const qs=lessons[2].exercises[5].questions.filter(q=>q.prompt.includes('« des »'));assert.equal(qs.length,6);assert.equal(qs.filter(q=>q.answer==='Article indéfini').length,3);assert.equal(qs.filter(q=>q.answer==='Article contracté').length,3);qs.forEach(q=>assert.ok(q.context));
 });
+

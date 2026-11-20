@@ -61,12 +61,12 @@
         },
         {
           "type": "choice",
-          "prompt": "À partir de quelle date les nouvelles énergies remplacent-elles peu à peu le charbon ?",
+          "prompt": "À partir de quelle date les nouvelles énergies se développent-elles aux côtés du charbon ?",
           "answer": "1880",
           "options": [
             "1880",
-            "1817",
-            "1763"
+            "1804",
+            "1769"
           ],
           "explanation": "Le repère donné pour la transition énergétique est 1880.",
           "hint": "Appuie-toi sur les informations précises du cours.",
@@ -74,7 +74,7 @@
         },
         {
           "type": "choice",
-          "prompt": "Quelles énergies remplacent progressivement le charbon ?",
+          "prompt": "Quelles énergies complètent progressivement l’usage du charbon ?",
           "answer": "L’électricité et le pétrole",
           "options": [
             "L’électricité et le pétrole",
@@ -94,7 +94,7 @@
             "Immédiatement dans toutes les usines",
             "Sans aucun changement"
           ],
-          "explanation": "Le remplacement du charbon n’est pas immédiat ni total.",
+          "explanation": "Le développement des nouvelles énergies n’est pas immédiat ni total.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "h2-industrie-1-07"
         },
@@ -192,9 +192,9 @@
         {
           "type": "choice",
           "prompt": "Quelle phrase respecte la transition de 1880 ?",
-          "answer": "Le charbon est remplacé progressivement",
+          "answer": "Les nouvelles énergies se développent progressivement",
           "options": [
-            "Le charbon est remplacé progressivement",
+            "Les nouvelles énergies se développent progressivement",
             "Le charbon disparaît partout le même jour",
             "L’électricité n’est jamais citée"
           ],
@@ -230,14 +230,14 @@
         },
         {
           "type": "choice",
-          "prompt": "Quel combustible est progressivement remplacé dans les usines ?",
+          "prompt": "Quel combustible reste très utilisé malgré le développement des nouvelles énergies ?",
           "answer": "Le charbon",
           "options": [
             "Le charbon",
             "Le papier des cahiers",
             "Le plastique des règles"
           ],
-          "explanation": "Le remplacement concerne le charbon.",
+          "explanation": "Le charbon reste très utilisé tandis que l’électricité et le pétrole se développent.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "h2-industrie-1-18"
         },
@@ -476,7 +476,7 @@
         },
         {
           "type": "text",
-          "prompt": "Le pétrole et l’___ remplacent progressivement le charbon.",
+          "prompt": "Le pétrole et l’___ complètent progressivement l’usage du charbon.",
           "answer": "électricité",
           "aliases": [],
           "explanation": "Le cours associe électricité et pétrole.",
@@ -486,7 +486,7 @@
         },
         {
           "type": "text",
-          "prompt": "L’électricité et le ___ remplacent peu à peu le charbon.",
+          "prompt": "L’électricité et le ___ complètent peu à peu l’usage du charbon.",
           "answer": "pétrole",
           "aliases": [],
           "explanation": "Le pétrole est cité avec l’électricité.",
@@ -496,10 +496,10 @@
         },
         {
           "type": "text",
-          "prompt": "Les nouvelles énergies remplacent peu à peu le ___ dans les usines.",
+          "prompt": "L’électricité et le pétrole se développent aux côtés du ___ dans les usines.",
           "answer": "charbon",
           "aliases": [],
-          "explanation": "La transition concerne le remplacement progressif du charbon.",
+          "explanation": "La transition concerne le développement de nouvelles sources d’énergie.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "h2-industrie-2-10"
@@ -548,12 +548,12 @@
         },
         {
           "type": "text",
-          "prompt": "À partir de 1880, le charbon n’est pas remplacé d’un seul coup mais ___.",
+          "prompt": "Vers 1880, les nouvelles énergies se développent ___. ",
           "answer": "progressivement",
           "aliases": [
             "peu à peu"
           ],
-          "explanation": "Le texte dit « peu à peu ».",
+          "explanation": "Le développement est progressif ; le charbon reste très utilisé.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "h2-industrie-2-15"
@@ -703,7 +703,7 @@
           "prompt": "Dans cette partie, électricité et pétrole sont des sources d’___.",
           "answer": "énergie",
           "aliases": [],
-          "explanation": "Elles remplacent progressivement le charbon pour faire fonctionner les machines.",
+          "explanation": "Elles complètent progressivement l’usage du charbon pour faire fonctionner les machines.",
           "hint": "Relis la règle ou le repère correspondant.",
           "strict": false,
           "id": "h2-industrie-2-29"
@@ -809,7 +809,7 @@
         },
         {
           "type": "choice",
-          "prompt": "À partir de 1880, de nouvelles énergies remplacent progressivement le charbon.",
+          "prompt": "À partir de 1880, de nouvelles énergies complètent progressivement l’usage du charbon.",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -977,7 +977,7 @@
         },
         {
           "type": "choice",
-          "prompt": "La transition énergétique étudiée commence en 1817.",
+          "prompt": "La transition énergétique étudiée commence en 1804.",
           "answer": "Faux",
           "options": [
             "Faux",
@@ -1043,7 +1043,7 @@
             "Faux",
             "Vrai"
           ],
-          "explanation": "Ce sont deux sources d’énergie qui le remplacent progressivement.",
+          "explanation": "Ce sont deux nouvelles sources d’énergie qui se développent aux côtés du charbon.",
           "hint": "Compare précisément l’affirmation aux mots du cours.",
           "id": "h2-industrie-3-27"
         },
@@ -1094,7 +1094,7 @@
           "answer": "Ressource nécessaire en très grande quantité aux machines étudiées",
           "options": [
             "Ressource nécessaire en très grande quantité aux machines étudiées",
-            "Énergie qui remplace progressivement le charbon à partir de 1880"
+            "Énergie qui complète progressivement l’usage du charbon à partir de 1880"
           ],
           "explanation": "Charbon : ressource nécessaire en très grande quantité aux machines étudiées.",
           "hint": "Observe le contexte et les mots importants.",
@@ -1104,12 +1104,12 @@
         {
           "type": "select",
           "prompt": "Associe cette source d’énergie à son rôle dans le cours.",
-          "answer": "Énergie qui remplace progressivement le charbon à partir de 1880",
+          "answer": "Énergie qui complète progressivement l’usage du charbon à partir de 1880",
           "options": [
             "Ressource nécessaire en très grande quantité aux machines étudiées",
-            "Énergie qui remplace progressivement le charbon à partir de 1880"
+            "Énergie qui complète progressivement l’usage du charbon à partir de 1880"
           ],
-          "explanation": "Électricité : énergie qui remplace progressivement le charbon à partir de 1880.",
+          "explanation": "Électricité : énergie qui complète progressivement l’usage du charbon à partir de 1880.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Électricité",
           "id": "h2-industrie-4-02"
@@ -1117,12 +1117,12 @@
         {
           "type": "select",
           "prompt": "Associe cette source d’énergie à son rôle dans le cours.",
-          "answer": "Énergie qui remplace progressivement le charbon à partir de 1880",
+          "answer": "Énergie qui complète progressivement l’usage du charbon à partir de 1880",
           "options": [
             "Ressource nécessaire en très grande quantité aux machines étudiées",
-            "Énergie qui remplace progressivement le charbon à partir de 1880"
+            "Énergie qui complète progressivement l’usage du charbon à partir de 1880"
           ],
-          "explanation": "Pétrole : énergie qui remplace progressivement le charbon à partir de 1880.",
+          "explanation": "Pétrole : énergie qui complète progressivement l’usage du charbon à partir de 1880.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Pétrole",
           "id": "h2-industrie-4-03"
@@ -1136,20 +1136,20 @@
             "Charbon et papier",
             "Pétrole et charbon uniquement"
           ],
-          "explanation": "L’électricité et le pétrole remplacent progressivement le charbon.",
+          "explanation": "L’électricité et le pétrole complètent progressivement l’usage du charbon.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "h2-industrie-4-04"
         },
         {
           "type": "choice",
-          "prompt": "Quelle énergie est progressivement remplacée ?",
+          "prompt": "Quel combustible reste très utilisé malgré le développement des nouvelles énergies ?",
           "answer": "Le charbon",
           "options": [
             "Le charbon",
             "La craie",
             "Le papier"
           ],
-          "explanation": "La transition concerne le charbon.",
+          "explanation": "Le charbon reste très utilisé tandis que l’électricité et le pétrole se développent.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "h2-industrie-4-05"
         },
@@ -1159,8 +1159,8 @@
           "answer": "1880",
           "options": [
             "1880",
-            "1763",
-            "1850"
+            "1769",
+            "1807"
           ],
           "explanation": "Le repère donné est 1880.",
           "hint": "Appuie-toi sur les informations précises du cours.",
@@ -1175,7 +1175,7 @@
             "Partout en une seule journée",
             "Sans aucun changement"
           ],
-          "explanation": "Le cours indique un remplacement progressif.",
+          "explanation": "Le cours indique un développement progressif.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "h2-industrie-4-07"
         },
@@ -1207,7 +1207,7 @@
         },
         {
           "type": "choice",
-          "prompt": "Le pétrole remplace peu à peu le charbon.",
+          "prompt": "Le pétrole complète peu à peu l’usage du charbon.",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -1219,7 +1219,7 @@
         },
         {
           "type": "choice",
-          "prompt": "L’électricité remplace progressivement le charbon.",
+          "prompt": "L’électricité complète progressivement l’usage du charbon.",
           "answer": "Vrai",
           "options": [
             "Vrai",
@@ -1261,7 +1261,7 @@
             "Faux",
             "Vrai"
           ],
-          "explanation": "Le remplacement est progressif.",
+          "explanation": "Le développement est progressif.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "h2-industrie-4-14"
         },
@@ -1401,13 +1401,13 @@
         {
           "type": "select",
           "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
-          "answer": "Remplacement progressif du charbon",
+          "answer": "Diversification des sources d’énergie",
           "options": [
-            "Remplacement progressif du charbon",
+            "Diversification des sources d’énergie",
             "Les machines disparaissent immédiatement et partout.",
             "La production est obligatoirement arrêtée."
           ],
-          "explanation": "Arrivée de l’électricité et du pétrole à partir de 1880 → Remplacement progressif du charbon.",
+          "explanation": "Arrivée de l’électricité et du pétrole à partir de 1880 → Diversification des sources d’énergie.",
           "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
           "context": "Arrivée de l’électricité et du pétrole à partir de 1880",
           "id": "h2-industrie-5-07"
@@ -1533,9 +1533,9 @@
             "Les machines disparaissent immédiatement et partout.",
             "La production est obligatoirement arrêtée."
           ],
-          "explanation": "Le texte parle d’un remplacement progressif du charbon → La transition ne se fait pas partout en une seule journée.",
+          "explanation": "Le texte parle d’un développement de nouvelles sources d’énergie → La transition ne se fait pas partout en une seule journée.",
           "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
-          "context": "Le texte parle d’un remplacement progressif du charbon",
+          "context": "Le texte parle d’un développement de nouvelles sources d’énergie",
           "id": "h2-industrie-5-16"
         },
         {
@@ -1616,14 +1616,14 @@
         },
         {
           "type": "choice",
-          "prompt": "Quelle date le premier cours retient-il pour la machine à vapeur ?",
-          "answer": "1763",
+          "prompt": "En quelle année Watt fait-il breveter son amélioration de la machine à vapeur ?",
+          "answer": "1769",
           "options": [
-            "1763",
+            "1769",
             "1880",
             "1886"
           ],
-          "explanation": "Le cours de la première partie utilise 1763.",
+          "explanation": "Le cours de la première partie utilise 1769.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "h2-industrie-6-02"
         },
@@ -1681,27 +1681,27 @@
         },
         {
           "type": "choice",
-          "prompt": "Quel transport est associé à 1817 ?",
+          "prompt": "Quel transport est associé à 1804 ?",
           "answer": "Le train",
           "options": [
             "Le train",
             "L’automobile",
             "Le bateau à vapeur"
           ],
-          "explanation": "Le cours associe le train à 1817.",
+          "explanation": "Le cours associe le train à 1804.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "h2-industrie-6-07"
         },
         {
           "type": "choice",
-          "prompt": "Quel transport est associé à 1850 ?",
+          "prompt": "Quel transport est associé à 1807 ?",
           "answer": "Le bateau à vapeur",
           "options": [
             "Le bateau à vapeur",
             "L’automobile",
             "L’avion daté"
           ],
-          "explanation": "Le cours associe le bateau à vapeur à 1850.",
+          "explanation": "Le cours associe le bateau à vapeur à 1807.",
           "hint": "Appuie-toi sur les informations précises du cours.",
           "id": "h2-industrie-6-08"
         },
@@ -1902,12 +1902,12 @@
         {
           "type": "select",
           "prompt": "Associe les éléments du cours.",
-          "answer": "Énergies de remplacement progressif du charbon",
+          "answer": "Énergies de développement de nouvelles sources d’énergie",
           "options": [
-            "Énergies de remplacement progressif du charbon",
+            "Énergies de développement de nouvelles sources d’énergie",
             "Noms des inventions illisibles"
           ],
-          "explanation": "Elles remplacent peu à peu le charbon.",
+          "explanation": "Elles complètent peu à peu l’usage du charbon.",
           "hint": "Observe le contexte et les mots importants.",
           "context": "Électricité et pétrole",
           "id": "h2-industrie-6-26"
@@ -1964,9 +1964,10 @@
     }
   ],
   "recap": [
+    "La vapeur résulte de plusieurs inventions et améliorations : Newcomen développe une machine en 1712 ; Watt fait breveter son condenseur séparé en 1769. La date 1763 correspond à ses premiers travaux, pas à l’invention de la machine à vapeur.",
     "La machine à vapeur permet de nouvelles machines qui fabriquent plus vite et en plus grande quantité.",
     "Ces machines sont regroupées dans de grands bâtiments : les premières usines. Elles ont besoin d’énormément de charbon et la production augmente très vite.",
-    "À partir de 1880, l’électricité et le pétrole remplacent peu à peu le charbon dans les usines. Ce remplacement est progressif.",
+    "Vers les années 1880, l’électricité et le pétrole se développent dans l’industrie aux côtés du charbon. Le charbon reste très utilisé : il n’est pas remplacé partout ni immédiatement.",
     "Le XIXᵉ siècle connaît de nombreuses inventions révolutionnaires. La fiche montre 1832, 1839, 1876, 1885 et 1895, mais leurs noms ne sont pas visibles : aucune correspondance n’est inventée ici."
   ]
 }
