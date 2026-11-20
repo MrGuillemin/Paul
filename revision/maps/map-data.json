@@ -1,0 +1,460 @@
+{
+  "source": "IGN ADMIN EXPRESS COG 2026, service WFS Géoplateforme",
+  "projection": "Mercator sphérique pour les régions ; planisphère équirectangulaire WGS84",
+  "regions": {
+    "11": {
+      "code": "11",
+      "label": "Île-de-France",
+      "officialName": "Île-de-France",
+      "chief": "Paris",
+      "food": "Croissant",
+      "scope": "metro",
+      "zone": "A",
+      "file": "r-11.json",
+      "labelPoint": [
+        382.818,
+        170.674
+      ],
+      "chiefCoordinates": [
+        2.2726804,
+        48.84020309
+      ],
+      "worldPoint": [
+        364.545,
+        82.32
+      ],
+      "sourceVertices": 27158,
+      "renderedVertices": 26859
+    },
+    "24": {
+      "code": "24",
+      "label": "Centre-Val de Loire",
+      "officialName": "Centre-Val de Loire",
+      "chief": "Orléans",
+      "food": "Tarte Tatin",
+      "scope": "metro",
+      "zone": "B",
+      "file": "r-24.json",
+      "labelPoint": [
+        366.697,
+        233.697
+      ],
+      "chiefCoordinates": [
+        1.91053573,
+        47.89975703
+      ],
+      "worldPoint": [
+        363.821,
+        84.2
+      ],
+      "sourceVertices": 43617,
+      "renderedVertices": 43502
+    },
+    "27": {
+      "code": "27",
+      "label": "Bourgogne-Franche-Comté",
+      "officialName": "Bourgogne-Franche-Comté",
+      "chief": "Dijon",
+      "food": "Escargots",
+      "scope": "metro",
+      "zone": "C",
+      "file": "r-27.json",
+      "labelPoint": [
+        506.079,
+        271.656
+      ],
+      "chiefCoordinates": [
+        5.04156799,
+        47.32491868
+      ],
+      "worldPoint": [
+        370.083,
+        85.35
+      ],
+      "sourceVertices": 49150,
+      "renderedVertices": 48940
+    },
+    "28": {
+      "code": "28",
+      "label": "Normandie",
+      "officialName": "Normandie",
+      "chief": "Rouen",
+      "food": "Camembert",
+      "scope": "metro",
+      "zone": "D",
+      "file": "r-28.json",
+      "labelPoint": [
+        329.76,
+        129.457
+      ],
+      "chiefCoordinates": [
+        1.08078767,
+        49.44588827
+      ],
+      "worldPoint": [
+        362.162,
+        81.108
+      ],
+      "sourceVertices": 174956,
+      "renderedVertices": 168787
+    },
+    "32": {
+      "code": "32",
+      "label": "Hauts-de-France",
+      "officialName": "Hauts-de-France",
+      "chief": "Lille",
+      "food": "Carbonade flamande",
+      "scope": "metro",
+      "zone": "E",
+      "file": "r-32.json",
+      "labelPoint": [
+        417.871,
+        47.063
+      ],
+      "chiefCoordinates": [
+        3.06009657,
+        50.63454386
+      ],
+      "worldPoint": [
+        366.12,
+        78.731
+      ],
+      "sourceVertices": 93991,
+      "renderedVertices": 90635
+    },
+    "44": {
+      "code": "44",
+      "label": "Grand Est",
+      "officialName": "Grand Est",
+      "chief": "Strasbourg",
+      "food": "Choucroute",
+      "scope": "metro",
+      "zone": "F",
+      "file": "r-44.json",
+      "labelPoint": [
+        626.877,
+        187.685
+      ],
+      "chiefCoordinates": [
+        7.75516002,
+        48.58806713
+      ],
+      "worldPoint": [
+        375.51,
+        82.824
+      ],
+      "sourceVertices": 67564,
+      "renderedVertices": 67132
+    },
+    "52": {
+      "code": "52",
+      "label": "Pays de la Loire",
+      "officialName": "Pays de la Loire",
+      "chief": "Nantes",
+      "food": "Rillettes du Mans",
+      "scope": "metro",
+      "zone": "G",
+      "file": "r-52.json",
+      "labelPoint": [
+        212.492,
+        278.528
+      ],
+      "chiefCoordinates": [
+        -1.55349507,
+        47.22017608
+      ],
+      "worldPoint": [
+        356.893,
+        85.56
+      ],
+      "sourceVertices": 214182,
+      "renderedVertices": 197404
+    },
+    "53": {
+      "code": "53",
+      "label": "Bretagne",
+      "officialName": "Bretagne",
+      "chief": "Rennes",
+      "food": "Kouign-amann",
+      "scope": "metro",
+      "zone": "H",
+      "file": "r-53.json",
+      "labelPoint": [
+        207.122,
+        219.46
+      ],
+      "chiefCoordinates": [
+        -1.67413512,
+        48.11372224
+      ],
+      "worldPoint": [
+        356.652,
+        83.773
+      ],
+      "sourceVertices": 1098251,
+      "renderedVertices": 992879
+    },
+    "75": {
+      "code": "75",
+      "label": "Nouvelle-Aquitaine",
+      "officialName": "Nouvelle-Aquitaine",
+      "chief": "Bordeaux",
+      "food": "Canelés",
+      "scope": "metro",
+      "zone": "I",
+      "file": "r-75.json",
+      "labelPoint": [
+        255.534,
+        431.335
+      ],
+      "chiefCoordinates": [
+        -0.5866033,
+        44.83744775
+      ],
+      "worldPoint": [
+        358.827,
+        90.325
+      ],
+      "sourceVertices": 214529,
+      "renderedVertices": 205624
+    },
+    "76": {
+      "code": "76",
+      "label": "Occitanie",
+      "officialName": "Occitanie",
+      "chief": "Toulouse",
+      "food": "Cassoulet",
+      "scope": "metro",
+      "zone": "J",
+      "file": "r-76.json",
+      "labelPoint": [
+        346.197,
+        508.272
+      ],
+      "chiefCoordinates": [
+        1.45003175,
+        43.59887101
+      ],
+      "worldPoint": [
+        362.9,
+        92.802
+      ],
+      "sourceVertices": 181285,
+      "renderedVertices": 175910
+    },
+    "84": {
+      "code": "84",
+      "label": "Auvergne-Rhône-Alpes",
+      "officialName": "Auvergne-Rhône-Alpes",
+      "chief": "Lyon",
+      "food": "Tartiflette",
+      "scope": "metro",
+      "zone": "K",
+      "file": "r-84.json",
+      "labelPoint": [
+        497.292,
+        372.906
+      ],
+      "chiefCoordinates": [
+        4.84418993,
+        45.76066781
+      ],
+      "worldPoint": [
+        369.688,
+        88.479
+      ],
+      "sourceVertices": 122092,
+      "renderedVertices": 121513
+    },
+    "93": {
+      "code": "93",
+      "label": "Provence-Alpes-Côte d’Azur",
+      "officialName": "Provence-Alpes-Côte d'Azur",
+      "chief": "Marseille",
+      "food": "Bouillabaisse",
+      "scope": "metro",
+      "zone": "L",
+      "file": "r-93.json",
+      "labelPoint": [
+        521.154,
+        527.202
+      ],
+      "chiefCoordinates": [
+        5.38022916,
+        43.2901271
+      ],
+      "worldPoint": [
+        370.76,
+        93.42
+      ],
+      "sourceVertices": 546354,
+      "renderedVertices": 460312
+    },
+    "94": {
+      "code": "94",
+      "label": "Corse",
+      "officialName": "Corse",
+      "chief": "Ajaccio",
+      "food": "Fiadone",
+      "scope": "metro",
+      "zone": "M",
+      "file": "r-94.json",
+      "labelPoint": [
+        670.556,
+        610.108
+      ],
+      "chiefCoordinates": [
+        8.73634083,
+        41.91942745
+      ],
+      "worldPoint": [
+        377.473,
+        96.161
+      ],
+      "sourceVertices": 396974,
+      "renderedVertices": 353343
+    },
+    "01": {
+      "code": "01",
+      "label": "Guadeloupe",
+      "officialName": "Guadeloupe",
+      "chief": "Basse-Terre",
+      "food": "Dombrés",
+      "scope": "drom",
+      "zone": "A",
+      "file": "r-01.json",
+      "labelPoint": [
+        44.103,
+        84.853
+      ],
+      "chiefCoordinates": [
+        -61.72254381,
+        15.99222568
+      ],
+      "worldPoint": [
+        236.555,
+        148.016
+      ],
+      "sourceVertices": 102695,
+      "renderedVertices": 102627
+    },
+    "02": {
+      "code": "02",
+      "label": "Martinique",
+      "officialName": "Martinique",
+      "chief": "Fort-de-France",
+      "food": "Blanc-manger coco",
+      "scope": "drom",
+      "zone": "B",
+      "file": "r-02.json",
+      "labelPoint": [
+        80.182,
+        63.402
+      ],
+      "chiefCoordinates": [
+        -61.06763036,
+        14.60573261
+      ],
+      "worldPoint": [
+        237.865,
+        150.789
+      ],
+      "sourceVertices": 58614,
+      "renderedVertices": 58598
+    },
+    "03": {
+      "code": "03",
+      "label": "Guyane française",
+      "officialName": "Guyane",
+      "chief": "Cayenne",
+      "food": "Matété",
+      "scope": "drom",
+      "zone": "C",
+      "file": "r-03.json",
+      "labelPoint": [
+        111.895,
+        28.925
+      ],
+      "chiefCoordinates": [
+        -52.33554103,
+        4.94054782
+      ],
+      "worldPoint": [
+        255.329,
+        170.119
+      ],
+      "sourceVertices": 35290,
+      "renderedVertices": 34513
+    },
+    "04": {
+      "code": "04",
+      "label": "La Réunion",
+      "officialName": "La Réunion",
+      "chief": "Saint-Denis",
+      "food": "Cari de poulet",
+      "scope": "drom",
+      "zone": "D",
+      "file": "r-04.json",
+      "labelPoint": [
+        75.079,
+        6.767
+      ],
+      "chiefCoordinates": [
+        55.44618348,
+        -20.87570592
+      ],
+      "worldPoint": [
+        470.892,
+        221.751
+      ],
+      "sourceVertices": 18047,
+      "renderedVertices": 18021
+    },
+    "06": {
+      "code": "06",
+      "label": "Mayotte",
+      "officialName": "Mayotte",
+      "chief": "Mamoudzou",
+      "food": "Brèdes",
+      "scope": "drom",
+      "zone": "E",
+      "file": "r-06.json",
+      "labelPoint": [
+        109.211,
+        44.959
+      ],
+      "chiefCoordinates": [
+        45.22971312,
+        -12.77616032
+      ],
+      "worldPoint": [
+        450.459,
+        205.552
+      ],
+      "sourceVertices": 20647,
+      "renderedVertices": 20647
+    }
+  },
+  "metro": [
+    "11",
+    "24",
+    "27",
+    "28",
+    "32",
+    "44",
+    "52",
+    "53",
+    "75",
+    "76",
+    "84",
+    "93",
+    "94"
+  ],
+  "drom": [
+    "01",
+    "02",
+    "03",
+    "04",
+    "06"
+  ]
+}

@@ -1,0 +1,2592 @@
+{
+  "key": "at-school",
+  "title": "At School",
+  "intro": "Les personnes, les lieux, le matériel scolaire et les consignes en anglais.",
+  "expectedExercises": 6,
+  "exercises": [
+    {
+      "title": "Français vers anglais",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un élève.",
+          "answer": "a pupil",
+          "aliases": [
+            "a student",
+            "pupil",
+            "student"
+          ],
+          "explanation": "« un élève » se dit « a pupil » ; « a student » est également accepté.",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "People",
+          "id": "at-school-1-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un professeur.",
+          "answer": "a teacher",
+          "aliases": [
+            "teacher"
+          ],
+          "explanation": "« un professeur » se dit « a teacher ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "People",
+          "id": "at-school-1-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : le chef d’établissement.",
+          "answer": "the headteacher",
+          "aliases": [
+            "headteacher",
+            "head teacher",
+            "the head teacher"
+          ],
+          "explanation": "« le chef d’établissement » se dit « the headteacher ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "People",
+          "id": "at-school-1-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : l’école.",
+          "answer": "the school",
+          "aliases": [
+            "school"
+          ],
+          "explanation": "« l’école » se dit « the school ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "Places",
+          "id": "at-school-1-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : la cantine.",
+          "answer": "the cafeteria",
+          "aliases": [
+            "cafeteria"
+          ],
+          "explanation": "« la cantine » se dit « the cafeteria ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "Places",
+          "id": "at-school-1-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : la salle de classe.",
+          "answer": "the classroom",
+          "aliases": [
+            "classroom"
+          ],
+          "explanation": "« la salle de classe » se dit « the classroom ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "Places",
+          "id": "at-school-1-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : la cour de récréation.",
+          "answer": "the playground",
+          "aliases": [
+            "playground"
+          ],
+          "explanation": "« la cour de récréation » se dit « the playground ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "Places",
+          "id": "at-school-1-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : une règle.",
+          "answer": "a ruler",
+          "aliases": [
+            "ruler"
+          ],
+          "explanation": "« une règle » se dit « a ruler ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un taille-crayon.",
+          "answer": "a sharpener",
+          "aliases": [
+            "sharpener"
+          ],
+          "explanation": "« un taille-crayon » se dit « a sharpener ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : des ciseaux.",
+          "answer": "scissors",
+          "aliases": [],
+          "explanation": "« des ciseaux » se dit « scissors ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un stylo.",
+          "answer": "a pen",
+          "aliases": [
+            "pen"
+          ],
+          "explanation": "« un stylo » se dit « a pen ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : des crayons de couleur.",
+          "answer": "coloured pencils",
+          "aliases": [
+            "colored pencils"
+          ],
+          "explanation": "« des crayons de couleur » se dit « coloured pencils ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un surligneur.",
+          "answer": "a highlighter",
+          "aliases": [
+            "highlighter"
+          ],
+          "explanation": "« un surligneur » se dit « a highlighter ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : une trousse.",
+          "answer": "a pencil case",
+          "aliases": [
+            "pencil case"
+          ],
+          "explanation": "« une trousse » se dit « a pencil case ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un cartable.",
+          "answer": "a schoolbag",
+          "aliases": [
+            "schoolbag",
+            "a school bag",
+            "school bag"
+          ],
+          "explanation": "« un cartable » se dit « a schoolbag ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : une calculatrice.",
+          "answer": "a calculator",
+          "aliases": [
+            "calculator"
+          ],
+          "explanation": "« une calculatrice » se dit « a calculator ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un bâton de colle.",
+          "answer": "a glue stick",
+          "aliases": [
+            "glue stick"
+          ],
+          "explanation": "« un bâton de colle » se dit « a glue stick ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : une gomme.",
+          "answer": "a rubber",
+          "aliases": [
+            "an eraser",
+            "rubber",
+            "eraser"
+          ],
+          "explanation": "« une gomme » se dit « a rubber » ; « an eraser » est également accepté.",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un cahier.",
+          "answer": "an exercise book",
+          "aliases": [
+            "exercise book"
+          ],
+          "explanation": "« un cahier » se dit « an exercise book ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un livre.",
+          "answer": "a book",
+          "aliases": [
+            "book"
+          ],
+          "explanation": "« un livre » se dit « a book ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en anglais : un emploi du temps.",
+          "answer": "a schedule",
+          "aliases": [
+            "schedule",
+            "a timetable",
+            "timetable"
+          ],
+          "explanation": "« un emploi du temps » se dit « a schedule ».",
+          "hint": "Retrouve le mot du cours. Les variantes pupil/student et rubber/eraser sont acceptées.",
+          "strict": true,
+          "format": "language",
+          "category": "School supplies",
+          "id": "at-school-1-21"
+        }
+      ],
+      "minimumQuestions": 21,
+      "poolNote": "21 notions distinctes dans la liste fermée ; les synonymes étudiés sont acceptés sans créer de faux nouveaux mots."
+    },
+    {
+      "title": "Anglais vers français",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a pupil.",
+          "answer": "un élève",
+          "aliases": [
+            "élève",
+            "une élève",
+            "un étudiant",
+            "une étudiante",
+            "étudiant",
+            "étudiante"
+          ],
+          "explanation": "« a pupil » signifie « un élève ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "People",
+          "id": "at-school-2-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a student.",
+          "answer": "un élève",
+          "aliases": [
+            "élève",
+            "une élève",
+            "un étudiant",
+            "une étudiante",
+            "étudiant",
+            "étudiante"
+          ],
+          "explanation": "« a student » signifie « un élève ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "People",
+          "id": "at-school-2-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a teacher.",
+          "answer": "un professeur",
+          "aliases": [
+            "professeur",
+            "un enseignant",
+            "une enseignante",
+            "enseignant",
+            "enseignante",
+            "une professeure",
+            "le professeur"
+          ],
+          "explanation": "« a teacher » signifie « un professeur ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "People",
+          "id": "at-school-2-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : the headteacher.",
+          "answer": "le chef d’établissement",
+          "aliases": [
+            "chef d’établissement",
+            "le directeur",
+            "la directrice",
+            "directeur",
+            "directrice",
+            "la cheffe d’établissement"
+          ],
+          "explanation": "« the headteacher » signifie « le chef d’établissement ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "People",
+          "id": "at-school-2-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : the school.",
+          "answer": "l’école",
+          "aliases": [
+            "école",
+            "une école"
+          ],
+          "explanation": "« the school » signifie « l’école ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "Places",
+          "id": "at-school-2-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : the cafeteria.",
+          "answer": "la cantine",
+          "aliases": [
+            "cantine",
+            "la cafétéria",
+            "cafétéria"
+          ],
+          "explanation": "« the cafeteria » signifie « la cantine ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "Places",
+          "id": "at-school-2-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : the classroom.",
+          "answer": "la salle de classe",
+          "aliases": [
+            "salle de classe",
+            "la classe",
+            "classe"
+          ],
+          "explanation": "« the classroom » signifie « la salle de classe ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "Places",
+          "id": "at-school-2-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : the playground.",
+          "answer": "la cour de récréation",
+          "aliases": [
+            "cour de récréation",
+            "la cour",
+            "cour"
+          ],
+          "explanation": "« the playground » signifie « la cour de récréation ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "Places",
+          "id": "at-school-2-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a ruler.",
+          "answer": "une règle",
+          "aliases": [
+            "règle",
+            "la règle"
+          ],
+          "explanation": "« a ruler » signifie « une règle ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a sharpener.",
+          "answer": "un taille-crayon",
+          "aliases": [
+            "taille-crayon",
+            "un taille-crayons",
+            "taille-crayons"
+          ],
+          "explanation": "« a sharpener » signifie « un taille-crayon ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : scissors.",
+          "answer": "des ciseaux",
+          "aliases": [
+            "ciseaux",
+            "une paire de ciseaux",
+            "paire de ciseaux"
+          ],
+          "explanation": "« scissors » signifie « des ciseaux ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a pen.",
+          "answer": "un stylo",
+          "aliases": [
+            "stylo",
+            "le stylo"
+          ],
+          "explanation": "« a pen » signifie « un stylo ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : coloured pencils.",
+          "answer": "des crayons de couleur",
+          "aliases": [
+            "crayons de couleur",
+            "les crayons de couleur"
+          ],
+          "explanation": "« coloured pencils » signifie « des crayons de couleur ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a highlighter.",
+          "answer": "un surligneur",
+          "aliases": [
+            "surligneur",
+            "le surligneur"
+          ],
+          "explanation": "« a highlighter » signifie « un surligneur ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a pencil case.",
+          "answer": "une trousse",
+          "aliases": [
+            "trousse",
+            "la trousse"
+          ],
+          "explanation": "« a pencil case » signifie « une trousse ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a schoolbag.",
+          "answer": "un cartable",
+          "aliases": [
+            "cartable",
+            "un sac d’école",
+            "sac d’école",
+            "un sac à dos",
+            "sac à dos"
+          ],
+          "explanation": "« a schoolbag » signifie « un cartable ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a calculator.",
+          "answer": "une calculatrice",
+          "aliases": [
+            "calculatrice",
+            "la calculatrice"
+          ],
+          "explanation": "« a calculator » signifie « une calculatrice ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a glue stick.",
+          "answer": "un bâton de colle",
+          "aliases": [
+            "bâton de colle",
+            "un tube de colle",
+            "tube de colle"
+          ],
+          "explanation": "« a glue stick » signifie « un bâton de colle ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a rubber.",
+          "answer": "une gomme",
+          "aliases": [
+            "gomme",
+            "la gomme"
+          ],
+          "explanation": "« a rubber » signifie « une gomme ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : an eraser.",
+          "answer": "une gomme",
+          "aliases": [
+            "gomme",
+            "la gomme"
+          ],
+          "explanation": "« an eraser » signifie « une gomme ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : an exercise book.",
+          "answer": "un cahier",
+          "aliases": [
+            "cahier",
+            "le cahier"
+          ],
+          "explanation": "« an exercise book » signifie « un cahier ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-21"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a book.",
+          "answer": "un livre",
+          "aliases": [
+            "livre",
+            "le livre"
+          ],
+          "explanation": "« a book » signifie « un livre ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Traduis en français : a schedule.",
+          "answer": "un emploi du temps",
+          "aliases": [
+            "emploi du temps",
+            "l’emploi du temps"
+          ],
+          "explanation": "« a schedule » signifie « un emploi du temps ».",
+          "hint": "Choisis le sens français du mot d’école, et non un mot qui lui ressemble.",
+          "strict": false,
+          "category": "School supplies",
+          "id": "at-school-2-23"
+        }
+      ],
+      "minimumQuestions": 23,
+      "poolNote": "23 expressions distinctes, en comptant les deux variantes étudiées a student et an eraser."
+    },
+    {
+      "title": "Associer les mots",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un élève",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a pupil = un élève.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a pupil",
+          "id": "at-school-3-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un professeur",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a teacher = un professeur.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a teacher",
+          "id": "at-school-3-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "le chef d’établissement",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "the headteacher = le chef d’établissement.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "the headteacher",
+          "id": "at-school-3-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "l’école",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "the school = l’école.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "the school",
+          "id": "at-school-3-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "la cantine",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "the cafeteria = la cantine.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "the cafeteria",
+          "id": "at-school-3-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "la salle de classe",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "the classroom = la salle de classe.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "the classroom",
+          "id": "at-school-3-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "la cour de récréation",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "the playground = la cour de récréation.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "the playground",
+          "id": "at-school-3-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "une règle",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a ruler = une règle.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a ruler",
+          "id": "at-school-3-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un taille-crayon",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a sharpener = un taille-crayon.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a sharpener",
+          "id": "at-school-3-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "des ciseaux",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "scissors = des ciseaux.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "scissors",
+          "id": "at-school-3-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un stylo",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a pen = un stylo.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a pen",
+          "id": "at-school-3-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "des crayons de couleur",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "coloured pencils = des crayons de couleur.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "coloured pencils",
+          "id": "at-school-3-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un surligneur",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a highlighter = un surligneur.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a highlighter",
+          "id": "at-school-3-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "une trousse",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a pencil case = une trousse.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a pencil case",
+          "id": "at-school-3-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un cartable",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a schoolbag = un cartable.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a schoolbag",
+          "id": "at-school-3-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "une calculatrice",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a calculator = une calculatrice.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a calculator",
+          "id": "at-school-3-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un bâton de colle",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a glue stick = un bâton de colle.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a glue stick",
+          "id": "at-school-3-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "une gomme",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a rubber = une gomme.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a rubber",
+          "id": "at-school-3-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un cahier",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "an exercise book = un cahier.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "an exercise book",
+          "id": "at-school-3-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un livre",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a book = un livre.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a book",
+          "id": "at-school-3-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette expression anglaise à sa traduction française.",
+          "answer": "un emploi du temps",
+          "options": [
+            "un élève",
+            "un professeur",
+            "le chef d’établissement",
+            "l’école",
+            "la cantine",
+            "la salle de classe",
+            "la cour de récréation",
+            "une règle",
+            "un taille-crayon",
+            "des ciseaux",
+            "un stylo",
+            "des crayons de couleur",
+            "un surligneur",
+            "une trousse",
+            "un cartable",
+            "une calculatrice",
+            "un bâton de colle",
+            "une gomme",
+            "un cahier",
+            "un livre",
+            "un emploi du temps"
+          ],
+          "explanation": "a schedule = un emploi du temps.",
+          "hint": "Utilise le vocabulaire de People, Places ou School supplies.",
+          "context": "a schedule",
+          "id": "at-school-3-21"
+        }
+      ],
+      "minimumQuestions": 21,
+      "poolNote": "21 correspondances distinctes de la fiche."
+    },
+    {
+      "title": "There is / There are",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « a pen » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a pen in my pencil case.",
+          "id": "at-school-4-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Is there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « a ruler » est singulier : on emploie Is there.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a ruler in the classroom?",
+          "id": "at-school-4-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « a sharpener » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a sharpener in my schoolbag.",
+          "id": "at-school-4-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Is there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « a teacher » est singulier : on emploie Is there.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a teacher in the classroom?",
+          "id": "at-school-4-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « a book » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a book in my schoolbag.",
+          "id": "at-school-4-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Is there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « a calculator » est singulier : on emploie Is there.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a calculator in the classroom?",
+          "id": "at-school-4-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « an exercise book » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ an exercise book in my schoolbag.",
+          "id": "at-school-4-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Is there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « a highlighter » est singulier : on emploie Is there.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a highlighter in my pencil case?",
+          "id": "at-school-4-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « a glue stick » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a glue stick in my schoolbag.",
+          "id": "at-school-4-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Is there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « an eraser » est singulier : on emploie Is there.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ an eraser in my pencil case?",
+          "id": "at-school-4-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « a pupil » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a pupil in the playground.",
+          "id": "at-school-4-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Is there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « a student » est singulier : on emploie Is there.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a student in the cafeteria?",
+          "id": "at-school-4-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « a pencil case » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a pencil case in the classroom.",
+          "id": "at-school-4-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Is there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « a rubber » est singulier : on emploie Is there.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a rubber in my pencil case?",
+          "id": "at-school-4-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « a schedule » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a schedule in the classroom.",
+          "id": "at-school-4-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three pens » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three pens in my pencil case?",
+          "id": "at-school-4-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There are",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « three pupils » est pluriel : on emploie There are.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three pupils in the classroom.",
+          "id": "at-school-4-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three books » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three books in my schoolbag?",
+          "id": "at-school-4-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There are",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « coloured pencils » est pluriel : on emploie There are.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ coloured pencils in my pencil case.",
+          "id": "at-school-4-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « scissors » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ scissors in my schoolbag?",
+          "id": "at-school-4-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There are",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « three teachers » est pluriel : on emploie There are.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three teachers in the school.",
+          "id": "at-school-4-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three rulers » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three rulers in the classroom?",
+          "id": "at-school-4-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There are",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « three calculators » est pluriel : on emploie There are.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three calculators in the classroom.",
+          "id": "at-school-4-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three sharpeners » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three sharpeners in the schoolbag?",
+          "id": "at-school-4-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There are",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « three exercise books » est pluriel : on emploie There are.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three exercise books in the classroom.",
+          "id": "at-school-4-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three schoolbags » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three schoolbags in the classroom?",
+          "id": "at-school-4-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There are",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « three students » est pluriel : on emploie There are.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three students in the playground.",
+          "id": "at-school-4-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three highlighters » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three highlighters in the pencil case?",
+          "id": "at-school-4-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la phrase affirmative.",
+          "answer": "There are",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « three glue sticks » est pluriel : on emploie There are.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three glue sticks in the schoolbag.",
+          "id": "at-school-4-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three erasers » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three erasers in the pencil case?",
+          "id": "at-school-4-30"
+        }
+      ]
+    },
+    {
+      "title": "The imperative",
+      "questions": [
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "exercise",
+            "book"
+          ],
+          "answer": "Take your exercise book",
+          "aliases": [],
+          "explanation": "La consigne est « Take your exercise book. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-01"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Open",
+            "your",
+            "book"
+          ],
+          "answer": "Open your book",
+          "aliases": [],
+          "explanation": "La consigne est « Open your book. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-02"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "a",
+            "highlighter"
+          ],
+          "answer": "Use a highlighter",
+          "aliases": [],
+          "explanation": "La consigne est « Use a highlighter. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-03"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "ruler"
+          ],
+          "answer": "Take your ruler",
+          "aliases": [],
+          "explanation": "La consigne est « Take your ruler. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-04"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "sharpener"
+          ],
+          "answer": "Take your sharpener",
+          "aliases": [],
+          "explanation": "La consigne est « Take your sharpener. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-05"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "pen"
+          ],
+          "answer": "Take your pen",
+          "aliases": [],
+          "explanation": "La consigne est « Take your pen. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-06"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "pencil",
+            "case"
+          ],
+          "answer": "Take your pencil case",
+          "aliases": [],
+          "explanation": "La consigne est « Take your pencil case. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-07"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "schoolbag"
+          ],
+          "answer": "Take your schoolbag",
+          "aliases": [],
+          "explanation": "La consigne est « Take your schoolbag. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-08"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "calculator"
+          ],
+          "answer": "Take your calculator",
+          "aliases": [],
+          "explanation": "La consigne est « Take your calculator. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-09"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "glue",
+            "stick"
+          ],
+          "answer": "Take your glue stick",
+          "aliases": [],
+          "explanation": "La consigne est « Take your glue stick. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-10"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "rubber"
+          ],
+          "answer": "Take your rubber",
+          "aliases": [],
+          "explanation": "La consigne est « Take your rubber. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-11"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "book"
+          ],
+          "answer": "Take your book",
+          "aliases": [],
+          "explanation": "La consigne est « Take your book. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-12"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Open",
+            "your",
+            "exercise",
+            "book"
+          ],
+          "answer": "Open your exercise book",
+          "aliases": [],
+          "explanation": "La consigne est « Open your exercise book. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-13"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Open",
+            "your",
+            "pencil",
+            "case"
+          ],
+          "answer": "Open your pencil case",
+          "aliases": [],
+          "explanation": "La consigne est « Open your pencil case. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-14"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Open",
+            "your",
+            "schoolbag"
+          ],
+          "answer": "Open your schoolbag",
+          "aliases": [],
+          "explanation": "La consigne est « Open your schoolbag. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-15"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "your",
+            "ruler"
+          ],
+          "answer": "Use your ruler",
+          "aliases": [],
+          "explanation": "La consigne est « Use your ruler. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-16"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "your",
+            "sharpener"
+          ],
+          "answer": "Use your sharpener",
+          "aliases": [],
+          "explanation": "La consigne est « Use your sharpener. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-17"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "scissors"
+          ],
+          "answer": "Use scissors",
+          "aliases": [],
+          "explanation": "La consigne est « Use scissors. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-18"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "coloured",
+            "pencils"
+          ],
+          "answer": "Use coloured pencils",
+          "aliases": [],
+          "explanation": "La consigne est « Use coloured pencils. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-19"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "your",
+            "calculator"
+          ],
+          "answer": "Use your calculator",
+          "aliases": [],
+          "explanation": "La consigne est « Use your calculator. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-20"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "your",
+            "glue",
+            "stick"
+          ],
+          "answer": "Use your glue stick",
+          "aliases": [],
+          "explanation": "La consigne est « Use your glue stick. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-21"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "an",
+            "eraser"
+          ],
+          "answer": "Use an eraser",
+          "aliases": [],
+          "explanation": "La consigne est « Use an eraser. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-22"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "your",
+            "pen"
+          ],
+          "answer": "Use your pen",
+          "aliases": [],
+          "explanation": "La consigne est « Use your pen. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-5-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel mot est la base verbale de cette consigne ?",
+          "answer": "Take",
+          "options": [
+            "Take",
+            "your",
+            "exercise"
+          ],
+          "explanation": "La base verbale est Take, placée au début de la consigne.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Take your exercise book.",
+          "id": "at-school-5-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel mot est la base verbale de cette consigne ?",
+          "answer": "Open",
+          "options": [
+            "Open",
+            "your",
+            "book"
+          ],
+          "explanation": "La base verbale est Open, placée au début de la consigne.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Open your book.",
+          "id": "at-school-5-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel mot est la base verbale de cette consigne ?",
+          "answer": "Use",
+          "options": [
+            "Use",
+            "a",
+            "highlighter"
+          ],
+          "explanation": "La base verbale est Use, placée au début de la consigne.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Use a highlighter.",
+          "id": "at-school-5-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle consigne demande d’ouvrir le livre ?",
+          "answer": "Open your book.",
+          "options": [
+            "Open your book.",
+            "Take your book.",
+            "Use a highlighter."
+          ],
+          "explanation": "À l’impératif, on utilise la base verbale suivie du complément : Open your book.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "at-school-5-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle consigne demande de prendre le cahier ?",
+          "answer": "Take your exercise book.",
+          "options": [
+            "Take your exercise book.",
+            "Open your book.",
+            "Use your ruler."
+          ],
+          "explanation": "À l’impératif, on utilise la base verbale suivie du complément : Take your exercise book.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "at-school-5-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle consigne demande d’utiliser un surligneur ?",
+          "answer": "Use a highlighter.",
+          "options": [
+            "Use a highlighter.",
+            "Take your exercise book.",
+            "Open your pencil case."
+          ],
+          "explanation": "À l’impératif, on utilise la base verbale suivie du complément : Use a highlighter.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "at-school-5-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle proposition est une consigne à l’impératif ?",
+          "answer": "Use scissors.",
+          "options": [
+            "Use scissors.",
+            "There are scissors.",
+            "Are there scissors?"
+          ],
+          "explanation": "À l’impératif, on utilise la base verbale suivie du complément : Use scissors.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "at-school-5-30"
+        }
+      ]
+    },
+    {
+      "title": "Bilan At School",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « un élève ».",
+          "answer": "a pupil",
+          "aliases": [
+            "a student",
+            "pupil",
+            "student"
+          ],
+          "explanation": "un élève = a pupil.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « un professeur ».",
+          "answer": "a teacher",
+          "aliases": [
+            "teacher"
+          ],
+          "explanation": "un professeur = a teacher.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « le chef d’établissement ».",
+          "answer": "the headteacher",
+          "aliases": [
+            "headteacher",
+            "head teacher",
+            "the head teacher"
+          ],
+          "explanation": "le chef d’établissement = the headteacher.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « l’école ».",
+          "answer": "the school",
+          "aliases": [
+            "school"
+          ],
+          "explanation": "l’école = the school.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « la salle de classe ».",
+          "answer": "the classroom",
+          "aliases": [
+            "classroom"
+          ],
+          "explanation": "la salle de classe = the classroom.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « une règle ».",
+          "answer": "a ruler",
+          "aliases": [
+            "ruler"
+          ],
+          "explanation": "une règle = a ruler.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « des ciseaux ».",
+          "answer": "scissors",
+          "aliases": [],
+          "explanation": "des ciseaux = scissors.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « des crayons de couleur ».",
+          "answer": "coloured pencils",
+          "aliases": [
+            "colored pencils"
+          ],
+          "explanation": "des crayons de couleur = coloured pencils.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « une gomme ».",
+          "answer": "a rubber",
+          "aliases": [
+            "an eraser",
+            "rubber",
+            "eraser"
+          ],
+          "explanation": "une gomme = a rubber.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Bilan : traduis en anglais « un emploi du temps ».",
+          "answer": "a schedule",
+          "aliases": [
+            "schedule",
+            "a timetable",
+            "timetable"
+          ],
+          "explanation": "un emploi du temps = a schedule.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "at-school-6-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « a pen » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a pen in my pencil case.",
+          "id": "at-school-6-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la question.",
+          "answer": "Is there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « a teacher » est singulier : on emploie Is there.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a teacher in the classroom?",
+          "id": "at-school-6-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « an exercise book » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ an exercise book in my schoolbag.",
+          "id": "at-school-6-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la question.",
+          "answer": "Is there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « an eraser » est singulier : on emploie Is there.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ an eraser in my pencil case?",
+          "id": "at-school-6-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la phrase affirmative.",
+          "answer": "There is",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « a pencil case » est singulier : on emploie There is.",
+          "hint": "Repère d’abord le singulier ou le pluriel, puis la forme affirmative ou interrogative.",
+          "context": "___ a pencil case in the classroom.",
+          "id": "at-school-6-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three pens » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three pens in my pencil case?",
+          "id": "at-school-6-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la phrase affirmative.",
+          "answer": "There are",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « coloured pencils » est pluriel : on emploie There are.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ coloured pencils in my pencil case.",
+          "id": "at-school-6-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three rulers » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three rulers in the classroom?",
+          "id": "at-school-6-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la phrase affirmative.",
+          "answer": "There are",
+          "options": [
+            "There is",
+            "There are"
+          ],
+          "explanation": "Le groupe « three exercise books » est pluriel : on emploie There are.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three exercise books in the classroom.",
+          "id": "at-school-6-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : Complète la question.",
+          "answer": "Are there",
+          "options": [
+            "Is there",
+            "Are there"
+          ],
+          "explanation": "Le groupe « three highlighters » est pluriel : on emploie Are there.",
+          "hint": "Dans une question, is/are se place avant there. Scissors et coloured pencils sont pluriels.",
+          "context": "___ three highlighters in the pencil case?",
+          "id": "at-school-6-20"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "exercise",
+            "book"
+          ],
+          "answer": "Take your exercise book",
+          "aliases": [],
+          "explanation": "La consigne est « Take your exercise book. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-21"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Open",
+            "your",
+            "book"
+          ],
+          "answer": "Open your book",
+          "aliases": [],
+          "explanation": "La consigne est « Open your book. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-22"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Use",
+            "a",
+            "highlighter"
+          ],
+          "answer": "Use a highlighter",
+          "aliases": [],
+          "explanation": "La consigne est « Use a highlighter. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-23"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "ruler"
+          ],
+          "answer": "Take your ruler",
+          "aliases": [],
+          "explanation": "La consigne est « Take your ruler. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-24"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "sharpener"
+          ],
+          "answer": "Take your sharpener",
+          "aliases": [],
+          "explanation": "La consigne est « Take your sharpener. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-25"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "pen"
+          ],
+          "answer": "Take your pen",
+          "aliases": [],
+          "explanation": "La consigne est « Take your pen. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-26"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "pencil",
+            "case"
+          ],
+          "answer": "Take your pencil case",
+          "aliases": [],
+          "explanation": "La consigne est « Take your pencil case. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-27"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "schoolbag"
+          ],
+          "answer": "Take your schoolbag",
+          "aliases": [],
+          "explanation": "La consigne est « Take your schoolbag. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-28"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "calculator"
+          ],
+          "answer": "Take your calculator",
+          "aliases": [],
+          "explanation": "La consigne est « Take your calculator. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-29"
+        },
+        {
+          "type": "order",
+          "prompt": "Remets les mots dans l’ordre pour former la consigne.",
+          "words": [
+            "Take",
+            "your",
+            "glue",
+            "stick"
+          ],
+          "answer": "Take your glue stick",
+          "aliases": [],
+          "explanation": "La consigne est « Take your glue stick. » : base verbale, puis complément.",
+          "hint": "Commence par la base verbale Take, Open ou Use.",
+          "id": "at-school-6-30"
+        }
+      ]
+    }
+  ],
+  "recap": [
+    "People : a pupil / a student ; a teacher ; the headteacher. Places : the school ; the cafeteria ; the classroom ; the playground.",
+    "School supplies : a ruler, a sharpener, scissors, a pen, coloured pencils, a highlighter, a pencil case, a schoolbag, a calculator, a glue stick, a rubber / an eraser, an exercise book, a book, a schedule. Dans les traductions de mots isolés, l’article peut être omis.",
+    "Au singulier : There is a pen. Au pluriel : There are three pens. Questions : Is there a pen? Are there three pens? Scissors et coloured pencils sont pluriels.",
+    "À l’impératif : base verbale + complément. Take your exercise book. Open your book. Use a highlighter."
+  ]
+}

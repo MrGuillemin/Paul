@@ -1,0 +1,1972 @@
+{
+  "key": "h2-industrie",
+  "title": "La révolution de l’industrie",
+  "intro": "Partie 3 · Les révolutions du XIXᵉ siècle",
+  "expectedExercises": 6,
+  "exercises": [
+    {
+      "title": "Comprendre la révolution industrielle",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Que permettent les nouvelles machines liées à la vapeur ?",
+          "answer": "Fabriquer plus vite et en plus grande quantité",
+          "options": [
+            "Fabriquer plus vite et en plus grande quantité",
+            "Fabriquer obligatoirement moins",
+            "Arrêter toute fabrication"
+          ],
+          "explanation": "Les machines accélèrent la fabrication et augmentent les quantités.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-01"
+        },
+        {
+          "type": "choice",
+          "prompt": "Comment appelle-t-on les grands bâtiments où les machines sont regroupées ?",
+          "answer": "Les usines",
+          "options": [
+            "Les usines",
+            "Les préfectures",
+            "Les salles de classe"
+          ],
+          "explanation": "Les premières usines regroupent les machines.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-02"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle ressource est nécessaire en très grande quantité aux machines étudiées ?",
+          "answer": "Le charbon",
+          "options": [
+            "Le charbon",
+            "Les crayons",
+            "Le papier"
+          ],
+          "explanation": "Le cours insiste sur les énormes besoins de charbon.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-03"
+        },
+        {
+          "type": "choice",
+          "prompt": "Comment la production évolue-t-elle ?",
+          "answer": "Elle augmente très vite",
+          "options": [
+            "Elle augmente très vite",
+            "Elle disparaît",
+            "Elle reste nécessairement identique"
+          ],
+          "explanation": "Les nouvelles machines entraînent une forte augmentation de la production.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-04"
+        },
+        {
+          "type": "choice",
+          "prompt": "À partir de quelle date les nouvelles énergies remplacent-elles peu à peu le charbon ?",
+          "answer": "1880",
+          "options": [
+            "1880",
+            "1817",
+            "1763"
+          ],
+          "explanation": "Le repère donné pour la transition énergétique est 1880.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-05"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelles énergies remplacent progressivement le charbon ?",
+          "answer": "L’électricité et le pétrole",
+          "options": [
+            "L’électricité et le pétrole",
+            "La craie et le papier",
+            "Uniquement la force des chevaux"
+          ],
+          "explanation": "Le cours cite ensemble l’électricité et le pétrole.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-06"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que signifie « peu à peu » dans le cours ?",
+          "answer": "Progressivement",
+          "options": [
+            "Progressivement",
+            "Immédiatement dans toutes les usines",
+            "Sans aucun changement"
+          ],
+          "explanation": "Le remplacement du charbon n’est pas immédiat ni total.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-07"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle invention permet le développement des machines présentées ?",
+          "answer": "La machine à vapeur",
+          "options": [
+            "La machine à vapeur",
+            "La calculatrice",
+            "Le taille-crayon"
+          ],
+          "explanation": "Le cours relie les nouvelles machines à la machine à vapeur.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-08"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel effet concerne la durée de fabrication ?",
+          "answer": "La fabrication devient plus rapide",
+          "options": [
+            "La fabrication devient plus rapide",
+            "Les trajets deviennent tous plus longs",
+            "La fabrication est interdite"
+          ],
+          "explanation": "Fabriquer plus vite est l’un des effets cités.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-09"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel effet concerne les quantités fabriquées ?",
+          "answer": "Elles deviennent plus importantes",
+          "options": [
+            "Elles deviennent plus importantes",
+            "Elles deviennent forcément nulles",
+            "Elles cessent d’exister"
+          ],
+          "explanation": "Les machines permettent de fabriquer en plus grande quantité.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Une grande quantité d’objets peut être fabriquée plus vite : que montre ce cas ?",
+          "answer": "L’effet des nouvelles machines sur la production",
+          "options": [
+            "L’effet des nouvelles machines sur la production",
+            "La disparition des machines",
+            "L’absence de transformation industrielle"
+          ],
+          "explanation": "Le cas réunit les deux effets : rapidité et quantité.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Des machines sont réunies dans un grand bâtiment. De quoi s’agit-il ?",
+          "answer": "D’une usine",
+          "options": [
+            "D’une usine",
+            "D’une région",
+            "D’une préfecture"
+          ],
+          "explanation": "L’usine est le bâtiment où les machines sont regroupées.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Pourquoi faut-il beaucoup de charbon ?",
+          "answer": "Pour faire fonctionner les machines",
+          "options": [
+            "Pour faire fonctionner les machines",
+            "Pour écrire les nombres en lettres",
+            "Pour empêcher les machines de fonctionner"
+          ],
+          "explanation": "Le charbon est une ressource énergétique nécessaire aux machines étudiées.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel terme désigne ce qui est fabriqué et son volume dans cette leçon ?",
+          "answer": "La production",
+          "options": [
+            "La production",
+            "La préfecture",
+            "La terminaison"
+          ],
+          "explanation": "La production augmente grâce aux nouvelles machines.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle phrase respecte la transition de 1880 ?",
+          "answer": "Le charbon est remplacé progressivement",
+          "options": [
+            "Le charbon est remplacé progressivement",
+            "Le charbon disparaît partout le même jour",
+            "L’électricité n’est jamais citée"
+          ],
+          "explanation": "Le mot progressivement respecte « peu à peu ».",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle énergie est citée avec le pétrole ?",
+          "answer": "L’électricité",
+          "options": [
+            "L’électricité",
+            "La craie",
+            "Le papier"
+          ],
+          "explanation": "L’électricité et le pétrole sont les deux énergies nouvelles citées.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle énergie est citée avec l’électricité ?",
+          "answer": "Le pétrole",
+          "options": [
+            "Le pétrole",
+            "Le carton",
+            "La gomme"
+          ],
+          "explanation": "L’électricité est associée au pétrole dans le cours.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel combustible est progressivement remplacé dans les usines ?",
+          "answer": "Le charbon",
+          "options": [
+            "Le charbon",
+            "Le papier des cahiers",
+            "Le plastique des règles"
+          ],
+          "explanation": "Le remplacement concerne le charbon.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "À quel siècle appartient la révolution industrielle étudiée ?",
+          "answer": "Au XIXᵉ siècle",
+          "options": [
+            "Au XIXᵉ siècle",
+            "Au XXIᵉ siècle",
+            "Au XVe siècle"
+          ],
+          "explanation": "La leçon porte sur les révolutions du XIXᵉ siècle.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel résumé correspond aux premières usines ?",
+          "answer": "De grands bâtiments regroupant des machines",
+          "options": [
+            "De grands bâtiments regroupant des machines",
+            "De simples listes de villes",
+            "Des bâtiments sans aucune machine"
+          ],
+          "explanation": "Le regroupement de machines caractérise les premières usines dans le cours.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle affirmation sur 1880 est trop catégorique ?",
+          "answer": "Toutes les usines abandonnent immédiatement le charbon",
+          "options": [
+            "Toutes les usines abandonnent immédiatement le charbon",
+            "La transition commence à partir de 1880",
+            "Le changement se fait peu à peu"
+          ],
+          "explanation": "Le cours décrit une transition progressive.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel lien est donné entre vapeur et industrie ?",
+          "answer": "La vapeur permet de développer de nouvelles machines",
+          "options": [
+            "La vapeur permet de développer de nouvelles machines",
+            "La vapeur interdit la fabrication",
+            "La vapeur fait disparaître les usines"
+          ],
+          "explanation": "La machine à vapeur accompagne le développement des machines de fabrication.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel changement est associé au développement des machines ?",
+          "answer": "Une forte hausse de la production",
+          "options": [
+            "Une forte hausse de la production",
+            "Une absence totale de production",
+            "Une baisse obligatoire de toutes les quantités"
+          ],
+          "explanation": "La production augmente très vite.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "La fiche cite 1832 sans invention lisible. Que faut-il faire ?",
+          "answer": "Ne pas inventer le nom correspondant",
+          "options": [
+            "Ne pas inventer le nom correspondant",
+            "Choisir au hasard une invention",
+            "Attribuer obligatoirement cette date au train"
+          ],
+          "explanation": "La correspondance n’est pas visible et ne doit pas être inventée.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "Peut-on attribuer un nom précis d’invention à 1895 avec cette fiche seule ?",
+          "answer": "Non, le nom n’est pas visible",
+          "options": [
+            "Non, le nom n’est pas visible",
+            "Oui, il faut le deviner",
+            "Oui, le cours donne tous les noms"
+          ],
+          "explanation": "Les noms des inventions correspondant aux cinq dates ne sont pas visibles.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que montrent les nombreuses inventions citées au XIXᵉ siècle ?",
+          "answer": "Une période d’inventions révolutionnaires",
+          "options": [
+            "Une période d’inventions révolutionnaires",
+            "L’absence de toute invention",
+            "L’arrêt des transformations"
+          ],
+          "explanation": "Le cours évoque de nombreuses inventions révolutionnaires.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle liste contient uniquement les trois sources d’énergie de cette partie ?",
+          "answer": "Charbon, électricité, pétrole",
+          "options": [
+            "Charbon, électricité, pétrole",
+            "Charbon, cahier, pétrole",
+            "Électricité, règle, crayon"
+          ],
+          "explanation": "Les trois sources étudiées sont le charbon, l’électricité et le pétrole.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "Une usine fabrique davantage grâce à ses machines : quel mot convient ?",
+          "answer": "La production augmente",
+          "options": [
+            "La production augmente",
+            "La production disparaît",
+            "Le bâtiment devient une préfecture"
+          ],
+          "explanation": "La hausse de la quantité fabriquée est une augmentation de la production.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que faut-il éviter à propos de 1839, 1876 et 1885 ?",
+          "answer": "Leur attribuer des inventions non lisibles",
+          "options": [
+            "Leur attribuer des inventions non lisibles",
+            "Retenir qu’elles figurent sur la fiche",
+            "Dire que les noms correspondants ne sont pas visibles"
+          ],
+          "explanation": "Les dates visibles ne suffisent pas à identifier les inventions.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel enchaînement résume les informations ?",
+          "answer": "Vapeur → nouvelles machines → production accrue",
+          "options": [
+            "Vapeur → nouvelles machines → production accrue",
+            "Production accrue → disparition obligatoire des machines",
+            "Usines → absence de machines"
+          ],
+          "explanation": "La vapeur permet de nouvelles machines et la production augmente.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-1-30"
+        }
+      ]
+    },
+    {
+      "title": "Compléter le cours",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Grâce à la ___, de nouvelles machines se développent.",
+          "answer": "machine à vapeur",
+          "aliases": [],
+          "explanation": "Le cours relie les nouvelles machines à la machine à vapeur.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Les machines permettent de fabriquer plus ___.",
+          "answer": "vite",
+          "aliases": [
+            "rapidement"
+          ],
+          "explanation": "La fabrication devient plus rapide.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-02"
+        },
+        {
+          "type": "text",
+          "prompt": "On peut fabriquer en plus grande ___.",
+          "answer": "quantité",
+          "aliases": [],
+          "explanation": "Le volume fabriqué augmente.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Les machines sont regroupées dans de grands bâtiments appelés ___.",
+          "answer": "usines",
+          "aliases": [],
+          "explanation": "Ces bâtiments sont les premières usines.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Pour faire fonctionner les machines, on a besoin de beaucoup de ___.",
+          "answer": "charbon",
+          "aliases": [],
+          "explanation": "Le charbon est nécessaire en très grande quantité.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-05"
+        },
+        {
+          "type": "text",
+          "prompt": "La ___ augmente très vite.",
+          "answer": "production",
+          "aliases": [],
+          "explanation": "Les machines font fortement augmenter la production.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-06"
+        },
+        {
+          "type": "text",
+          "prompt": "La transition vers de nouvelles énergies commence à partir de ___.",
+          "answer": "1880",
+          "aliases": [],
+          "explanation": "Le repère du cours est 1880.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Le pétrole et l’___ remplacent progressivement le charbon.",
+          "answer": "électricité",
+          "aliases": [],
+          "explanation": "Le cours associe électricité et pétrole.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-08"
+        },
+        {
+          "type": "text",
+          "prompt": "L’électricité et le ___ remplacent peu à peu le charbon.",
+          "answer": "pétrole",
+          "aliases": [],
+          "explanation": "Le pétrole est cité avec l’électricité.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Les nouvelles énergies remplacent peu à peu le ___ dans les usines.",
+          "answer": "charbon",
+          "aliases": [],
+          "explanation": "La transition concerne le remplacement progressif du charbon.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Les premières ___ rassemblent les machines de fabrication.",
+          "answer": "usines",
+          "aliases": [],
+          "explanation": "Les usines regroupent les machines.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-11"
+        },
+        {
+          "type": "text",
+          "prompt": "La fabrication se fait plus rapidement : les machines permettent de fabriquer plus ___.",
+          "answer": "vite",
+          "aliases": [
+            "rapidement"
+          ],
+          "explanation": "Plus vite signifie plus rapidement.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Le regroupement de nombreuses machines caractérise les premières ___.",
+          "answer": "usines",
+          "aliases": [],
+          "explanation": "Le bâtiment industriel du cours est l’usine.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Au départ, les machines étudiées demandent énormément de ___.",
+          "answer": "charbon",
+          "aliases": [],
+          "explanation": "Le cours insiste sur les grands besoins de charbon.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-14"
+        },
+        {
+          "type": "text",
+          "prompt": "À partir de 1880, le charbon n’est pas remplacé d’un seul coup mais ___.",
+          "answer": "progressivement",
+          "aliases": [
+            "peu à peu"
+          ],
+          "explanation": "Le texte dit « peu à peu ».",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Le mot désignant ce qui est fabriqué et son volume est la ___.",
+          "answer": "production",
+          "aliases": [],
+          "explanation": "La leçon indique que la production augmente.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Une machine produit davantage : elle fabrique en plus grande ___.",
+          "answer": "quantité",
+          "aliases": [],
+          "explanation": "On parle de quantité fabriquée.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-17"
+        },
+        {
+          "type": "text",
+          "prompt": "L’énergie citée avec le pétrole est l’___.",
+          "answer": "électricité",
+          "aliases": [],
+          "explanation": "Les deux nouvelles énergies du cours sont l’électricité et le pétrole.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-18"
+        },
+        {
+          "type": "text",
+          "prompt": "L’énergie citée avec l’électricité est le ___.",
+          "answer": "pétrole",
+          "aliases": [],
+          "explanation": "Le pétrole est l’autre énergie nouvelle citée.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Le cours commence la transition énergétique par les mots « à partir de ___ ».",
+          "answer": "1880",
+          "aliases": [],
+          "explanation": "1880 est le repère de la transition décrit par le cours.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Une usine est un grand ___ où sont regroupées des machines.",
+          "answer": "bâtiment",
+          "aliases": [
+            "batiment"
+          ],
+          "explanation": "Le cours définit les premières usines par leurs grands bâtiments.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-21"
+        },
+        {
+          "type": "text",
+          "prompt": "L’invention déjà étudiée qui permet ces machines est la machine à ___.",
+          "answer": "vapeur",
+          "aliases": [],
+          "explanation": "La vapeur est le lien avec la première partie de la leçon.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Une production qui devient plus importante ___.",
+          "answer": "augmente",
+          "aliases": [
+            "s’accroît",
+            "grandit"
+          ],
+          "explanation": "Le cours indique une augmentation très rapide.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-23"
+        },
+        {
+          "type": "text",
+          "prompt": "Le changement d’énergie se fait « peu à ___ ».",
+          "answer": "peu",
+          "aliases": [],
+          "explanation": "L’expression « peu à peu » signifie progressivement.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Les machines de fabrication sont ___ dans les premières usines.",
+          "answer": "regroupées",
+          "aliases": [],
+          "explanation": "Le regroupement des machines est au centre de la définition des usines.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Avant la transition décrite, la ressource mise en avant pour les machines est le ___.",
+          "answer": "charbon",
+          "aliases": [],
+          "explanation": "Le charbon est la ressource dont les machines ont énormément besoin.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Le siècle de la leçon est le ___ siècle.",
+          "answer": "XIXe",
+          "aliases": [
+            "XIX",
+            "XIXᵉ",
+            "19e",
+            "dix-neuvième"
+          ],
+          "explanation": "Il s’agit des révolutions du XIXᵉ siècle.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Le cours parle d’inventions ___.",
+          "answer": "révolutionnaires",
+          "aliases": [],
+          "explanation": "Il évoque de nombreuses inventions révolutionnaires.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Dans cette partie, électricité et pétrole sont des sources d’___.",
+          "answer": "énergie",
+          "aliases": [],
+          "explanation": "Elles remplacent progressivement le charbon pour faire fonctionner les machines.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-29"
+        },
+        {
+          "type": "text",
+          "prompt": "On connaît les dates de cinq inventions, mais leurs ___ ne sont pas visibles.",
+          "answer": "noms",
+          "aliases": [],
+          "explanation": "Il ne faut pas inventer les correspondances manquantes.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-2-30"
+        }
+      ]
+    },
+    {
+      "title": "Vrai ou faux ?",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Les premières usines regroupent des machines.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "C’est la définition des premières usines donnée par le cours.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-01"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les nouvelles machines permettent de fabriquer plus vite.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La rapidité de fabrication augmente.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-02"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les machines permettent de fabriquer en plus grande quantité.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La quantité fabriquée augmente.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-03"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le charbon est nécessaire en très grande quantité.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Les machines étudiées demandent énormément de charbon.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-04"
+        },
+        {
+          "type": "choice",
+          "prompt": "La production augmente très vite.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Le cours décrit une forte hausse de la production.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-05"
+        },
+        {
+          "type": "choice",
+          "prompt": "La machine à vapeur contribue au développement de nouvelles machines.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Elle est à l’origine du changement étudié.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-06"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les premières usines sont de grands bâtiments.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Ces bâtiments regroupent les machines.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-07"
+        },
+        {
+          "type": "choice",
+          "prompt": "À partir de 1880, de nouvelles énergies remplacent progressivement le charbon.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Le changement se fait peu à peu.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-08"
+        },
+        {
+          "type": "choice",
+          "prompt": "L’électricité fait partie des nouvelles énergies citées.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Elle est citée avec le pétrole.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-09"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le pétrole fait partie des nouvelles énergies citées.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Il est cité avec l’électricité.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le XIXᵉ siècle connaît de nombreuses inventions révolutionnaires.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "C’est indiqué dans le cours.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le mot « progressivement » respecte l’expression « peu à peu ».",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Ces expressions ont le même sens ici.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les cinq dates d’inventions sont visibles, mais pas leurs noms.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Il ne faut donc pas inventer les correspondances.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "La fiche comporte notamment la date 1876.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "1876 fait partie des cinq dates visibles.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le charbon est l’une des trois sources d’énergie étudiées.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Les trois sources sont charbon, électricité et pétrole.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les machines sont dispersées obligatoirement hors de tout bâtiment.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Les premières usines les regroupent dans de grands bâtiments.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les nouvelles machines obligent à produire moins.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Elles permettent de fabriquer en plus grande quantité.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le cours affirme que la fabrication devient toujours plus lente.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Les machines permettent de fabriquer plus vite.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Les machines étudiées n’ont jamais besoin de charbon.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Le cours indique un besoin très important de charbon.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "La production reste nécessairement identique.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Elle augmente très vite.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le charbon disparaît partout exactement le premier jour de 1880.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Le changement commence à partir de 1880 et reste progressif.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "La transition énergétique étudiée commence en 1817.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Le repère de cette transition est 1880.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le pétrole et l’électricité sont absents du cours.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Ces deux énergies sont explicitement citées.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le cours donne le nom lisible de l’invention de 1832.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Les noms des inventions correspondant aux dates ne sont pas visibles.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "On doit deviner l’invention associée à 1839.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Il ne faut pas inventer cette correspondance.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Une usine du cours est un bâtiment sans machine.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Les usines regroupent les machines.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "L’électricité et le pétrole sont les deux noms du charbon.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Ce sont deux sources d’énergie qui le remplacent progressivement.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Peu à peu » signifie « partout et immédiatement ».",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "L’expression indique un changement progressif.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "La fiche permet d’associer avec certitude 1885 à une invention nommée.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Le nom correspondant n’est pas visible.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "La révolution de l’industrie est sans lien avec la vapeur.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "La machine à vapeur permet le développement des nouvelles machines.",
+          "hint": "Compare précisément l’affirmation aux mots du cours.",
+          "id": "h2-industrie-3-30"
+        }
+      ]
+    },
+    {
+      "title": "Les sources d’énergie",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Associe cette source d’énergie à son rôle dans le cours.",
+          "answer": "Ressource nécessaire en très grande quantité aux machines étudiées",
+          "options": [
+            "Ressource nécessaire en très grande quantité aux machines étudiées",
+            "Énergie qui remplace progressivement le charbon à partir de 1880"
+          ],
+          "explanation": "Charbon : ressource nécessaire en très grande quantité aux machines étudiées.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Charbon",
+          "id": "h2-industrie-4-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette source d’énergie à son rôle dans le cours.",
+          "answer": "Énergie qui remplace progressivement le charbon à partir de 1880",
+          "options": [
+            "Ressource nécessaire en très grande quantité aux machines étudiées",
+            "Énergie qui remplace progressivement le charbon à partir de 1880"
+          ],
+          "explanation": "Électricité : énergie qui remplace progressivement le charbon à partir de 1880.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Électricité",
+          "id": "h2-industrie-4-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette source d’énergie à son rôle dans le cours.",
+          "answer": "Énergie qui remplace progressivement le charbon à partir de 1880",
+          "options": [
+            "Ressource nécessaire en très grande quantité aux machines étudiées",
+            "Énergie qui remplace progressivement le charbon à partir de 1880"
+          ],
+          "explanation": "Pétrole : énergie qui remplace progressivement le charbon à partir de 1880.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Pétrole",
+          "id": "h2-industrie-4-03"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel groupe réunit les deux nouvelles énergies ?",
+          "answer": "Électricité et pétrole",
+          "options": [
+            "Électricité et pétrole",
+            "Charbon et papier",
+            "Pétrole et charbon uniquement"
+          ],
+          "explanation": "L’électricité et le pétrole remplacent progressivement le charbon.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-04"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle énergie est progressivement remplacée ?",
+          "answer": "Le charbon",
+          "options": [
+            "Le charbon",
+            "La craie",
+            "Le papier"
+          ],
+          "explanation": "La transition concerne le charbon.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-05"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel repère associer à la transition énergétique ?",
+          "answer": "1880",
+          "options": [
+            "1880",
+            "1763",
+            "1850"
+          ],
+          "explanation": "Le repère donné est 1880.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-06"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle expression décrit correctement la transition ?",
+          "answer": "Peu à peu",
+          "options": [
+            "Peu à peu",
+            "Partout en une seule journée",
+            "Sans aucun changement"
+          ],
+          "explanation": "Le cours indique un remplacement progressif.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-07"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle conclusion faut-il éviter ?",
+          "answer": "Toutes les usines abandonnent le charbon immédiatement",
+          "options": [
+            "Toutes les usines abandonnent le charbon immédiatement",
+            "L’électricité est citée comme nouvelle énergie",
+            "Le pétrole est cité comme nouvelle énergie"
+          ],
+          "explanation": "Le mot progressivement exclut une disparition immédiate partout.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-08"
+        },
+        {
+          "type": "choice",
+          "prompt": "Peut-on distinguer les usages précis de l’électricité et du pétrole avec ce cours seul ?",
+          "answer": "Non, les deux sont cités sans usages détaillés",
+          "options": [
+            "Non, les deux sont cités sans usages détaillés",
+            "Oui, tous les usages sont donnés",
+            "Il faut inventer leurs usages"
+          ],
+          "explanation": "Le cours donne leur rôle général, pas un catalogue d’usages.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-09"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le pétrole remplace peu à peu le charbon.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Le pétrole est cité parmi les nouvelles énergies.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "L’électricité remplace progressivement le charbon.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "L’électricité est l’autre énergie citée.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Le cours affirme que le charbon est encore la seule énergie après la transition.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Deux nouvelles énergies sont citées.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "La transition se fait à partir de 1880.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "C’est le repère exact du cours.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "On peut dire que le charbon disparaît immédiatement de chaque usine.",
+          "answer": "Faux",
+          "options": [
+            "Faux",
+            "Vrai"
+          ],
+          "explanation": "Le remplacement est progressif.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Électricité et pétrole sont deux sources d’énergie étudiées.",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Elles sont citées ensemble.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-4-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète : électricité et ___ sont citées comme nouvelles énergies.",
+          "answer": "pétrole",
+          "aliases": [],
+          "explanation": "Le pétrole est cité avec l’électricité.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-4-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète : pétrole et ___ sont cités ensemble.",
+          "answer": "électricité",
+          "aliases": [],
+          "explanation": "L’électricité est citée avec le pétrole.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-4-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète la date : à partir de ___.",
+          "answer": "1880",
+          "aliases": [],
+          "explanation": "La transition débute à partir de 1880.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-4-18"
+        }
+      ],
+      "minimumQuestions": 18,
+      "poolNote": "Trois sources d’énergie et une date commune : 18 situations suffisent sans inventer leurs usages détaillés."
+    },
+    {
+      "title": "Causes et conséquences",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Développement de nouvelles machines",
+          "options": [
+            "Développement de nouvelles machines",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Machine à vapeur → Développement de nouvelles machines.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Machine à vapeur",
+          "id": "h2-industrie-5-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Fabrication plus rapide",
+          "options": [
+            "Fabrication plus rapide",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Nouvelles machines → Fabrication plus rapide.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Nouvelles machines",
+          "id": "h2-industrie-5-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Augmentation des quantités produites",
+          "options": [
+            "Augmentation des quantités produites",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Machines capables de fabriquer davantage → Augmentation des quantités produites.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Machines capables de fabriquer davantage",
+          "id": "h2-industrie-5-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Apparition des premières usines",
+          "options": [
+            "Apparition des premières usines",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Regroupement des machines dans de grands bâtiments → Apparition des premières usines.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Regroupement des machines dans de grands bâtiments",
+          "id": "h2-industrie-5-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Besoin d’énormément de charbon",
+          "options": [
+            "Besoin d’énormément de charbon",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Fonctionnement des machines étudiées → Besoin d’énormément de charbon.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Fonctionnement des machines étudiées",
+          "id": "h2-industrie-5-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Augmentation très rapide de la production",
+          "options": [
+            "Augmentation très rapide de la production",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Développement de la fabrication mécanique → Augmentation très rapide de la production.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Développement de la fabrication mécanique",
+          "id": "h2-industrie-5-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Remplacement progressif du charbon",
+          "options": [
+            "Remplacement progressif du charbon",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Arrivée de l’électricité et du pétrole à partir de 1880 → Remplacement progressif du charbon.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Arrivée de l’électricité et du pétrole à partir de 1880",
+          "id": "h2-industrie-5-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Changement progressif plutôt qu’immédiat",
+          "options": [
+            "Changement progressif plutôt qu’immédiat",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Expression « peu à peu » → Changement progressif plutôt qu’immédiat.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Expression « peu à peu »",
+          "id": "h2-industrie-5-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Diminution du temps nécessaire à la fabrication",
+          "options": [
+            "Diminution du temps nécessaire à la fabrication",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Des machines permettent de fabriquer les choses plus vite → Diminution du temps nécessaire à la fabrication.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Des machines permettent de fabriquer les choses plus vite",
+          "id": "h2-industrie-5-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Production plus importante",
+          "options": [
+            "Production plus importante",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Plus de choses fabriquées dans les usines → Production plus importante.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Plus de choses fabriquées dans les usines",
+          "id": "h2-industrie-5-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Organisation de la fabrication dans une usine",
+          "options": [
+            "Organisation de la fabrication dans une usine",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Des machines sont réunies au même endroit dans le bâtiment étudié → Organisation de la fabrication dans une usine.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Des machines sont réunies au même endroit dans le bâtiment étudié",
+          "id": "h2-industrie-5-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Nécessité de disposer de beaucoup de charbon",
+          "options": [
+            "Nécessité de disposer de beaucoup de charbon",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Les besoins des machines en charbon sont très importants → Nécessité de disposer de beaucoup de charbon.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Les besoins des machines en charbon sont très importants",
+          "id": "h2-industrie-5-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Transformation de l’industrie",
+          "options": [
+            "Transformation de l’industrie",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "La fabrication change grâce à la vapeur → Transformation de l’industrie.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "La fabrication change grâce à la vapeur",
+          "id": "h2-industrie-5-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Deux nouvelles sources d’énergie à retenir",
+          "options": [
+            "Deux nouvelles sources d’énergie à retenir",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Le cours cite l’électricité avec le pétrole → Deux nouvelles sources d’énergie à retenir.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Le cours cite l’électricité avec le pétrole",
+          "id": "h2-industrie-5-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Repère de la transition énergétique étudiée",
+          "options": [
+            "Repère de la transition énergétique étudiée",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "La date 1880 accompagne un changement d’énergie → Repère de la transition énergétique étudiée.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "La date 1880 accompagne un changement d’énergie",
+          "id": "h2-industrie-5-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "La transition ne se fait pas partout en une seule journée",
+          "options": [
+            "La transition ne se fait pas partout en une seule journée",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Le texte parle d’un remplacement progressif du charbon → La transition ne se fait pas partout en une seule journée.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Le texte parle d’un remplacement progressif du charbon",
+          "id": "h2-industrie-5-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Impossibilité d’établir leurs correspondances à partir de cette fiche",
+          "options": [
+            "Impossibilité d’établir leurs correspondances à partir de cette fiche",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Les noms des inventions de 1832 et 1839 ne sont pas visibles → Impossibilité d’établir leurs correspondances à partir de cette fiche.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Les noms des inventions de 1832 et 1839 ne sont pas visibles",
+          "id": "h2-industrie-5-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Ne pas inventer ces associations date-invention",
+          "options": [
+            "Ne pas inventer ces associations date-invention",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Les noms des inventions de 1876, 1885 et 1895 ne sont pas visibles → Ne pas inventer ces associations date-invention.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Les noms des inventions de 1876, 1885 et 1895 ne sont pas visibles",
+          "id": "h2-industrie-5-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "Deux effets complémentaires des nouvelles machines",
+          "options": [
+            "Deux effets complémentaires des nouvelles machines",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Le cours décrit à la fois la rapidité et la quantité fabriquée → Deux effets complémentaires des nouvelles machines.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Le cours décrit à la fois la rapidité et la quantité fabriquée",
+          "id": "h2-industrie-5-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette transformation ou situation à son effet ou à sa conclusion.",
+          "answer": "La définition des usines relie bâtiment et machines",
+          "options": [
+            "La définition des usines relie bâtiment et machines",
+            "Les machines disparaissent immédiatement et partout.",
+            "La production est obligatoirement arrêtée."
+          ],
+          "explanation": "Les premières usines regroupent les nouvelles machines → La définition des usines relie bâtiment et machines.",
+          "hint": "Choisis uniquement la conclusion directement soutenue par cette situation.",
+          "context": "Les premières usines regroupent les nouvelles machines",
+          "id": "h2-industrie-5-20"
+        }
+      ],
+      "minimumQuestions": 20,
+      "poolNote": "20 transformations et conclusions distinctes du cours ; les associations redondantes ont été écartées."
+    },
+    {
+      "title": "Bilan cumulatif des trois parties",
+      "questions": [
+        {
+          "type": "choice",
+          "prompt": "Quelle invention crée un mouvement sans force humaine ou animale selon la première partie ?",
+          "answer": "La machine à vapeur",
+          "options": [
+            "La machine à vapeur",
+            "La voiture à chevaux",
+            "Un cahier"
+          ],
+          "explanation": "La machine à vapeur produit un mouvement sans force humaine ou animale.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-01"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle date le premier cours retient-il pour la machine à vapeur ?",
+          "answer": "1763",
+          "options": [
+            "1763",
+            "1880",
+            "1886"
+          ],
+          "explanation": "Le cours de la première partie utilise 1763.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-02"
+        },
+        {
+          "type": "choice",
+          "prompt": "À partir de quelle période la machine à vapeur se développe-t-elle ?",
+          "answer": "Au début du XIXᵉ siècle",
+          "options": [
+            "Au début du XIXᵉ siècle",
+            "Au début du XXIᵉ siècle",
+            "Après 1899 seulement"
+          ],
+          "explanation": "Le repère étudié est le début du XIXᵉ siècle.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-03"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle puissance la machine peut-elle fournir ?",
+          "answer": "Une très grande puissance",
+          "options": [
+            "Une très grande puissance",
+            "Toujours aucune puissance",
+            "Uniquement une très faible puissance"
+          ],
+          "explanation": "La première partie indique une très grande puissance.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-04"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel élément est chauffé pour produire de la vapeur ?",
+          "answer": "L’eau",
+          "options": [
+            "L’eau",
+            "La roue",
+            "La bielle"
+          ],
+          "explanation": "Le charbon chauffe l’eau qui produit de la vapeur.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-05"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel élément est actionné par la vapeur ?",
+          "answer": "Le piston",
+          "options": [
+            "Le piston",
+            "Le cahier",
+            "Le déterminant"
+          ],
+          "explanation": "La vapeur actionne le piston.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-06"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel transport est associé à 1817 ?",
+          "answer": "Le train",
+          "options": [
+            "Le train",
+            "L’automobile",
+            "Le bateau à vapeur"
+          ],
+          "explanation": "Le cours associe le train à 1817.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-07"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel transport est associé à 1850 ?",
+          "answer": "Le bateau à vapeur",
+          "options": [
+            "Le bateau à vapeur",
+            "L’automobile",
+            "L’avion daté"
+          ],
+          "explanation": "Le cours associe le bateau à vapeur à 1850.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-08"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel transport est associé à 1886 ?",
+          "answer": "L’automobile",
+          "options": [
+            "L’automobile",
+            "Le train",
+            "Le bateau à vapeur"
+          ],
+          "explanation": "Le cours associe l’automobile à 1886.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-09"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle partie du cours étudie les usines ?",
+          "answer": "La révolution de l’industrie",
+          "options": [
+            "La révolution de l’industrie",
+            "Uniquement les déterminants",
+            "Uniquement le groupe nominal"
+          ],
+          "explanation": "Les usines sont étudiées dans la troisième partie.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel bâtiment regroupe les machines de fabrication ?",
+          "answer": "L’usine",
+          "options": [
+            "L’usine",
+            "La préfecture",
+            "La cour de récréation"
+          ],
+          "explanation": "Les premières usines regroupent les machines.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que permettent les nouvelles machines dans l’industrie ?",
+          "answer": "Fabriquer plus vite et davantage",
+          "options": [
+            "Fabriquer plus vite et davantage",
+            "Produire obligatoirement moins",
+            "Arrêter toutes les usines"
+          ],
+          "explanation": "Les deux effets sont rapidité et quantité.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel combustible chauffe l’eau dans la machine étudiée ?",
+          "answer": "charbon",
+          "aliases": [],
+          "explanation": "Le charbon fournit la chaleur.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-6-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel élément tourne à la fin du mécanisme de la machine à vapeur ?",
+          "answer": "roue",
+          "aliases": [],
+          "explanation": "Le mécanisme transmet le mouvement à la roue.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-6-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Le mouvement est transmis notamment par la bielle et le ___.",
+          "answer": "balancier",
+          "aliases": [],
+          "explanation": "La première partie nomme le balancier et la bielle.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-6-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel adjectif désigne le transport par chemin de fer ?",
+          "answer": "ferroviaire",
+          "aliases": [],
+          "explanation": "Ferroviaire renvoie au chemin de fer.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-6-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel adjectif désigne le transport par mer ?",
+          "answer": "maritime",
+          "aliases": [],
+          "explanation": "Maritime renvoie à la mer.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-6-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle longueur du réseau ferré lit-on pour 1849, en kilomètres ?",
+          "answer": "2859",
+          "aliases": [],
+          "explanation": "Le document indique 2 859 km.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-6-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle longueur du réseau ferré lit-on pour 1899, en kilomètres ?",
+          "answer": "32601",
+          "aliases": [],
+          "explanation": "Le document indique 32 601 km.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-6-19"
+        },
+        {
+          "type": "text",
+          "prompt": "À partir de quelle année la transition énergétique industrielle est-elle située ?",
+          "answer": "1880",
+          "aliases": [],
+          "explanation": "Le cours indique à partir de 1880.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-6-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle ressource est nécessaire en très grande quantité aux machines des premières usines ?",
+          "answer": "charbon",
+          "aliases": [],
+          "explanation": "Les machines ont énormément besoin de charbon.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "h2-industrie-6-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe les éléments du cours.",
+          "answer": "Produire de la vapeur",
+          "options": [
+            "Produire de la vapeur",
+            "Faire disparaître la roue"
+          ],
+          "explanation": "La chaleur permet de produire la vapeur.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Chauffer l’eau avec le charbon",
+          "id": "h2-industrie-6-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe les éléments du cours.",
+          "answer": "Développement du commerce",
+          "options": [
+            "Développement du commerce",
+            "Interdiction des échanges"
+          ],
+          "explanation": "Le commerce bénéficie des nouveaux transports.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Transport plus facile des marchandises",
+          "id": "h2-industrie-6-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe les éléments du cours.",
+          "answer": "Développement du chemin de fer",
+          "options": [
+            "Développement du chemin de fer",
+            "Disparition des rails"
+          ],
+          "explanation": "Le réseau ferré devient plus étendu.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Extension du réseau ferré",
+          "id": "h2-industrie-6-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe les éléments du cours.",
+          "answer": "Usines",
+          "options": [
+            "Usines",
+            "Absence de bâtiment"
+          ],
+          "explanation": "Les machines sont regroupées dans de grands bâtiments.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Regroupement des machines",
+          "id": "h2-industrie-6-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe les éléments du cours.",
+          "answer": "Énergies de remplacement progressif du charbon",
+          "options": [
+            "Énergies de remplacement progressif du charbon",
+            "Noms des inventions illisibles"
+          ],
+          "explanation": "Elles remplacent peu à peu le charbon.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Électricité et pétrole",
+          "id": "h2-industrie-6-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quelle nuance respecte l’histoire des transports ?",
+          "answer": "Les voitures à chevaux ne disparaissent pas immédiatement",
+          "options": [
+            "Les voitures à chevaux ne disparaissent pas immédiatement",
+            "Tous les chevaux disparaissent le jour de l’arrivée du train"
+          ],
+          "explanation": "L’évolution est progressive.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que change la rapidité des transports ?",
+          "answer": "Les déplacements prennent moins de temps",
+          "options": [
+            "Les déplacements prennent moins de temps",
+            "Tous les lieux disparaissent"
+          ],
+          "explanation": "Les nouveaux transports facilitent et accélèrent les déplacements.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Quel effet industriel concerne les volumes fabriqués ?",
+          "answer": "La production augmente",
+          "options": [
+            "La production augmente",
+            "La production devient nulle"
+          ],
+          "explanation": "Les machines permettent des quantités plus importantes.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "Que faire des cinq dates sans noms d’inventions lisibles ?",
+          "answer": "Conserver les dates sans inventer les associations",
+          "options": [
+            "Conserver les dates sans inventer les associations",
+            "Attribuer au hasard des noms"
+          ],
+          "explanation": "Les correspondances ne sont pas visibles.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "h2-industrie-6-30"
+        }
+      ]
+    }
+  ],
+  "recap": [
+    "La machine à vapeur permet de nouvelles machines qui fabriquent plus vite et en plus grande quantité.",
+    "Ces machines sont regroupées dans de grands bâtiments : les premières usines. Elles ont besoin d’énormément de charbon et la production augmente très vite.",
+    "À partir de 1880, l’électricité et le pétrole remplacent peu à peu le charbon dans les usines. Ce remplacement est progressif.",
+    "Le XIXᵉ siècle connaît de nombreuses inventions révolutionnaires. La fiche montre 1832, 1839, 1876, 1885 et 1895, mais leurs noms ne sont pas visibles : aucune correspondance n’est inventée ici."
+  ]
+}

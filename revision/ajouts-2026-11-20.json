@@ -1,0 +1,157 @@
+{
+  "h2-industrie": {
+    "path": "Histoire/Lecon-2/Revolution-industrie",
+    "exercises": [
+      {
+        "title": "Comprendre la révolution industrielle",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Compléter le cours",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Vrai ou faux ?",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Les sources d’énergie",
+        "count": 18,
+        "note": "Trois sources d’énergie et une date commune : 18 situations suffisent sans inventer leurs usages détaillés."
+      },
+      {
+        "title": "Causes et conséquences",
+        "count": 20,
+        "note": "20 transformations et conclusions distinctes du cours ; les associations redondantes ont été écartées."
+      },
+      {
+        "title": "Bilan cumulatif des trois parties",
+        "count": 30,
+        "note": null
+      }
+    ]
+  },
+  "c3-futur": {
+    "path": "francais/C3-Futur-simple",
+    "exercises": [
+      {
+        "title": "Reconnaître le futur",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Les terminaisons",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Conjuguer au futur",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Le futur du verbe être",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Corriger les erreurs",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Bilan du futur",
+        "count": 30,
+        "note": null
+      }
+    ]
+  },
+  "at-school": {
+    "path": "anglais/At-School",
+    "exercises": [
+      {
+        "title": "Français vers anglais",
+        "count": 21,
+        "note": "21 notions distinctes dans la liste fermée ; les synonymes étudiés sont acceptés sans créer de faux nouveaux mots."
+      },
+      {
+        "title": "Anglais vers français",
+        "count": 23,
+        "note": "23 expressions distinctes, en comptant les deux variantes étudiées a student et an eraser."
+      },
+      {
+        "title": "Associer les mots",
+        "count": 21,
+        "note": "21 correspondances distinctes de la fiche."
+      },
+      {
+        "title": "There is / There are",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "The imperative",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Bilan At School",
+        "count": 30,
+        "note": null
+      }
+    ]
+  },
+  "geo-regions": {
+    "path": "histoire-geo/Regions-prefectures-DROM",
+    "exercises": [
+      {
+        "title": "Régions et préfectures",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Retrouver la région",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Carte interactive de France",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Les DROM et leurs chefs-lieux",
+        "count": 15,
+        "note": "Cinq correspondances fermées travaillées dans les deux sens et en vrai/faux : 15 entrées."
+      },
+      {
+        "title": "Localiser les DROM",
+        "count": 15,
+        "note": "Cinq territoires interrogés par leur nom, leur chef-lieu et leur spécialité : 15 entrées."
+      },
+      {
+        "title": "Les spécialités métropolitaines",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Les spécialités des DROM",
+        "count": 15,
+        "note": "Cinq associations de la fiche, travaillées dans les deux sens et en vrai/faux : 15 entrées."
+      },
+      {
+        "title": "Régions, villes et spécialités",
+        "count": 30,
+        "note": null
+      },
+      {
+        "title": "Bilan de géographie",
+        "count": 30,
+        "note": null
+      }
+    ]
+  }
+}

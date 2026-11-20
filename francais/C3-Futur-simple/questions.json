@@ -1,0 +1,2438 @@
+{
+  "key": "c3-futur",
+  "title": "C3 · Le futur simple",
+  "intro": "Raconter une action à venir et conjuguer les verbes étudiés.",
+  "expectedExercises": 6,
+  "exercises": [
+    {
+      "title": "Reconnaître le futur",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, je joue dans la cour.",
+          "id": "c3-futur-1-01"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, j’ai joué dans la cour.",
+          "id": "c3-futur-1-02"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, je jouerai dans la cour.",
+          "id": "c3-futur-1-03"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, tu joues avec nous.",
+          "id": "c3-futur-1-04"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, tu as joué avec nous.",
+          "id": "c3-futur-1-05"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, tu joueras avec nous.",
+          "id": "c3-futur-1-06"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, elle joue au ballon.",
+          "id": "c3-futur-1-07"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, elle a joué au ballon.",
+          "id": "c3-futur-1-08"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, elle jouera au ballon.",
+          "id": "c3-futur-1-09"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, nous jouons ensemble.",
+          "id": "c3-futur-1-10"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, nous avons joué ensemble.",
+          "id": "c3-futur-1-11"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, nous jouerons ensemble.",
+          "id": "c3-futur-1-12"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, vous jouez dehors.",
+          "id": "c3-futur-1-13"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, vous avez joué dehors.",
+          "id": "c3-futur-1-14"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, vous jouerez dehors.",
+          "id": "c3-futur-1-15"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, ils jouent à la maison.",
+          "id": "c3-futur-1-16"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, ils ont joué à la maison.",
+          "id": "c3-futur-1-17"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, ils joueront à la maison.",
+          "id": "c3-futur-1-18"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, je suis à l’école.",
+          "id": "c3-futur-1-19"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, j’ai été à l’école.",
+          "id": "c3-futur-1-20"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, je serai à l’école.",
+          "id": "c3-futur-1-21"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, nous sommes en classe.",
+          "id": "c3-futur-1-22"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, nous avons été en classe.",
+          "id": "c3-futur-1-23"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, nous serons en classe.",
+          "id": "c3-futur-1-24"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, vous êtes au jardin.",
+          "id": "c3-futur-1-25"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, vous avez été au jardin.",
+          "id": "c3-futur-1-26"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, vous serez au jardin.",
+          "id": "c3-futur-1-27"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère aujourd’hui indique ici l’action en cours.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Aujourd’hui, elles sont dans la cour.",
+          "id": "c3-futur-1-28"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère hier indique une action déjà passée.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Hier, elles ont été dans la cour.",
+          "id": "c3-futur-1-29"
+        },
+        {
+          "type": "select",
+          "prompt": "L’action de cette phrase se situe-t-elle au présent, au passé ou au futur ?",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Le repère demain et la forme au futur indiquent une action à venir.",
+          "hint": "Cherche le repère aujourd’hui, hier ou demain et le moment de l’action.",
+          "context": "Demain, elles seront dans la cour.",
+          "id": "c3-futur-1-30"
+        }
+      ]
+    },
+    {
+      "title": "Les terminaisons",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ai",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « je », on utilise la terminaison -ai.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "je",
+          "id": "c3-futur-2-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-as",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « tu », on utilise la terminaison -as.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "tu",
+          "id": "c3-futur-2-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « il », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "il",
+          "id": "c3-futur-2-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « elle », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "elle",
+          "id": "c3-futur-2-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « on », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "on",
+          "id": "c3-futur-2-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ons",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « nous », on utilise la terminaison -ons.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "nous",
+          "id": "c3-futur-2-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ez",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « vous », on utilise la terminaison -ez.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "vous",
+          "id": "c3-futur-2-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « ils », on utilise la terminaison -ont.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "ils",
+          "id": "c3-futur-2-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « elles », on utilise la terminaison -ont.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "elles",
+          "id": "c3-futur-2-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « Léa », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "Léa",
+          "id": "c3-futur-2-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « Paul », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "Paul",
+          "id": "c3-futur-2-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « les élèves », on utilise la terminaison -ont.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "les élèves",
+          "id": "c3-futur-2-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « la maîtresse », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "la maîtresse",
+          "id": "c3-futur-2-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « mes amis », on utilise la terminaison -ont.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "mes amis",
+          "id": "c3-futur-2-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « mon frère », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "mon frère",
+          "id": "c3-futur-2-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « ta sœur », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "ta sœur",
+          "id": "c3-futur-2-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « les enfants », on utilise la terminaison -ont.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "les enfants",
+          "id": "c3-futur-2-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ons",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « Léa et moi », on utilise la terminaison -ons.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "Léa et moi",
+          "id": "c3-futur-2-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ez",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « Paul et toi », on utilise la terminaison -ez.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "Paul et toi",
+          "id": "c3-futur-2-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « mes parents », on utilise la terminaison -ont.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "mes parents",
+          "id": "c3-futur-2-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « notre équipe », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "notre équipe",
+          "id": "c3-futur-2-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « les voisins », on utilise la terminaison -ont.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "les voisins",
+          "id": "c3-futur-2-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « ce garçon », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "ce garçon",
+          "id": "c3-futur-2-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « ces filles », on utilise la terminaison -ont.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "ces filles",
+          "id": "c3-futur-2-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ons",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « ma cousine et moi », on utilise la terminaison -ons.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "ma cousine et moi",
+          "id": "c3-futur-2-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ez",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « ta famille et toi », on utilise la terminaison -ez.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "ta famille et toi",
+          "id": "c3-futur-2-26"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « le professeur », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "le professeur",
+          "id": "c3-futur-2-27"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « nos camarades », on utilise la terminaison -ont.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "nos camarades",
+          "id": "c3-futur-2-28"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « la classe », on utilise la terminaison -a.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "la classe",
+          "id": "c3-futur-2-29"
+        },
+        {
+          "type": "select",
+          "prompt": "Quelle terminaison du futur convient à ce sujet ?",
+          "answer": "-ons",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "Pour « mes cousins et moi », on utilise la terminaison -ons.",
+          "hint": "Remplace le groupe sujet par je, tu, il/elle/on, nous, vous ou ils/elles.",
+          "context": "mes cousins et moi",
+          "id": "c3-futur-2-30"
+        }
+      ]
+    },
+    {
+      "title": "Conjuguer au futur",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Demain, je (jouer) ___ dans la cour. Écris seulement le verbe au futur.",
+          "answer": "jouerai",
+          "aliases": [],
+          "explanation": "Pour « je », on garde l’infinitif jouer et on ajoute -ai : jouerai.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, tu (chanter) ___ avec la classe. Écris seulement le verbe au futur.",
+          "answer": "chanteras",
+          "aliases": [],
+          "explanation": "Pour « tu », on garde l’infinitif chanter et on ajoute -as : chanteras.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, elle (danser) ___ sur la scène. Écris seulement le verbe au futur.",
+          "answer": "dansera",
+          "aliases": [],
+          "explanation": "Pour « elle », on garde l’infinitif danser et on ajoute -a : dansera.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, nous (marcher) ___ dans le jardin. Écris seulement le verbe au futur.",
+          "answer": "marcherons",
+          "aliases": [],
+          "explanation": "Pour « nous », on garde l’infinitif marcher et on ajoute -ons : marcherons.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, vous (dessiner) ___ un paysage. Écris seulement le verbe au futur.",
+          "answer": "dessinerez",
+          "aliases": [],
+          "explanation": "Pour « vous », on garde l’infinitif dessiner et on ajoute -ez : dessinerez.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, ils (parler) ___ de leur journée. Écris seulement le verbe au futur.",
+          "answer": "parleront",
+          "aliases": [],
+          "explanation": "Pour « ils », on garde l’infinitif parler et on ajoute -ont : parleront.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, Paul (regarder) ___ un dessin. Écris seulement le verbe au futur.",
+          "answer": "regardera",
+          "aliases": [],
+          "explanation": "Pour « Paul », on garde l’infinitif regarder et on ajoute -a : regardera.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, nous (écouter) ___ une histoire. Écris seulement le verbe au futur.",
+          "answer": "écouterons",
+          "aliases": [],
+          "explanation": "Pour « nous », on garde l’infinitif écouter et on ajoute -ons : écouterons.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, vous (travailler) ___ en classe. Écris seulement le verbe au futur.",
+          "answer": "travaillerez",
+          "aliases": [],
+          "explanation": "Pour « vous », on garde l’infinitif travailler et on ajoute -ez : travaillerez.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, elles (visiter) ___ le musée. Écris seulement le verbe au futur.",
+          "answer": "visiteront",
+          "aliases": [],
+          "explanation": "Pour « elles », on garde l’infinitif visiter et on ajoute -ont : visiteront.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, je (préparer) ___ mon sac. Écris seulement le verbe au futur.",
+          "answer": "préparerai",
+          "aliases": [],
+          "explanation": "Pour « je », on garde l’infinitif préparer et on ajoute -ai : préparerai.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, tu (jouer) ___ avec tes amis. Écris seulement le verbe au futur.",
+          "answer": "joueras",
+          "aliases": [],
+          "explanation": "Pour « tu », on garde l’infinitif jouer et on ajoute -as : joueras.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, on (chanter) ___ ensemble. Écris seulement le verbe au futur.",
+          "answer": "chantera",
+          "aliases": [],
+          "explanation": "Pour « on », on garde l’infinitif chanter et on ajoute -a : chantera.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, les enfants (danser) ___ dans la salle. Écris seulement le verbe au futur.",
+          "answer": "danseront",
+          "aliases": [],
+          "explanation": "Pour « les enfants », on garde l’infinitif danser et on ajoute -ont : danseront.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, ma sœur et moi (dessiner) ___ une maison. Écris seulement le verbe au futur.",
+          "answer": "dessinerons",
+          "aliases": [],
+          "explanation": "Pour « ma sœur et moi », on garde l’infinitif dessiner et on ajoute -ons : dessinerons.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, ta famille et toi (marcher) ___ dans le parc. Écris seulement le verbe au futur.",
+          "answer": "marcherez",
+          "aliases": [],
+          "explanation": "Pour « ta famille et toi », on garde l’infinitif marcher et on ajoute -ez : marcherez.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, mon frère (parler) ___ au professeur. Écris seulement le verbe au futur.",
+          "answer": "parlera",
+          "aliases": [],
+          "explanation": "Pour « mon frère », on garde l’infinitif parler et on ajoute -a : parlera.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, mes amis (regarder) ___ les images. Écris seulement le verbe au futur.",
+          "answer": "regarderont",
+          "aliases": [],
+          "explanation": "Pour « mes amis », on garde l’infinitif regarder et on ajoute -ont : regarderont.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, vous (écouter) ___ la consigne. Écris seulement le verbe au futur.",
+          "answer": "écouterez",
+          "aliases": [],
+          "explanation": "Pour « vous », on garde l’infinitif écouter et on ajoute -ez : écouterez.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, notre classe (travailler) ___ sur une affiche. Écris seulement le verbe au futur.",
+          "answer": "travaillera",
+          "aliases": [],
+          "explanation": "Pour « notre classe », on garde l’infinitif travailler et on ajoute -a : travaillera.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, Léa et moi (visiter) ___ une exposition. Écris seulement le verbe au futur.",
+          "answer": "visiterons",
+          "aliases": [],
+          "explanation": "Pour « Léa et moi », on garde l’infinitif visiter et on ajoute -ons : visiterons.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-21"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, ils (préparer) ___ le matériel. Écris seulement le verbe au futur.",
+          "answer": "prépareront",
+          "aliases": [],
+          "explanation": "Pour « ils », on garde l’infinitif préparer et on ajoute -ont : prépareront.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, je (chanter) ___ une chanson. Écris seulement le verbe au futur.",
+          "answer": "chanterai",
+          "aliases": [],
+          "explanation": "Pour « je », on garde l’infinitif chanter et on ajoute -ai : chanterai.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-23"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, tu (dessiner) ___ un arbre. Écris seulement le verbe au futur.",
+          "answer": "dessineras",
+          "aliases": [],
+          "explanation": "Pour « tu », on garde l’infinitif dessiner et on ajoute -as : dessineras.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, elle (marcher) ___ sur le chemin. Écris seulement le verbe au futur.",
+          "answer": "marchera",
+          "aliases": [],
+          "explanation": "Pour « elle », on garde l’infinitif marcher et on ajoute -a : marchera.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, nous (jouer) ___ au ballon. Écris seulement le verbe au futur.",
+          "answer": "jouerons",
+          "aliases": [],
+          "explanation": "Pour « nous », on garde l’infinitif jouer et on ajoute -ons : jouerons.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, vous (parler) ___ de votre travail. Écris seulement le verbe au futur.",
+          "answer": "parlerez",
+          "aliases": [],
+          "explanation": "Pour « vous », on garde l’infinitif parler et on ajoute -ez : parlerez.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, les élèves (écouter) ___ le professeur. Écris seulement le verbe au futur.",
+          "answer": "écouteront",
+          "aliases": [],
+          "explanation": "Pour « les élèves », on garde l’infinitif écouter et on ajoute -ont : écouteront.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, Paul et toi (préparer) ___ la salle. Écris seulement le verbe au futur.",
+          "answer": "préparerez",
+          "aliases": [],
+          "explanation": "Pour « Paul et toi », on garde l’infinitif préparer et on ajoute -ez : préparerez.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-29"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, mes cousins et moi (regarder) ___ le spectacle. Écris seulement le verbe au futur.",
+          "answer": "regarderons",
+          "aliases": [],
+          "explanation": "Pour « mes cousins et moi », on garde l’infinitif regarder et on ajoute -ons : regarderons.",
+          "hint": "Garde l’infinitif entier du verbe en -er, puis ajoute la terminaison du sujet.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-3-30"
+        }
+      ]
+    },
+    {
+      "title": "Le futur du verbe être",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Demain, je (être) ___ à l’école. Écris seulement le verbe.",
+          "answer": "serai",
+          "aliases": [],
+          "explanation": "Le futur de être avec « je » est « serai ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, tu (être) ___ dans la cour. Écris seulement le verbe.",
+          "answer": "seras",
+          "aliases": [],
+          "explanation": "Le futur de être avec « tu » est « seras ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, il (être) ___ en classe. Écris seulement le verbe.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "Le futur de être avec « il » est « sera ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, elle (être) ___ au jardin. Écris seulement le verbe.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "Le futur de être avec « elle » est « sera ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, on (être) ___ ensemble. Écris seulement le verbe.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "Le futur de être avec « on » est « sera ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, nous (être) ___ au musée. Écris seulement le verbe.",
+          "answer": "serons",
+          "aliases": [],
+          "explanation": "Le futur de être avec « nous » est « serons ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, vous (être) ___ à la maison. Écris seulement le verbe.",
+          "answer": "serez",
+          "aliases": [],
+          "explanation": "Le futur de être avec « vous » est « serez ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, ils (être) ___ dans la salle. Écris seulement le verbe.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "Le futur de être avec « ils » est « seront ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, elles (être) ___ au parc. Écris seulement le verbe.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "Le futur de être avec « elles » est « seront ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, Léa (être) ___ avec sa classe. Écris seulement le verbe.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "Le futur de être avec « Léa » est « sera ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, Paul (être) ___ au spectacle. Écris seulement le verbe.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "Le futur de être avec « Paul » est « sera ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, les élèves (être) ___ en sortie. Écris seulement le verbe.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "Le futur de être avec « les élèves » est « seront ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, ma sœur et moi (être) ___ dans le bus. Écris seulement le verbe.",
+          "answer": "serons",
+          "aliases": [],
+          "explanation": "Le futur de être avec « ma sœur et moi » est « serons ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, Paul et toi (être) ___ au rendez-vous. Écris seulement le verbe.",
+          "answer": "serez",
+          "aliases": [],
+          "explanation": "Le futur de être avec « Paul et toi » est « serez ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, mes parents (être) ___ à l’école. Écris seulement le verbe.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "Le futur de être avec « mes parents » est « seront ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, la maîtresse (être) ___ dans la classe. Écris seulement le verbe.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "Le futur de être avec « la maîtresse » est « sera ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, mes amis (être) ___ au jardin. Écris seulement le verbe.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "Le futur de être avec « mes amis » est « seront ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, je (être) ___ avec mes cousins. Écris seulement le verbe.",
+          "answer": "serai",
+          "aliases": [],
+          "explanation": "Le futur de être avec « je » est « serai ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, tu (être) ___ au musée. Écris seulement le verbe.",
+          "answer": "seras",
+          "aliases": [],
+          "explanation": "Le futur de être avec « tu » est « seras ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, elle (être) ___ dans la cour. Écris seulement le verbe.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "Le futur de être avec « elle » est « sera ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, nous (être) ___ en visite. Écris seulement le verbe.",
+          "answer": "serons",
+          "aliases": [],
+          "explanation": "Le futur de être avec « nous » est « serons ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-21"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, vous (être) ___ près de la porte. Écris seulement le verbe.",
+          "answer": "serez",
+          "aliases": [],
+          "explanation": "Le futur de être avec « vous » est « serez ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, ils (être) ___ avec le professeur. Écris seulement le verbe.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "Le futur de être avec « ils » est « seront ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-23"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, elles (être) ___ à la bibliothèque. Écris seulement le verbe.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "Le futur de être avec « elles » est « seront ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, notre équipe (être) ___ dans le parc. Écris seulement le verbe.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "Le futur de être avec « notre équipe » est « sera ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, les enfants (être) ___ à la maison. Écris seulement le verbe.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "Le futur de être avec « les enfants » est « seront ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, mon frère (être) ___ avec nous. Écris seulement le verbe.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "Le futur de être avec « mon frère » est « sera ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, ma cousine et moi (être) ___ au spectacle. Écris seulement le verbe.",
+          "answer": "serons",
+          "aliases": [],
+          "explanation": "Le futur de être avec « ma cousine et moi » est « serons ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, ta famille et toi (être) ___ en promenade. Écris seulement le verbe.",
+          "answer": "serez",
+          "aliases": [],
+          "explanation": "Le futur de être avec « ta famille et toi » est « serez ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-29"
+        },
+        {
+          "type": "text",
+          "prompt": "Demain, nos camarades (être) ___ dans la salle. Écris seulement le verbe.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "Le futur de être avec « nos camarades » est « seront ».",
+          "hint": "Le verbe être a les formes serai, seras, sera, serons, serez, seront.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-4-30"
+        }
+      ]
+    },
+    {
+      "title": "Corriger les erreurs",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Je jouera. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "jouerai",
+          "aliases": [
+            "Je jouerai",
+            "Je jouerai."
+          ],
+          "explanation": "La correction est « Je jouerai ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Nous joueront. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "jouerons",
+          "aliases": [
+            "Nous jouerons",
+            "Nous jouerons."
+          ],
+          "explanation": "La correction est « Nous jouerons ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Vous serons. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "serez",
+          "aliases": [
+            "Vous serez",
+            "Vous serez."
+          ],
+          "explanation": "La correction est « Vous serez ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Je joueras. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "jouerai",
+          "aliases": [
+            "Je jouerai",
+            "Je jouerai."
+          ],
+          "explanation": "La correction est « Je jouerai ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Tu chantera. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "chanteras",
+          "aliases": [
+            "Tu chanteras",
+            "Tu chanteras."
+          ],
+          "explanation": "La correction est « Tu chanteras ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Elle danserons. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "dansera",
+          "aliases": [
+            "Elle dansera",
+            "Elle dansera."
+          ],
+          "explanation": "La correction est « Elle dansera ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Nous marcherez. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "marcherons",
+          "aliases": [
+            "Nous marcherons",
+            "Nous marcherons."
+          ],
+          "explanation": "La correction est « Nous marcherons ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Vous dessineront. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "dessinerez",
+          "aliases": [
+            "Vous dessinerez",
+            "Vous dessinerez."
+          ],
+          "explanation": "La correction est « Vous dessinerez ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Ils parlerai. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "parleront",
+          "aliases": [
+            "Ils parleront",
+            "Ils parleront."
+          ],
+          "explanation": "La correction est « Ils parleront ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Paul regarderons. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "regardera",
+          "aliases": [
+            "Paul regardera",
+            "Paul regardera."
+          ],
+          "explanation": "La correction est « Paul regardera ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Nous écouterez. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "écouterons",
+          "aliases": [
+            "Nous écouterons",
+            "Nous écouterons."
+          ],
+          "explanation": "La correction est « Nous écouterons ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Vous travailleront. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "travaillerez",
+          "aliases": [
+            "Vous travaillerez",
+            "Vous travaillerez."
+          ],
+          "explanation": "La correction est « Vous travaillerez ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Elles visiterai. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "visiteront",
+          "aliases": [
+            "Elles visiteront",
+            "Elles visiteront."
+          ],
+          "explanation": "La correction est « Elles visiteront ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Je prépareras. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "préparerai",
+          "aliases": [
+            "Je préparerai",
+            "Je préparerai."
+          ],
+          "explanation": "La correction est « Je préparerai ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Tu jouera. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "joueras",
+          "aliases": [
+            "Tu joueras",
+            "Tu joueras."
+          ],
+          "explanation": "La correction est « Tu joueras ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « On chanterons. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "chantera",
+          "aliases": [
+            "On chantera",
+            "On chantera."
+          ],
+          "explanation": "La correction est « On chantera ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Les enfants danserai. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "danseront",
+          "aliases": [
+            "Les enfants danseront",
+            "Les enfants danseront."
+          ],
+          "explanation": "La correction est « Les enfants danseront ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Ma sœur et moi dessinerez. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "dessinerons",
+          "aliases": [
+            "Ma sœur et moi dessinerons",
+            "Ma sœur et moi dessinerons."
+          ],
+          "explanation": "La correction est « Ma sœur et moi dessinerons ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-18"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Ta famille et toi marcheront. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "marcherez",
+          "aliases": [
+            "Ta famille et toi marcherez",
+            "Ta famille et toi marcherez."
+          ],
+          "explanation": "La correction est « Ta famille et toi marcherez ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-19"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Mon frère parlerons. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "parlera",
+          "aliases": [
+            "Mon frère parlera",
+            "Mon frère parlera."
+          ],
+          "explanation": "La correction est « Mon frère parlera ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-20"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Mes amis regarderai. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "regarderont",
+          "aliases": [
+            "Mes amis regarderont",
+            "Mes amis regarderont."
+          ],
+          "explanation": "La correction est « Mes amis regarderont ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-21"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Je seras. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "serai",
+          "aliases": [
+            "Je serai",
+            "Je serai."
+          ],
+          "explanation": "La correction est « Je serai ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-22"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Tu sera. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "seras",
+          "aliases": [
+            "Tu seras",
+            "Tu seras."
+          ],
+          "explanation": "La correction est « Tu seras ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-23"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Il serons. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "sera",
+          "aliases": [
+            "Il sera",
+            "Il sera."
+          ],
+          "explanation": "La correction est « Il sera ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Elle serons. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "sera",
+          "aliases": [
+            "Elle sera",
+            "Elle sera."
+          ],
+          "explanation": "La correction est « Elle sera ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « On serons. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "sera",
+          "aliases": [
+            "On sera",
+            "On sera."
+          ],
+          "explanation": "La correction est « On sera ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Nous serez. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "serons",
+          "aliases": [
+            "Nous serons",
+            "Nous serons."
+          ],
+          "explanation": "La correction est « Nous serons ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Vous seront. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "serez",
+          "aliases": [
+            "Vous serez",
+            "Vous serez."
+          ],
+          "explanation": "La correction est « Vous serez ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Ils serai. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "seront",
+          "aliases": [
+            "Ils seront",
+            "Ils seront."
+          ],
+          "explanation": "La correction est « Ils seront ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-29"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige le verbe dans « Elles serai. ». Écris le verbe seul ou la phrase corrigée.",
+          "answer": "seront",
+          "aliases": [
+            "Elles seront",
+            "Elles seront."
+          ],
+          "explanation": "La correction est « Elles seront ».",
+          "hint": "Vérifie le sujet et la terminaison correspondante, puis distingue jouer et être.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-5-30"
+        }
+      ]
+    },
+    {
+      "title": "Bilan du futur",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Au futur, quelle terminaison convient au sujet ?",
+          "answer": "-ai",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "La terminaison de « je » est -ai.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "je",
+          "id": "c3-futur-6-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Au futur, quelle terminaison convient au sujet ?",
+          "answer": "-as",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "La terminaison de « tu » est -as.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "tu",
+          "id": "c3-futur-6-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Au futur, quelle terminaison convient au sujet ?",
+          "answer": "-a",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "La terminaison de « il » est -a.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "il",
+          "id": "c3-futur-6-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Au futur, quelle terminaison convient au sujet ?",
+          "answer": "-ons",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "La terminaison de « nous » est -ons.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "nous",
+          "id": "c3-futur-6-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Au futur, quelle terminaison convient au sujet ?",
+          "answer": "-ez",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "La terminaison de « vous » est -ez.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "vous",
+          "id": "c3-futur-6-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Au futur, quelle terminaison convient au sujet ?",
+          "answer": "-ont",
+          "options": [
+            "-ai",
+            "-as",
+            "-a",
+            "-ons",
+            "-ez",
+            "-ont"
+          ],
+          "explanation": "La terminaison de « ils » est -ont.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "ils",
+          "id": "c3-futur-6-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète au futur : demain, vous (écouter) ___ la consigne.",
+          "answer": "écouterez",
+          "aliases": [],
+          "explanation": "écouter + -ez donne écouterez.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète au futur : demain, notre classe (travailler) ___ sur une affiche.",
+          "answer": "travaillera",
+          "aliases": [],
+          "explanation": "travailler + -a donne travaillera.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète au futur : demain, Léa et moi (visiter) ___ une exposition.",
+          "answer": "visiterons",
+          "aliases": [],
+          "explanation": "visiter + -ons donne visiterons.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète au futur : demain, ils (préparer) ___ le matériel.",
+          "answer": "prépareront",
+          "aliases": [],
+          "explanation": "préparer + -ont donne prépareront.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète au futur : demain, je (chanter) ___ une chanson.",
+          "answer": "chanterai",
+          "aliases": [],
+          "explanation": "chanter + -ai donne chanterai.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète au futur : demain, tu (dessiner) ___ un arbre.",
+          "answer": "dessineras",
+          "aliases": [],
+          "explanation": "dessiner + -as donne dessineras.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec être au futur : demain, tu ___ au musée.",
+          "answer": "seras",
+          "aliases": [],
+          "explanation": "La forme attendue est seras.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-13"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec être au futur : demain, elle ___ dans la cour.",
+          "answer": "sera",
+          "aliases": [],
+          "explanation": "La forme attendue est sera.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-14"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec être au futur : demain, nous ___ en visite.",
+          "answer": "serons",
+          "aliases": [],
+          "explanation": "La forme attendue est serons.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-15"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec être au futur : demain, vous ___ près de la porte.",
+          "answer": "serez",
+          "aliases": [],
+          "explanation": "La forme attendue est serez.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-16"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec être au futur : demain, ils ___ avec le professeur.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "La forme attendue est seront.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-17"
+        },
+        {
+          "type": "text",
+          "prompt": "Complète avec être au futur : demain, elles ___ à la bibliothèque.",
+          "answer": "seront",
+          "aliases": [],
+          "explanation": "La forme attendue est seront.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Repère le moment de l’action.",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Cette phrase évoque le présent.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Aujourd’hui, vous êtes au jardin.",
+          "id": "c3-futur-6-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Repère le moment de l’action.",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Cette phrase évoque le passé.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Hier, vous avez été au jardin.",
+          "id": "c3-futur-6-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Repère le moment de l’action.",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Cette phrase évoque le futur.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Demain, vous serez au jardin.",
+          "id": "c3-futur-6-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Repère le moment de l’action.",
+          "answer": "Présent",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Cette phrase évoque le présent.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Aujourd’hui, elles sont dans la cour.",
+          "id": "c3-futur-6-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Repère le moment de l’action.",
+          "answer": "Passé",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Cette phrase évoque le passé.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Hier, elles ont été dans la cour.",
+          "id": "c3-futur-6-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Repère le moment de l’action.",
+          "answer": "Futur",
+          "options": [
+            "Présent",
+            "Passé",
+            "Futur"
+          ],
+          "explanation": "Cette phrase évoque le futur.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Demain, elles seront dans la cour.",
+          "id": "c3-futur-6-24"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige uniquement le verbe : « Je joueras ».",
+          "answer": "jouerai",
+          "aliases": [],
+          "explanation": "Il faut écrire Je jouerai.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-25"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige uniquement le verbe : « Tu chantera ».",
+          "answer": "chanteras",
+          "aliases": [],
+          "explanation": "Il faut écrire Tu chanteras.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-26"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige uniquement le verbe : « Elle danserons ».",
+          "answer": "dansera",
+          "aliases": [],
+          "explanation": "Il faut écrire Elle dansera.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-27"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige uniquement le verbe : « Nous marcherez ».",
+          "answer": "marcherons",
+          "aliases": [],
+          "explanation": "Il faut écrire Nous marcherons.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-28"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige uniquement le verbe : « Vous dessineront ».",
+          "answer": "dessinerez",
+          "aliases": [],
+          "explanation": "Il faut écrire Vous dessinerez.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-29"
+        },
+        {
+          "type": "text",
+          "prompt": "Corrige uniquement le verbe : « Ils parlerai ».",
+          "answer": "parleront",
+          "aliases": [],
+          "explanation": "Il faut écrire Ils parleront.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": true,
+          "format": "language",
+          "id": "c3-futur-6-30"
+        }
+      ]
+    }
+  ],
+  "recap": [
+    "Le futur simple raconte une action à venir. Demain est un mot indicateur. Les phrases avec hier ou aujourd’hui servent seulement à reconnaître le moment de l’action : aucun autre temps n’est à apprendre à conjuguer ici.",
+    "Pour les verbes réguliers en -er : infinitif entier + terminaison. Je : -ai ; tu : -as ; il, elle, on : -a ; nous : -ons ; vous : -ez ; ils, elles : -ont.",
+    "Jouer : je jouerai, tu joueras, il/elle/on jouera, nous jouerons, vous jouerez, ils/elles joueront.",
+    "Être : je serai, tu seras, il/elle/on sera, nous serons, vous serez, ils/elles seront. Le verbe être ne se construit pas en conservant son infinitif."
+  ]
+}

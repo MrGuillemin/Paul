@@ -1,0 +1,21 @@
+{
+  "contours": {
+    "url": "https://data.geopf.fr/wfs/ows?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&TYPENAMES=ADMINEXPRESS-COG.2026:region&OUTPUTFORMAT=application/json&SRSNAME=urn:ogc:def:crs:OGC:1.3:CRS84&COUNT=30",
+    "sha256": "a1a5b09979dbec1cb5ca4e80bc761893e90215f25fbf8d1a036f019beb547648"
+  },
+  "chefs_lieux": {
+    "url": "https://data.geopf.fr/wfs/ows?SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&TYPENAMES=ADMINEXPRESS-COG.2026:chef_lieu_de_region&OUTPUTFORMAT=application/json&SRSNAME=urn:ogc:def:crs:OGC:1.3:CRS84&COUNT=30",
+    "sha256": "101a5df1dc366956fa09d7d2eebfb8e8f03fa81055f012b0c51087f154c9b602"
+  },
+  "planisphere": {
+    "url": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson",
+    "sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f"
+  },
+  "downloaded": "2026-11-20",
+  "licenses": {
+    "IGN": "Licence ouverte Etalab 2.0",
+    "Natural Earth": "Domaine public"
+  },
+  "processing": "Projection des coordonnées sources, arrondi à 0,001 unité SVG et suppression des seuls segments nuls après cet arrondi. Aucune simplification géométrique des régions. Le planisphère Natural Earth au 1:110 millions est un fond de repérage ; les contours des DROM dans les encadrés viennent des données IGN non simplifiées.",
+  "encoding": "Les coordonnées projetées à 0,001 unité SVG sont encodées par deltas entiers, puis compressées sans perte (gzip). Les frontières ne sont ni redessinées ni simplifiées. Seuls les points consécutifs strictement identiques après arrondi sont fusionnés."
+}

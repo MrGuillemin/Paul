@@ -1,0 +1,6094 @@
+{
+  "key": "geo-regions",
+  "title": "Régions, préfectures et spécialités",
+  "intro": "Réviser la métropole, les cinq DROM et les associations de la fiche.",
+  "expectedExercises": 9,
+  "exercises": [
+    {
+      "title": "Régions et préfectures",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Rennes",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Bretagne est Rennes.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Bretagne",
+          "id": "geo-regions-1-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Rouen",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Normandie est Rouen.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Normandie",
+          "id": "geo-regions-1-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Lille",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Hauts-de-France est Lille.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Hauts-de-France",
+          "id": "geo-regions-1-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Strasbourg",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Grand Est est Strasbourg.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Grand Est",
+          "id": "geo-regions-1-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Dijon",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Bourgogne-Franche-Comté est Dijon.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Bourgogne-Franche-Comté",
+          "id": "geo-regions-1-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Orléans",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Centre-Val de Loire est Orléans.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Centre-Val de Loire",
+          "id": "geo-regions-1-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Paris",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Île-de-France est Paris.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Île-de-France",
+          "id": "geo-regions-1-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Nantes",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Pays de la Loire est Nantes.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Pays de la Loire",
+          "id": "geo-regions-1-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Bordeaux",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Nouvelle-Aquitaine est Bordeaux.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Nouvelle-Aquitaine",
+          "id": "geo-regions-1-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Lyon",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Auvergne-Rhône-Alpes est Lyon.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Auvergne-Rhône-Alpes",
+          "id": "geo-regions-1-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Toulouse",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Occitanie est Toulouse.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Occitanie",
+          "id": "geo-regions-1-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Marseille",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Provence-Alpes-Côte d’Azur est Marseille.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Provence-Alpes-Côte d’Azur",
+          "id": "geo-regions-1-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe cette région à sa préfecture régionale.",
+          "answer": "Ajaccio",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "La préfecture régionale de Corse est Ajaccio.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Corse",
+          "id": "geo-regions-1-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Rennes est la préfecture régionale de Bretagne. » Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Bretagne → Rennes.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Lille est la préfecture régionale de Normandie. » Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Normandie → Rouen.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Lille est la préfecture régionale de Hauts-de-France. » Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Hauts-de-France → Lille.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Dijon est la préfecture régionale de Grand Est. » Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Grand Est → Strasbourg.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Dijon est la préfecture régionale de Bourgogne-Franche-Comté. » Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Bourgogne-Franche-Comté → Dijon.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Paris est la préfecture régionale de Centre-Val de Loire. » Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Centre-Val de Loire → Orléans.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Paris est la préfecture régionale de Île-de-France. » Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Île-de-France → Paris.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Bordeaux est la préfecture régionale de Pays de la Loire. » Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Pays de la Loire → Nantes.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Bordeaux est la préfecture régionale de Nouvelle-Aquitaine. » Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Nouvelle-Aquitaine → Bordeaux.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Toulouse est la préfecture régionale de Auvergne-Rhône-Alpes. » Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Auvergne-Rhône-Alpes → Lyon.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Toulouse est la préfecture régionale de Occitanie. » Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Occitanie → Toulouse.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Ajaccio est la préfecture régionale de Provence-Alpes-Côte d’Azur. » Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Provence-Alpes-Côte d’Azur → Marseille.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Ajaccio est la préfecture régionale de Corse. » Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La bonne correspondance est Corse → Ajaccio.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-1-26"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chacune des deux régions à sa préfecture.",
+          "context": "Bretagne / Normandie",
+          "parts": [
+            "Bretagne",
+            "Normandie"
+          ],
+          "answers": [
+            "Rennes",
+            "Rouen"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Bretagne → Rennes ; Normandie → Rouen.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-1-27"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chacune des deux régions à sa préfecture.",
+          "context": "Hauts-de-France / Grand Est",
+          "parts": [
+            "Hauts-de-France",
+            "Grand Est"
+          ],
+          "answers": [
+            "Lille",
+            "Strasbourg"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Hauts-de-France → Lille ; Grand Est → Strasbourg.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-1-28"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chacune des deux régions à sa préfecture.",
+          "context": "Bourgogne-Franche-Comté / Centre-Val de Loire",
+          "parts": [
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire"
+          ],
+          "answers": [
+            "Dijon",
+            "Orléans"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Bourgogne-Franche-Comté → Dijon ; Centre-Val de Loire → Orléans.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-1-29"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Associe chacune des deux régions à sa préfecture.",
+          "context": "Île-de-France / Pays de la Loire",
+          "parts": [
+            "Île-de-France",
+            "Pays de la Loire"
+          ],
+          "answers": [
+            "Paris",
+            "Nantes"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Île-de-France → Paris ; Pays de la Loire → Nantes.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-1-30"
+        }
+      ]
+    },
+    {
+      "title": "Retrouver la région",
+      "questions": [
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Rennes ?",
+          "answer": "Bretagne",
+          "aliases": [],
+          "explanation": "Rennes est la préfecture régionale de Bretagne.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-01"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Rouen ?",
+          "answer": "Normandie",
+          "aliases": [],
+          "explanation": "Rouen est la préfecture régionale de Normandie.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-02"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Lille ?",
+          "answer": "Hauts-de-France",
+          "aliases": [
+            "Hauts de France"
+          ],
+          "explanation": "Lille est la préfecture régionale de Hauts-de-France.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-03"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Strasbourg ?",
+          "answer": "Grand Est",
+          "aliases": [],
+          "explanation": "Strasbourg est la préfecture régionale de Grand Est.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-04"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Dijon ?",
+          "answer": "Bourgogne-Franche-Comté",
+          "aliases": [
+            "Bourgogne Franche Comté"
+          ],
+          "explanation": "Dijon est la préfecture régionale de Bourgogne-Franche-Comté.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Orléans ?",
+          "answer": "Centre-Val de Loire",
+          "aliases": [
+            "Centre Val de Loire",
+            "Centre Val de Loire"
+          ],
+          "explanation": "Orléans est la préfecture régionale de Centre-Val de Loire.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Paris ?",
+          "answer": "Île-de-France",
+          "aliases": [
+            "Île de France",
+            "Ile de France"
+          ],
+          "explanation": "Paris est la préfecture régionale de Île-de-France.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Nantes ?",
+          "answer": "Pays de la Loire",
+          "aliases": [],
+          "explanation": "Nantes est la préfecture régionale de Pays de la Loire.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Bordeaux ?",
+          "answer": "Nouvelle-Aquitaine",
+          "aliases": [
+            "Nouvelle Aquitaine"
+          ],
+          "explanation": "Bordeaux est la préfecture régionale de Nouvelle-Aquitaine.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Lyon ?",
+          "answer": "Auvergne-Rhône-Alpes",
+          "aliases": [
+            "Auvergne Rhône Alpes"
+          ],
+          "explanation": "Lyon est la préfecture régionale de Auvergne-Rhône-Alpes.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-10"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Toulouse ?",
+          "answer": "Occitanie",
+          "aliases": [],
+          "explanation": "Toulouse est la préfecture régionale de Occitanie.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-11"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Marseille ?",
+          "answer": "Provence-Alpes-Côte d’Azur",
+          "aliases": [
+            "Provence Alpes Côte d’Azur",
+            "Provence-Alpes-Côte d'Azur",
+            "PACA"
+          ],
+          "explanation": "Marseille est la préfecture régionale de Provence-Alpes-Côte d’Azur.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-12"
+        },
+        {
+          "type": "text",
+          "prompt": "Quelle région a pour préfecture régionale Ajaccio ?",
+          "answer": "Corse",
+          "aliases": [],
+          "explanation": "Ajaccio est la préfecture régionale de Corse.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-2-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Bretagne",
+          "options": [
+            "Bretagne",
+            "Grand Est",
+            "Île-de-France"
+          ],
+          "explanation": "Rennes → Bretagne.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Rennes",
+          "id": "geo-regions-2-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Normandie",
+          "options": [
+            "Normandie",
+            "Bourgogne-Franche-Comté",
+            "Pays de la Loire"
+          ],
+          "explanation": "Rouen → Normandie.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Rouen",
+          "id": "geo-regions-2-15"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Hauts-de-France",
+          "options": [
+            "Hauts-de-France",
+            "Centre-Val de Loire",
+            "Nouvelle-Aquitaine"
+          ],
+          "explanation": "Lille → Hauts-de-France.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Lille",
+          "id": "geo-regions-2-16"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Grand Est",
+          "options": [
+            "Grand Est",
+            "Île-de-France",
+            "Auvergne-Rhône-Alpes"
+          ],
+          "explanation": "Strasbourg → Grand Est.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Strasbourg",
+          "id": "geo-regions-2-17"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Bourgogne-Franche-Comté",
+          "options": [
+            "Bourgogne-Franche-Comté",
+            "Pays de la Loire",
+            "Occitanie"
+          ],
+          "explanation": "Dijon → Bourgogne-Franche-Comté.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Dijon",
+          "id": "geo-regions-2-18"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Centre-Val de Loire",
+          "options": [
+            "Centre-Val de Loire",
+            "Nouvelle-Aquitaine",
+            "Provence-Alpes-Côte d’Azur"
+          ],
+          "explanation": "Orléans → Centre-Val de Loire.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Orléans",
+          "id": "geo-regions-2-19"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Île-de-France",
+          "options": [
+            "Île-de-France",
+            "Auvergne-Rhône-Alpes",
+            "Corse"
+          ],
+          "explanation": "Paris → Île-de-France.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Paris",
+          "id": "geo-regions-2-20"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Pays de la Loire",
+          "options": [
+            "Pays de la Loire",
+            "Occitanie",
+            "Bretagne"
+          ],
+          "explanation": "Nantes → Pays de la Loire.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Nantes",
+          "id": "geo-regions-2-21"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Nouvelle-Aquitaine",
+          "options": [
+            "Nouvelle-Aquitaine",
+            "Provence-Alpes-Côte d’Azur",
+            "Normandie"
+          ],
+          "explanation": "Bordeaux → Nouvelle-Aquitaine.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Bordeaux",
+          "id": "geo-regions-2-22"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Auvergne-Rhône-Alpes",
+          "options": [
+            "Auvergne-Rhône-Alpes",
+            "Corse",
+            "Hauts-de-France"
+          ],
+          "explanation": "Lyon → Auvergne-Rhône-Alpes.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Lyon",
+          "id": "geo-regions-2-23"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Occitanie",
+          "options": [
+            "Occitanie",
+            "Bretagne",
+            "Grand Est"
+          ],
+          "explanation": "Toulouse → Occitanie.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Toulouse",
+          "id": "geo-regions-2-24"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Provence-Alpes-Côte d’Azur",
+          "options": [
+            "Provence-Alpes-Côte d’Azur",
+            "Normandie",
+            "Bourgogne-Franche-Comté"
+          ],
+          "explanation": "Marseille → Provence-Alpes-Côte d’Azur.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Marseille",
+          "id": "geo-regions-2-25"
+        },
+        {
+          "type": "choice",
+          "prompt": "Retrouve la région à partir de cette préfecture.",
+          "answer": "Corse",
+          "options": [
+            "Corse",
+            "Hauts-de-France",
+            "Centre-Val de Loire"
+          ],
+          "explanation": "Ajaccio → Corse.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "context": "Ajaccio",
+          "id": "geo-regions-2-26"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Pour chaque préfecture, retrouve sa région.",
+          "context": "Orléans / Paris",
+          "parts": [
+            "Orléans",
+            "Paris"
+          ],
+          "answers": [
+            "Centre-Val de Loire",
+            "Île-de-France"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ]
+          ],
+          "explanation": "Orléans → Centre-Val de Loire ; Paris → Île-de-France.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-2-27"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Pour chaque préfecture, retrouve sa région.",
+          "context": "Paris / Nantes",
+          "parts": [
+            "Paris",
+            "Nantes"
+          ],
+          "answers": [
+            "Île-de-France",
+            "Pays de la Loire"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ]
+          ],
+          "explanation": "Paris → Île-de-France ; Nantes → Pays de la Loire.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-2-28"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Pour chaque préfecture, retrouve sa région.",
+          "context": "Nantes / Bordeaux",
+          "parts": [
+            "Nantes",
+            "Bordeaux"
+          ],
+          "answers": [
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ]
+          ],
+          "explanation": "Nantes → Pays de la Loire ; Bordeaux → Nouvelle-Aquitaine.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-2-29"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Pour chaque préfecture, retrouve sa région.",
+          "context": "Bordeaux / Lyon",
+          "parts": [
+            "Bordeaux",
+            "Lyon"
+          ],
+          "answers": [
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ]
+          ],
+          "explanation": "Bordeaux → Nouvelle-Aquitaine ; Lyon → Auvergne-Rhône-Alpes.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-2-30"
+        }
+      ]
+    },
+    {
+      "title": "Carte interactive de France",
+      "questions": [
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Bretagne.",
+          "answer": "53",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Bretagne.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-01"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Normandie.",
+          "answer": "28",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Normandie.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-02"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Hauts-de-France.",
+          "answer": "32",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Hauts-de-France.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-03"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Grand Est.",
+          "answer": "44",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Grand Est.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-04"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Bourgogne-Franche-Comté.",
+          "answer": "27",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Bourgogne-Franche-Comté.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-05"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Centre-Val de Loire.",
+          "answer": "24",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Centre-Val de Loire.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-06"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Île-de-France.",
+          "answer": "11",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Île-de-France.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-07"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Pays de la Loire.",
+          "answer": "52",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Pays de la Loire.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-08"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Nouvelle-Aquitaine.",
+          "answer": "75",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Nouvelle-Aquitaine.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-09"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Auvergne-Rhône-Alpes.",
+          "answer": "84",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Auvergne-Rhône-Alpes.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-10"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Occitanie.",
+          "answer": "76",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Occitanie.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-11"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Provence-Alpes-Côte d’Azur.",
+          "answer": "93",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Provence-Alpes-Côte d’Azur.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-12"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région Corse.",
+          "answer": "94",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Corse.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-13"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Rennes.",
+          "answer": "53",
+          "map": "metro",
+          "explanation": "Rennes est la préfecture de Bretagne.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-14"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Rouen.",
+          "answer": "28",
+          "map": "metro",
+          "explanation": "Rouen est la préfecture de Normandie.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-15"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Lille.",
+          "answer": "32",
+          "map": "metro",
+          "explanation": "Lille est la préfecture de Hauts-de-France.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-16"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Strasbourg.",
+          "answer": "44",
+          "map": "metro",
+          "explanation": "Strasbourg est la préfecture de Grand Est.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-17"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Dijon.",
+          "answer": "27",
+          "map": "metro",
+          "explanation": "Dijon est la préfecture de Bourgogne-Franche-Comté.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-18"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Orléans.",
+          "answer": "24",
+          "map": "metro",
+          "explanation": "Orléans est la préfecture de Centre-Val de Loire.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-19"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Paris.",
+          "answer": "11",
+          "map": "metro",
+          "explanation": "Paris est la préfecture de Île-de-France.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-20"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Nantes.",
+          "answer": "52",
+          "map": "metro",
+          "explanation": "Nantes est la préfecture de Pays de la Loire.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-21"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Bordeaux.",
+          "answer": "75",
+          "map": "metro",
+          "explanation": "Bordeaux est la préfecture de Nouvelle-Aquitaine.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-22"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Lyon.",
+          "answer": "84",
+          "map": "metro",
+          "explanation": "Lyon est la préfecture de Auvergne-Rhône-Alpes.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-23"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Toulouse.",
+          "answer": "76",
+          "map": "metro",
+          "explanation": "Toulouse est la préfecture de Occitanie.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-24"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Marseille.",
+          "answer": "93",
+          "map": "metro",
+          "explanation": "Marseille est la préfecture de Provence-Alpes-Côte d’Azur.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-25"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur la région dont la préfecture est Ajaccio.",
+          "answer": "94",
+          "map": "metro",
+          "explanation": "Ajaccio est la préfecture de Corse.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-26"
+        },
+        {
+          "type": "map",
+          "prompt": "Selon la fiche, quelle région associe-t-on à « Kouign-amann » ? Clique sur cette région.",
+          "answer": "53",
+          "map": "metro",
+          "explanation": "Selon la fiche, Kouign-amann est associé à Bretagne.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-27"
+        },
+        {
+          "type": "map",
+          "prompt": "Selon la fiche, quelle région associe-t-on à « Camembert » ? Clique sur cette région.",
+          "answer": "28",
+          "map": "metro",
+          "explanation": "Selon la fiche, Camembert est associé à Normandie.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-28"
+        },
+        {
+          "type": "map",
+          "prompt": "Selon la fiche, quelle région associe-t-on à « Carbonade flamande » ? Clique sur cette région.",
+          "answer": "32",
+          "map": "metro",
+          "explanation": "Selon la fiche, Carbonade flamande est associé à Hauts-de-France.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-29"
+        },
+        {
+          "type": "map",
+          "prompt": "Selon la fiche, quelle région associe-t-on à « Choucroute » ? Clique sur cette région.",
+          "answer": "44",
+          "map": "metro",
+          "explanation": "Selon la fiche, Choucroute est associé à Grand Est.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-3-30"
+        }
+      ]
+    },
+    {
+      "title": "Les DROM et leurs chefs-lieux",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Associe le DROM à son chef-lieu.",
+          "answer": "Basse-Terre",
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou"
+          ],
+          "explanation": "Le chef-lieu de Guadeloupe est Basse-Terre. Pointe-à-Pitre est une grande ville étudiée, mais n’est pas le chef-lieu de la Guadeloupe.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Guadeloupe",
+          "id": "geo-regions-4-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe le DROM à son chef-lieu.",
+          "answer": "Fort-de-France",
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou"
+          ],
+          "explanation": "Le chef-lieu de Martinique est Fort-de-France.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Martinique",
+          "id": "geo-regions-4-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe le DROM à son chef-lieu.",
+          "answer": "Cayenne",
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou"
+          ],
+          "explanation": "Le chef-lieu de Guyane française est Cayenne.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Guyane française",
+          "id": "geo-regions-4-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe le DROM à son chef-lieu.",
+          "answer": "Saint-Denis",
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou"
+          ],
+          "explanation": "Le chef-lieu de La Réunion est Saint-Denis.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "La Réunion",
+          "id": "geo-regions-4-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Associe le DROM à son chef-lieu.",
+          "answer": "Mamoudzou",
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou"
+          ],
+          "explanation": "Le chef-lieu de Mayotte est Mamoudzou.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Mayotte",
+          "id": "geo-regions-4-05"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel DROM a pour chef-lieu Basse-Terre ?",
+          "answer": "Guadeloupe",
+          "aliases": [],
+          "explanation": "Basse-Terre est le chef-lieu de Guadeloupe.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-4-06"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel DROM a pour chef-lieu Fort-de-France ?",
+          "answer": "Martinique",
+          "aliases": [],
+          "explanation": "Fort-de-France est le chef-lieu de Martinique.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-4-07"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel DROM a pour chef-lieu Cayenne ?",
+          "answer": "Guyane française",
+          "aliases": [
+            "Guyane"
+          ],
+          "explanation": "Cayenne est le chef-lieu de Guyane française.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-4-08"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel DROM a pour chef-lieu Saint-Denis ?",
+          "answer": "La Réunion",
+          "aliases": [],
+          "explanation": "Saint-Denis est le chef-lieu de La Réunion.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-4-09"
+        },
+        {
+          "type": "text",
+          "prompt": "Quel DROM a pour chef-lieu Mamoudzou ?",
+          "answer": "Mayotte",
+          "aliases": [],
+          "explanation": "Mamoudzou est le chef-lieu de Mayotte.",
+          "hint": "Relis la règle ou le repère correspondant.",
+          "strict": false,
+          "id": "geo-regions-4-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Le chef-lieu de Guadeloupe est Pointe-à-Pitre. » Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Le chef-lieu correct de Guadeloupe est Basse-Terre.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-4-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Le chef-lieu de Martinique est Fort-de-France. » Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Le chef-lieu correct de Martinique est Fort-de-France.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-4-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Le chef-lieu de Guyane française est Saint-Denis. » Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Le chef-lieu correct de Guyane française est Cayenne.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-4-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Le chef-lieu de La Réunion est Saint-Denis. » Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Le chef-lieu correct de La Réunion est Saint-Denis.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-4-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "« Le chef-lieu de Mayotte est Basse-Terre. » Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "Le chef-lieu correct de Mayotte est Mamoudzou.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-4-15"
+        }
+      ],
+      "minimumQuestions": 15,
+      "poolNote": "Cinq correspondances fermées travaillées dans les deux sens et en vrai/faux : 15 entrées."
+    },
+    {
+      "title": "Localiser les DROM",
+      "questions": [
+        {
+          "type": "map",
+          "prompt": "Clique sur le territoire Guadeloupe.",
+          "answer": "01",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est Guadeloupe.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-01"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur le territoire Martinique.",
+          "answer": "02",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est Martinique.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-02"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur le territoire Guyane française.",
+          "answer": "03",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est Guyane française.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-03"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur le territoire La Réunion.",
+          "answer": "04",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est La Réunion.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-04"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur le territoire Mayotte.",
+          "answer": "06",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est Mayotte.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-05"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur le DROM dont le chef-lieu est Basse-Terre.",
+          "answer": "01",
+          "map": "drom",
+          "explanation": "Basse-Terre est le chef-lieu de Guadeloupe.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-06"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur le DROM dont le chef-lieu est Fort-de-France.",
+          "answer": "02",
+          "map": "drom",
+          "explanation": "Fort-de-France est le chef-lieu de Martinique.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-07"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur le DROM dont le chef-lieu est Cayenne.",
+          "answer": "03",
+          "map": "drom",
+          "explanation": "Cayenne est le chef-lieu de Guyane française.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-08"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur le DROM dont le chef-lieu est Saint-Denis.",
+          "answer": "04",
+          "map": "drom",
+          "explanation": "Saint-Denis est le chef-lieu de La Réunion.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-09"
+        },
+        {
+          "type": "map",
+          "prompt": "Clique sur le DROM dont le chef-lieu est Mamoudzou.",
+          "answer": "06",
+          "map": "drom",
+          "explanation": "Mamoudzou est le chef-lieu de Mayotte.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-10"
+        },
+        {
+          "type": "map",
+          "prompt": "Selon la fiche, clique sur le DROM associé à « Dombrés ».",
+          "answer": "01",
+          "map": "drom",
+          "explanation": "Dombrés est associé à Guadeloupe dans la fiche.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-11"
+        },
+        {
+          "type": "map",
+          "prompt": "Selon la fiche, clique sur le DROM associé à « Blanc-manger coco ».",
+          "answer": "02",
+          "map": "drom",
+          "explanation": "Blanc-manger coco est associé à Martinique dans la fiche.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-12"
+        },
+        {
+          "type": "map",
+          "prompt": "Selon la fiche, clique sur le DROM associé à « Matété ».",
+          "answer": "03",
+          "map": "drom",
+          "explanation": "Matété est associé à Guyane française dans la fiche.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-13"
+        },
+        {
+          "type": "map",
+          "prompt": "Selon la fiche, clique sur le DROM associé à « Cari de poulet ».",
+          "answer": "04",
+          "map": "drom",
+          "explanation": "Cari de poulet est associé à La Réunion dans la fiche.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-14"
+        },
+        {
+          "type": "map",
+          "prompt": "Selon la fiche, clique sur le DROM associé à « Brèdes ».",
+          "answer": "06",
+          "map": "drom",
+          "explanation": "Brèdes est associé à Mayotte dans la fiche.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-5-15"
+        }
+      ],
+      "minimumQuestions": 15,
+      "poolNote": "Cinq territoires interrogés par leur nom, leur chef-lieu et leur spécialité : 15 entrées."
+    },
+    {
+      "title": "Les spécialités métropolitaines",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Kouign-amann",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Bretagne à Kouign-amann.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Bretagne",
+          "id": "geo-regions-6-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Camembert",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Normandie à Camembert.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Normandie",
+          "id": "geo-regions-6-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Carbonade flamande",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Hauts-de-France à Carbonade flamande.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Hauts-de-France",
+          "id": "geo-regions-6-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Choucroute",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Grand Est à Choucroute.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Grand Est",
+          "id": "geo-regions-6-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Escargots",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Bourgogne-Franche-Comté à Escargots.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Bourgogne-Franche-Comté",
+          "id": "geo-regions-6-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Tarte Tatin",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Centre-Val de Loire à Tarte Tatin.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Centre-Val de Loire",
+          "id": "geo-regions-6-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Croissant",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Île-de-France à Croissant.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Île-de-France",
+          "id": "geo-regions-6-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Rillettes du Mans",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Pays de la Loire à Rillettes du Mans.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Pays de la Loire",
+          "id": "geo-regions-6-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Canelés",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Nouvelle-Aquitaine à Canelés.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Nouvelle-Aquitaine",
+          "id": "geo-regions-6-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Tartiflette",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Auvergne-Rhône-Alpes à Tartiflette.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Auvergne-Rhône-Alpes",
+          "id": "geo-regions-6-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Cassoulet",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Occitanie à Cassoulet.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Occitanie",
+          "id": "geo-regions-6-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Bouillabaisse",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Provence-Alpes-Côte d’Azur à Bouillabaisse.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Provence-Alpes-Côte d’Azur",
+          "id": "geo-regions-6-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, quelle spécialité associe-t-on à cette région ?",
+          "answer": "Fiadone",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "La fiche associe Corse à Fiadone.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Corse",
+          "id": "geo-regions-6-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Bretagne",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Kouign-amann → Bretagne, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Kouign-amann",
+          "illustration": "food-0",
+          "id": "geo-regions-6-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Normandie",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Camembert → Normandie, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Camembert",
+          "illustration": "food-1",
+          "id": "geo-regions-6-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Hauts-de-France",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Carbonade flamande → Hauts-de-France, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Carbonade flamande",
+          "illustration": "food-2",
+          "id": "geo-regions-6-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Grand Est",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Choucroute → Grand Est, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Choucroute",
+          "illustration": "food-3",
+          "id": "geo-regions-6-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Bourgogne-Franche-Comté",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Escargots → Bourgogne-Franche-Comté, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Escargots",
+          "illustration": "food-4",
+          "id": "geo-regions-6-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Centre-Val de Loire",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Tarte Tatin → Centre-Val de Loire, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Tarte Tatin",
+          "illustration": "food-5",
+          "id": "geo-regions-6-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Île-de-France",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Croissant → Île-de-France, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Croissant",
+          "illustration": "food-6",
+          "id": "geo-regions-6-20"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Pays de la Loire",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Rillettes du Mans → Pays de la Loire, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Rillettes du Mans",
+          "illustration": "food-7",
+          "id": "geo-regions-6-21"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Nouvelle-Aquitaine",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Canelés → Nouvelle-Aquitaine, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Canelés",
+          "illustration": "food-8",
+          "id": "geo-regions-6-22"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Auvergne-Rhône-Alpes",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Tartiflette → Auvergne-Rhône-Alpes, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Tartiflette",
+          "illustration": "food-9",
+          "id": "geo-regions-6-23"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Occitanie",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Cassoulet → Occitanie, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Cassoulet",
+          "illustration": "food-10",
+          "id": "geo-regions-6-24"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Provence-Alpes-Côte d’Azur",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Bouillabaisse → Provence-Alpes-Côte d’Azur, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Bouillabaisse",
+          "illustration": "food-11",
+          "id": "geo-regions-6-25"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, à quelle région cette spécialité est-elle associée ?",
+          "answer": "Corse",
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse"
+          ],
+          "explanation": "Fiadone → Corse, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Fiadone",
+          "illustration": "food-12",
+          "id": "geo-regions-6-26"
+        },
+        {
+          "type": "choice",
+          "prompt": "Selon la fiche, « Kouign-amann est associé à Pays de la Loire ». Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La spécialité associée à Pays de la Loire est Rillettes du Mans.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-6-27"
+        },
+        {
+          "type": "choice",
+          "prompt": "Selon la fiche, « Canelés est associé à Nouvelle-Aquitaine ». Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La spécialité associée à Nouvelle-Aquitaine est Canelés.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-6-28"
+        },
+        {
+          "type": "choice",
+          "prompt": "Selon la fiche, « Carbonade flamande est associé à Auvergne-Rhône-Alpes ». Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La spécialité associée à Auvergne-Rhône-Alpes est Tartiflette.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-6-29"
+        },
+        {
+          "type": "choice",
+          "prompt": "Selon la fiche, « Cassoulet est associé à Occitanie ». Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La spécialité associée à Occitanie est Cassoulet.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-6-30"
+        }
+      ]
+    },
+    {
+      "title": "Les spécialités des DROM",
+      "questions": [
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, associe ce DROM à sa spécialité.",
+          "answer": "Dombrés",
+          "options": [
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "explanation": "La fiche associe Guadeloupe à Dombrés.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Guadeloupe",
+          "id": "geo-regions-7-01"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, associe ce DROM à sa spécialité.",
+          "answer": "Blanc-manger coco",
+          "options": [
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "explanation": "La fiche associe Martinique à Blanc-manger coco.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Martinique",
+          "id": "geo-regions-7-02"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, associe ce DROM à sa spécialité.",
+          "answer": "Matété",
+          "options": [
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "explanation": "La fiche associe Guyane française à Matété.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Guyane française",
+          "id": "geo-regions-7-03"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, associe ce DROM à sa spécialité.",
+          "answer": "Cari de poulet",
+          "options": [
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "explanation": "La fiche associe La Réunion à Cari de poulet.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "La Réunion",
+          "id": "geo-regions-7-04"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, associe ce DROM à sa spécialité.",
+          "answer": "Brèdes",
+          "options": [
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "explanation": "La fiche associe Mayotte à Brèdes.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Mayotte",
+          "id": "geo-regions-7-05"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, retrouve le DROM associé au plat.",
+          "answer": "Guadeloupe",
+          "options": [
+            "Guadeloupe",
+            "Martinique",
+            "Guyane française",
+            "La Réunion",
+            "Mayotte"
+          ],
+          "explanation": "Dombrés → Guadeloupe, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Dombrés",
+          "illustration": "food-13",
+          "id": "geo-regions-7-06"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, retrouve le DROM associé au plat.",
+          "answer": "Martinique",
+          "options": [
+            "Guadeloupe",
+            "Martinique",
+            "Guyane française",
+            "La Réunion",
+            "Mayotte"
+          ],
+          "explanation": "Blanc-manger coco → Martinique, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Blanc-manger coco",
+          "illustration": "food-14",
+          "id": "geo-regions-7-07"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, retrouve le DROM associé au plat.",
+          "answer": "Guyane française",
+          "options": [
+            "Guadeloupe",
+            "Martinique",
+            "Guyane française",
+            "La Réunion",
+            "Mayotte"
+          ],
+          "explanation": "Matété → Guyane française, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Matété",
+          "illustration": "food-15",
+          "id": "geo-regions-7-08"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, retrouve le DROM associé au plat.",
+          "answer": "La Réunion",
+          "options": [
+            "Guadeloupe",
+            "Martinique",
+            "Guyane française",
+            "La Réunion",
+            "Mayotte"
+          ],
+          "explanation": "Cari de poulet → La Réunion, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Cari de poulet",
+          "illustration": "food-16",
+          "id": "geo-regions-7-09"
+        },
+        {
+          "type": "select",
+          "prompt": "Selon la fiche, retrouve le DROM associé au plat.",
+          "answer": "Mayotte",
+          "options": [
+            "Guadeloupe",
+            "Martinique",
+            "Guyane française",
+            "La Réunion",
+            "Mayotte"
+          ],
+          "explanation": "Brèdes → Mayotte, selon la fiche.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Brèdes",
+          "illustration": "food-17",
+          "id": "geo-regions-7-10"
+        },
+        {
+          "type": "choice",
+          "prompt": "Selon la fiche, « Guadeloupe est associé à Dombrés ». Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La fiche donne Guadeloupe → Dombrés.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-7-11"
+        },
+        {
+          "type": "choice",
+          "prompt": "Selon la fiche, « Martinique est associé à Matété ». Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La fiche donne Martinique → Blanc-manger coco.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-7-12"
+        },
+        {
+          "type": "choice",
+          "prompt": "Selon la fiche, « Guyane française est associé à Matété ». Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La fiche donne Guyane française → Matété.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-7-13"
+        },
+        {
+          "type": "choice",
+          "prompt": "Selon la fiche, « La Réunion est associé à Brèdes ». Vrai ou faux ?",
+          "answer": "Faux",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La fiche donne La Réunion → Cari de poulet.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-7-14"
+        },
+        {
+          "type": "choice",
+          "prompt": "Selon la fiche, « Mayotte est associé à Brèdes ». Vrai ou faux ?",
+          "answer": "Vrai",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "explanation": "La fiche donne Mayotte → Brèdes.",
+          "hint": "Appuie-toi sur les informations précises du cours.",
+          "id": "geo-regions-7-15"
+        }
+      ],
+      "minimumQuestions": 15,
+      "poolNote": "Cinq associations de la fiche, travaillées dans les deux sens et en vrai/faux : 15 entrées."
+    },
+    {
+      "title": "Régions, villes et spécialités",
+      "questions": [
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Bretagne",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Rennes",
+            "Kouign-amann"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Bretagne → Rennes → Kouign-amann.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-01"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Normandie",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Rouen",
+            "Camembert"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Normandie → Rouen → Camembert.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-02"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Hauts-de-France",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Lille",
+            "Carbonade flamande"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Hauts-de-France → Lille → Carbonade flamande.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-03"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Grand Est",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Strasbourg",
+            "Choucroute"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Grand Est → Strasbourg → Choucroute.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-04"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Bourgogne-Franche-Comté",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Dijon",
+            "Escargots"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Bourgogne-Franche-Comté → Dijon → Escargots.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-05"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Centre-Val de Loire",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Orléans",
+            "Tarte Tatin"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Centre-Val de Loire → Orléans → Tarte Tatin.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-06"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Île-de-France",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Paris",
+            "Croissant"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Île-de-France → Paris → Croissant.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-07"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Pays de la Loire",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Nantes",
+            "Rillettes du Mans"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Pays de la Loire → Nantes → Rillettes du Mans.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-08"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Nouvelle-Aquitaine",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Bordeaux",
+            "Canelés"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Nouvelle-Aquitaine → Bordeaux → Canelés.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-09"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Auvergne-Rhône-Alpes",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Lyon",
+            "Tartiflette"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Auvergne-Rhône-Alpes → Lyon → Tartiflette.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-10"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Occitanie",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Toulouse",
+            "Cassoulet"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Occitanie → Toulouse → Cassoulet.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-11"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Provence-Alpes-Côte d’Azur",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Marseille",
+            "Bouillabaisse"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Provence-Alpes-Côte d’Azur → Marseille → Bouillabaisse.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-12"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Complète l’association région → préfecture → spécialité.",
+          "context": "Corse",
+          "parts": [
+            "Préfecture régionale",
+            "Spécialité"
+          ],
+          "answers": [
+            "Ajaccio",
+            "Fiadone"
+          ],
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Corse → Ajaccio → Fiadone.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-13"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Rennes",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Bretagne",
+            "Kouign-amann"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Rennes → Bretagne → Kouign-amann.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-14"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Rouen",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Normandie",
+            "Camembert"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Rouen → Normandie → Camembert.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-15"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Lille",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Hauts-de-France",
+            "Carbonade flamande"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Lille → Hauts-de-France → Carbonade flamande.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-16"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Strasbourg",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Grand Est",
+            "Choucroute"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Strasbourg → Grand Est → Choucroute.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-17"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Dijon",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Bourgogne-Franche-Comté",
+            "Escargots"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Dijon → Bourgogne-Franche-Comté → Escargots.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-18"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Orléans",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Centre-Val de Loire",
+            "Tarte Tatin"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Orléans → Centre-Val de Loire → Tarte Tatin.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-19"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Paris",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Île-de-France",
+            "Croissant"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Paris → Île-de-France → Croissant.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-20"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Nantes",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Pays de la Loire",
+            "Rillettes du Mans"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Nantes → Pays de la Loire → Rillettes du Mans.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-21"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Bordeaux",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Nouvelle-Aquitaine",
+            "Canelés"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Bordeaux → Nouvelle-Aquitaine → Canelés.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-22"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Lyon",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Auvergne-Rhône-Alpes",
+            "Tartiflette"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Lyon → Auvergne-Rhône-Alpes → Tartiflette.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-23"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Toulouse",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Occitanie",
+            "Cassoulet"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Toulouse → Occitanie → Cassoulet.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-24"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Marseille",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Provence-Alpes-Côte d’Azur",
+            "Bouillabaisse"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Marseille → Provence-Alpes-Côte d’Azur → Bouillabaisse.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-25"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et sa spécialité à partir de la préfecture.",
+          "context": "Ajaccio",
+          "parts": [
+            "Région",
+            "Spécialité"
+          ],
+          "answers": [
+            "Corse",
+            "Fiadone"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Kouign-amann",
+              "Camembert",
+              "Carbonade flamande",
+              "Choucroute",
+              "Escargots",
+              "Tarte Tatin",
+              "Croissant",
+              "Rillettes du Mans",
+              "Canelés",
+              "Tartiflette",
+              "Cassoulet",
+              "Bouillabaisse",
+              "Fiadone"
+            ]
+          ],
+          "explanation": "Ajaccio → Corse → Fiadone.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-8-26"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et la préfecture associées à cette spécialité.",
+          "context": "Tartiflette",
+          "parts": [
+            "Région",
+            "Préfecture régionale"
+          ],
+          "answers": [
+            "Auvergne-Rhône-Alpes",
+            "Lyon"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Tartiflette → Auvergne-Rhône-Alpes → Lyon.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "illustration": "food-9",
+          "id": "geo-regions-8-27"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et la préfecture associées à cette spécialité.",
+          "context": "Cassoulet",
+          "parts": [
+            "Région",
+            "Préfecture régionale"
+          ],
+          "answers": [
+            "Occitanie",
+            "Toulouse"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Cassoulet → Occitanie → Toulouse.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "illustration": "food-10",
+          "id": "geo-regions-8-28"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et la préfecture associées à cette spécialité.",
+          "context": "Bouillabaisse",
+          "parts": [
+            "Région",
+            "Préfecture régionale"
+          ],
+          "answers": [
+            "Provence-Alpes-Côte d’Azur",
+            "Marseille"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Bouillabaisse → Provence-Alpes-Côte d’Azur → Marseille.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "illustration": "food-11",
+          "id": "geo-regions-8-29"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Retrouve la région et la préfecture associées à cette spécialité.",
+          "context": "Fiadone",
+          "parts": [
+            "Région",
+            "Préfecture régionale"
+          ],
+          "answers": [
+            "Corse",
+            "Ajaccio"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Fiadone → Corse → Ajaccio.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "illustration": "food-12",
+          "id": "geo-regions-8-30"
+        }
+      ]
+    },
+    {
+      "title": "Bilan de géographie",
+      "questions": [
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur la carte la région dont la préfecture est Rennes.",
+          "answer": "53",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Bretagne.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-01"
+        },
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur la carte la région dont la préfecture est Rouen.",
+          "answer": "28",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Normandie.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-02"
+        },
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur la carte la région dont la préfecture est Lille.",
+          "answer": "32",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Hauts-de-France.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-03"
+        },
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur la carte la région dont la préfecture est Strasbourg.",
+          "answer": "44",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Grand Est.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-04"
+        },
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur la carte la région dont la préfecture est Dijon.",
+          "answer": "27",
+          "map": "metro",
+          "explanation": "La zone à sélectionner est Bourgogne-Franche-Comté.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-05"
+        },
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur les cartes le territoire dont le chef-lieu est Basse-Terre.",
+          "answer": "01",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est Guadeloupe.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-06"
+        },
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur les cartes le territoire dont le chef-lieu est Fort-de-France.",
+          "answer": "02",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est Martinique.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-07"
+        },
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur les cartes le territoire dont le chef-lieu est Cayenne.",
+          "answer": "03",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est Guyane française.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-08"
+        },
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur les cartes le territoire dont le chef-lieu est Saint-Denis.",
+          "answer": "04",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est La Réunion.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-09"
+        },
+        {
+          "type": "map",
+          "prompt": "Bilan : retrouve sur les cartes le territoire dont le chef-lieu est Mamoudzou.",
+          "answer": "06",
+          "map": "drom",
+          "explanation": "La zone à sélectionner est Mayotte.",
+          "hint": "Repère la forme et la position de la zone sur la carte. Tu peux agrandir la carte ou parcourir les zones au clavier.",
+          "id": "geo-regions-9-10"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle spécialité la fiche associe-t-elle à cette région ?",
+          "answer": "Tarte Tatin",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "Centre-Val de Loire → Tarte Tatin.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Centre-Val de Loire",
+          "id": "geo-regions-9-11"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle spécialité la fiche associe-t-elle à cette région ?",
+          "answer": "Croissant",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "Île-de-France → Croissant.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Île-de-France",
+          "id": "geo-regions-9-12"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle spécialité la fiche associe-t-elle à cette région ?",
+          "answer": "Rillettes du Mans",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "Pays de la Loire → Rillettes du Mans.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Pays de la Loire",
+          "id": "geo-regions-9-13"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle spécialité la fiche associe-t-elle à cette région ?",
+          "answer": "Canelés",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "Nouvelle-Aquitaine → Canelés.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Nouvelle-Aquitaine",
+          "id": "geo-regions-9-14"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle spécialité la fiche associe-t-elle à cette région ?",
+          "answer": "Tartiflette",
+          "options": [
+            "Kouign-amann",
+            "Camembert",
+            "Carbonade flamande",
+            "Choucroute",
+            "Escargots",
+            "Tarte Tatin",
+            "Croissant",
+            "Rillettes du Mans",
+            "Canelés",
+            "Tartiflette",
+            "Cassoulet",
+            "Bouillabaisse",
+            "Fiadone"
+          ],
+          "explanation": "Auvergne-Rhône-Alpes → Tartiflette.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Auvergne-Rhône-Alpes",
+          "id": "geo-regions-9-15"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "answer": "Bordeaux",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "Nouvelle-Aquitaine → Bordeaux.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Nouvelle-Aquitaine",
+          "id": "geo-regions-9-16"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "answer": "Lyon",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "Auvergne-Rhône-Alpes → Lyon.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Auvergne-Rhône-Alpes",
+          "id": "geo-regions-9-17"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "answer": "Toulouse",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "Occitanie → Toulouse.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Occitanie",
+          "id": "geo-regions-9-18"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "answer": "Marseille",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "Provence-Alpes-Côte d’Azur → Marseille.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Provence-Alpes-Côte d’Azur",
+          "id": "geo-regions-9-19"
+        },
+        {
+          "type": "select",
+          "prompt": "Bilan : quelle est la préfecture régionale ?",
+          "answer": "Ajaccio",
+          "options": [
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "explanation": "Corse → Ajaccio.",
+          "hint": "Observe le contexte et les mots importants.",
+          "context": "Corse",
+          "id": "geo-regions-9-20"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : associe le territoire à son chef-lieu et au plat de la fiche.",
+          "context": "Guadeloupe",
+          "parts": [
+            "Chef-lieu",
+            "Spécialité"
+          ],
+          "answers": [
+            "Basse-Terre",
+            "Dombrés"
+          ],
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou",
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "fieldOptions": [
+            [
+              "Basse-Terre",
+              "Fort-de-France",
+              "Cayenne",
+              "Saint-Denis",
+              "Mamoudzou"
+            ],
+            [
+              "Dombrés",
+              "Blanc-manger coco",
+              "Matété",
+              "Cari de poulet",
+              "Brèdes"
+            ]
+          ],
+          "explanation": "Guadeloupe → Basse-Terre → Dombrés.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-9-21"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : associe le territoire à son chef-lieu et au plat de la fiche.",
+          "context": "Martinique",
+          "parts": [
+            "Chef-lieu",
+            "Spécialité"
+          ],
+          "answers": [
+            "Fort-de-France",
+            "Blanc-manger coco"
+          ],
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou",
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "fieldOptions": [
+            [
+              "Basse-Terre",
+              "Fort-de-France",
+              "Cayenne",
+              "Saint-Denis",
+              "Mamoudzou"
+            ],
+            [
+              "Dombrés",
+              "Blanc-manger coco",
+              "Matété",
+              "Cari de poulet",
+              "Brèdes"
+            ]
+          ],
+          "explanation": "Martinique → Fort-de-France → Blanc-manger coco.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-9-22"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : associe le territoire à son chef-lieu et au plat de la fiche.",
+          "context": "Guyane française",
+          "parts": [
+            "Chef-lieu",
+            "Spécialité"
+          ],
+          "answers": [
+            "Cayenne",
+            "Matété"
+          ],
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou",
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "fieldOptions": [
+            [
+              "Basse-Terre",
+              "Fort-de-France",
+              "Cayenne",
+              "Saint-Denis",
+              "Mamoudzou"
+            ],
+            [
+              "Dombrés",
+              "Blanc-manger coco",
+              "Matété",
+              "Cari de poulet",
+              "Brèdes"
+            ]
+          ],
+          "explanation": "Guyane française → Cayenne → Matété.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-9-23"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : associe le territoire à son chef-lieu et au plat de la fiche.",
+          "context": "La Réunion",
+          "parts": [
+            "Chef-lieu",
+            "Spécialité"
+          ],
+          "answers": [
+            "Saint-Denis",
+            "Cari de poulet"
+          ],
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou",
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "fieldOptions": [
+            [
+              "Basse-Terre",
+              "Fort-de-France",
+              "Cayenne",
+              "Saint-Denis",
+              "Mamoudzou"
+            ],
+            [
+              "Dombrés",
+              "Blanc-manger coco",
+              "Matété",
+              "Cari de poulet",
+              "Brèdes"
+            ]
+          ],
+          "explanation": "La Réunion → Saint-Denis → Cari de poulet.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-9-24"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : associe le territoire à son chef-lieu et au plat de la fiche.",
+          "context": "Mayotte",
+          "parts": [
+            "Chef-lieu",
+            "Spécialité"
+          ],
+          "answers": [
+            "Mamoudzou",
+            "Brèdes"
+          ],
+          "options": [
+            "Basse-Terre",
+            "Fort-de-France",
+            "Cayenne",
+            "Saint-Denis",
+            "Mamoudzou",
+            "Dombrés",
+            "Blanc-manger coco",
+            "Matété",
+            "Cari de poulet",
+            "Brèdes"
+          ],
+          "fieldOptions": [
+            [
+              "Basse-Terre",
+              "Fort-de-France",
+              "Cayenne",
+              "Saint-Denis",
+              "Mamoudzou"
+            ],
+            [
+              "Dombrés",
+              "Blanc-manger coco",
+              "Matété",
+              "Cari de poulet",
+              "Brèdes"
+            ]
+          ],
+          "explanation": "Mayotte → Mamoudzou → Brèdes.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "id": "geo-regions-9-25"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : complète les deux autres éléments de l’association.",
+          "context": "Kouign-amann",
+          "parts": [
+            "Région",
+            "Préfecture régionale"
+          ],
+          "answers": [
+            "Bretagne",
+            "Rennes"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Kouign-amann → Bretagne → Rennes.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "illustration": "food-0",
+          "id": "geo-regions-9-26"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : complète les deux autres éléments de l’association.",
+          "context": "Camembert",
+          "parts": [
+            "Région",
+            "Préfecture régionale"
+          ],
+          "answers": [
+            "Normandie",
+            "Rouen"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Camembert → Normandie → Rouen.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "illustration": "food-1",
+          "id": "geo-regions-9-27"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : complète les deux autres éléments de l’association.",
+          "context": "Carbonade flamande",
+          "parts": [
+            "Région",
+            "Préfecture régionale"
+          ],
+          "answers": [
+            "Hauts-de-France",
+            "Lille"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Carbonade flamande → Hauts-de-France → Lille.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "illustration": "food-2",
+          "id": "geo-regions-9-28"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : complète les deux autres éléments de l’association.",
+          "context": "Choucroute",
+          "parts": [
+            "Région",
+            "Préfecture régionale"
+          ],
+          "answers": [
+            "Grand Est",
+            "Strasbourg"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Choucroute → Grand Est → Strasbourg.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "illustration": "food-3",
+          "id": "geo-regions-9-29"
+        },
+        {
+          "type": "decompose",
+          "prompt": "Bilan : complète les deux autres éléments de l’association.",
+          "context": "Escargots",
+          "parts": [
+            "Région",
+            "Préfecture régionale"
+          ],
+          "answers": [
+            "Bourgogne-Franche-Comté",
+            "Dijon"
+          ],
+          "options": [
+            "Bretagne",
+            "Normandie",
+            "Hauts-de-France",
+            "Grand Est",
+            "Bourgogne-Franche-Comté",
+            "Centre-Val de Loire",
+            "Île-de-France",
+            "Pays de la Loire",
+            "Nouvelle-Aquitaine",
+            "Auvergne-Rhône-Alpes",
+            "Occitanie",
+            "Provence-Alpes-Côte d’Azur",
+            "Corse",
+            "Rennes",
+            "Rouen",
+            "Lille",
+            "Strasbourg",
+            "Dijon",
+            "Orléans",
+            "Paris",
+            "Nantes",
+            "Bordeaux",
+            "Lyon",
+            "Toulouse",
+            "Marseille",
+            "Ajaccio"
+          ],
+          "fieldOptions": [
+            [
+              "Bretagne",
+              "Normandie",
+              "Hauts-de-France",
+              "Grand Est",
+              "Bourgogne-Franche-Comté",
+              "Centre-Val de Loire",
+              "Île-de-France",
+              "Pays de la Loire",
+              "Nouvelle-Aquitaine",
+              "Auvergne-Rhône-Alpes",
+              "Occitanie",
+              "Provence-Alpes-Côte d’Azur",
+              "Corse"
+            ],
+            [
+              "Rennes",
+              "Rouen",
+              "Lille",
+              "Strasbourg",
+              "Dijon",
+              "Orléans",
+              "Paris",
+              "Nantes",
+              "Bordeaux",
+              "Lyon",
+              "Toulouse",
+              "Marseille",
+              "Ajaccio"
+            ]
+          ],
+          "explanation": "Escargots → Bourgogne-Franche-Comté → Dijon.",
+          "hint": "Retrouve chaque correspondance de la fiche sans confondre région, chef-lieu et spécialité.",
+          "illustration": "food-4",
+          "id": "geo-regions-9-30"
+        }
+      ]
+    }
+  ],
+  "recap": [
+    "Les associations de spécialités sont celles de la fiche étudiée ; elles ne prétendent pas être des spécialités exclusives de ces territoires.",
+    "Métropole — Bretagne : Rennes, Kouign-amann ; Normandie : Rouen, Camembert ; Hauts-de-France : Lille, Carbonade flamande ; Grand Est : Strasbourg, Choucroute ; Bourgogne-Franche-Comté : Dijon, Escargots ; Centre-Val de Loire : Orléans, Tarte Tatin ; Île-de-France : Paris, Croissant ; Pays de la Loire : Nantes, Rillettes du Mans ; Nouvelle-Aquitaine : Bordeaux, Canelés ; Auvergne-Rhône-Alpes : Lyon, Tartiflette ; Occitanie : Toulouse, Cassoulet ; Provence-Alpes-Côte d’Azur : Marseille, Bouillabaisse ; Corse : Ajaccio, Fiadone.",
+    "DROM — Guadeloupe : Basse-Terre, Dombrés ; Martinique : Fort-de-France, Blanc-manger coco ; Guyane française : Cayenne, Matété ; La Réunion : Saint-Denis, Cari de poulet ; Mayotte : Mamoudzou, Brèdes.",
+    "Attention : le chef-lieu de la Guadeloupe est Basse-Terre. Pointe-à-Pitre fait partie des grandes villes étudiées mais n’est pas ce chef-lieu.",
+    "Les cartes utilisent les contours IGN ADMIN EXPRESS COG 2026. Les repères du planisphère sont placés sur les points officiels des chefs-lieux. Les agrandissements des DROM n’ont pas tous la même échelle."
+  ]
+}
