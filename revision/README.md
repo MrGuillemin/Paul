@@ -25,3 +25,16 @@ node --test tests/*.test.cjs
 Les trois suites contrôlent les banques JSON, les variantes et distracteurs, les cartes compressées, le catalogue, les QCM dédoublonnés, les dates corrigées, les formes anglaises, les calculs et le cas Pays de la Loire/Nantes contre Centre-Val de Loire/Orléans.
 
 Les sources historiques et les précisions utiles sont accessibles dans les leçons concernées. Les valeurs 2 859 km / 32 601 km du graphique restent celles du document fourni : leur périmètre statistique n’est pas certifié. Le contenu de l’activité LearningApps appartient au service externe.
+
+
+## Extensions du 27 novembre 2026
+
+Les deux leçons existantes `Mathematiques/M4-Fractions/` et `francais/F1-Groupe-nominal/` intègrent désormais leurs nouvelles sous-parties dans la même page. Les anciens scripts de fractions, toutes les anciennes banques et les autres matières sont conservés.
+
+- Banques additionnelles : `extensions.json` dans chacun des deux dossiers (14 activités M4, 13 activités GN ; 1 195 entrées préparées).
+- `revision/engine.js` fournit maintenant `mount({root,prefix,bankURL})`, `registerType`, les tailles de session et les plans de tirage équilibrés. Les pages historiques conservent leur initialisation et leur API.
+- `revision/extensions-types.js` enregistre les contrôles exacts sur les entiers et fractions, les sélections multiples, les grilles et les rangs. Le générateur de divisions crée une banque de 60 situations à chaque nouveau tirage M11.
+- `revision/extensions.js` gère le passage entre les exercices existants et les sous-parties, sans mélanger les événements ou les identifiants des deux moteurs.
+- `revision/extensions.css` limite les compléments visuels aux nouvelles activités.
+
+Le [compte rendu détaillé](extensions-2026-11-27.md) décrit les 27 activités, la répartition des bilans et les tests. Le catalogue des pages reste inchangé : aucune nouvelle leçon indépendante n’est créée.
